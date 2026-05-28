@@ -1,0 +1,96 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-about">
+      <a href="/" class="footer-logo">
+        <img
+          src="/images/uploads/2017/11/ISOC-HONG-KONG-Logo-Dark-Core-RGB-small.png"
+          alt="Internet Society Hong Kong"
+          width="160"
+          height="53"
+        />
+      </a>
+      <p>The Internet Society Hong Kong Chapter promotes the open development, evolution, and use of the Internet for the benefit of all people throughout the world.</p>
+    </div>
+
+    <div class="footer-links">
+      <h3>Quick Links</h3>
+      <ul>
+        <li><a href="/about/">About Us</a></li>
+        <li><a href="/category/news/">News</a></li>
+        <li><a href="/category/events/">Events</a></li>
+        <li><a href="/be-our-members/">Join Us</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-links">
+      <h3>Information</h3>
+      <ul>
+        <li><a href="/disclaimer/">Disclaimer</a></li>
+        <li><a href="/privacy-policy-statement/">Privacy Policy</a></li>
+        <li><a href="/web-accessibility-conformance/">Accessibility</a></li>
+        <li><a href="/search/">Search</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>&copy; {year} Internet Society Hong Kong Chapter. All rights reserved.</p>
+      <p>Member of <a href="https://www.internetsociety.org" target="_blank" rel="noopener">Internet Society</a>.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background-color: var(--color-navy);
+    color: rgba(255,255,255,0.85);
+    margin-top: 3rem;
+  }
+
+  .footer-inner {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 3rem;
+    padding: 3rem 1.25rem;
+  }
+
+  .footer-about p {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    opacity: 0.8;
+    line-height: 1.6;
+  }
+  .footer-logo img { filter: brightness(0) invert(1); }
+
+  .footer-links h3 {
+    color: var(--color-teal);
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+  .footer-links ul { list-style: none; padding: 0; }
+  .footer-links li { margin-bottom: 0.4rem; }
+  .footer-links a { color: rgba(255,255,255,0.75); font-size: 0.9rem; }
+  .footer-links a:hover { color: var(--color-teal); text-decoration: none; }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.1);
+    padding: 1rem 0;
+    font-size: 0.8rem;
+    opacity: 0.6;
+  }
+  .footer-bottom .container { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+  .footer-bottom p { margin: 0; }
+  .footer-bottom a { color: inherit; }
+
+  @media (max-width: 768px) {
+    .footer-inner { grid-template-columns: 1fr; gap: 2rem; }
+  }
+</style>

@@ -1,0 +1,25 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  lang?: string;
+  canonicalURL?: string;
+}
+
+const props = Astro.props;
+---
+
+<BaseLayout {...props}>
+  <slot name="head" slot="head" />
+  <Header />
+  <div class="site-content">
+    <slot />
+  </div>
+  <Footer />
+</BaseLayout>

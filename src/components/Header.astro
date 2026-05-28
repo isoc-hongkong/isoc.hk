@@ -1,0 +1,147 @@
+---
+const currentPath = Astro.url.pathname;
+
+const navLinks = [
+  { href: '/about/', label: 'About' },
+  { href: '/category/news/', label: 'News' },
+  { href: '/category/events/', label: 'Events' },
+  { href: '/be-our-members/', label: 'Join Us' },
+  { href: '/contact/', label: 'Contact' },
+];
+
+function isActive(href: string) {
+  if (href === '/') return currentPath === '/';
+  return currentPath.startsWith(href);
+}
+---
+
+<header class="site-header">
+  <div class="header-bg" aria-hidden="true"></div>
+  <nav class="main-nav" aria-label="Main navigation">
+    <div class="container nav-inner">
+      <a class="nav-logo" href="/" aria-label="Internet Society Hong Kong — home">
+        <img
+          src="/images/uploads/2017/11/ISOC-HONG-KONG-Logo-Dark-Core-RGB-small.png"
+          alt="Internet Society Hong Kong"
+          width="180"
+          height="60"
+        />
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navMenu" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <ul class="nav-menu" id="navMenu" role="list">
+        {navLinks.map(({ href, label }) => (
+          <li>
+            <a
+              href={href}
+              class:list={['nav-link', { 'nav-link--active': isActive(href), 'nav-link--contact': href === '/contact/' }]}
+              aria-current={isActive(href) ? 'page' : undefined}
+            >
+              {label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.getElementById('navToggle');
+  const menu = document.getElementById('navMenu');
+  toggle?.addEventListener('click', () => {
+    const open = menu?.classList.toggle('nav-menu--open');
+    toggle.setAttribute('aria-expanded', String(open));
+  });
+</script>
+
+<style>
+  .site-header {
+    position: relative;
+    background-image: url('/images/uploads/2018/02/header-isoc.png');
+    background-size: cover;
+    background-position: center top;
+  }
+
+  .main-nav {
+    background-color: rgba(12, 46, 72, 0.85);
+    backdrop-filter: blur(4px);
+  }
+
+  .nav-inner {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    min-height: 64px;
+    flex-wrap: wrap;
+  }
+
+  .nav-logo { flex-shrink: 0; display: flex; align-items: center; }
+  .nav-logo img { height: 48px; width: auto; }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0;
+    flex: 1;
+    justify-content: flex-end;
+  }
+
+  .nav-link {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: rgba(255,255,255,0.9);
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: background-color 0.15s, color 0.15s;
+    white-space: nowrap;
+  }
+  .nav-link:hover, .nav-link--active {
+    background-color: var(--color-teal);
+    color: white;
+    text-decoration: none;
+  }
+  .nav-link--contact {
+    background-color: var(--color-navy);
+    color: white;
+  }
+  .nav-link--contact:hover { background-color: #0a2035; }
+
+  .nav-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    margin-left: auto;
+  }
+  .nav-toggle span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: white;
+    transition: transform 0.2s;
+  }
+
+  @media (max-width: 768px) {
+    .nav-toggle { display: flex; }
+    .nav-menu {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+      padding-bottom: 0.5rem;
+    }
+    .nav-menu--open { display: flex; }
+    .nav-link { padding: 0.6rem 1rem; }
+    .nav-inner { align-items: flex-start; padding-top: 0.5rem; }
+  }
+</style>

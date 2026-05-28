@@ -1,0 +1,82 @@
+---
+wpId: 372
+title: "IPv6 Awareness Survey Lucky Draw &#8211; Terms and Conditions"
+slug: "ipv6-awareness-survey-lucky-draw-terms-and-conditions"
+date: 2012-02-09
+modified: 2012-02-09
+excerpt: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the &#8220;Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong&#8221; Lucky Draw (&#8220;Lucky Draw&#8221;) is Internet Society Hong Kong (&#8220;Promoter&#8221;). Inform"
+description: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the &#8220;Survey on Awareness, Knowledge and Impacts of Internet Pr"
+categories: ["events", "ipv6"]
+tags: []
+lang: en
+---
+
+[](editor-content.html?cs=utf-8) [](editor-content.html?cs=utf-8)[**Lucky Draw Terms and Conditions**](http://www.cathaypacific.com/cpa/en_HK/offerspromotions/offerslanding?refID=3416430269b80310VgnVCM62000007d21c39____&priority=2&cm_mmc=CXPECIALS-HK-_-TQDRAW-21JUL11-_-CXLP-_-HS#showtc)**Lucky Draw Terms and Conditions** The Promoter and Operator of the "Survey on Awareness, Knowledge and  
+Impacts of Internet Protocol (IP) Address in Hong Kong" Lucky Draw ("Lucky Draw") is Internet Society Hong Kong ("Promoter"). Information on how to participate in this Lucky Draw forms part of these Terms and Conditions. The following Terms and Conditions constitute an agreement between the participants of the Lucky Draw ("Entrants") and the Promoter:
+          1. All Entrants warrant that they have read these Terms and Conditions carefully. By entering the Lucky Draw, Entrants signal their complete acceptance and full understanding of these Terms and Conditions.
+          2. In the event of any dispute regarding the Terms and Conditions, conduct, results, and all other matters relating to the Lucky Draw, the decision of the Promoters shall be final and no correspondence or discussion shall be entered into. **Qualified Entrants**
+          3. To qualify to enter the Lucky Draw, the Entrant must be at least 18 years of age, a Hong Kong resident holding a valid Hong Kong Identity Card, and able to provide a valid email address, the first letter and first four digits of their HKID.
+          4. Employees of the Promoter, its' subsidiaries, or any advertising and PR agency or web company of the Promoter or its' subsidiary or associated companies, agents or members of their families or households, are not eligible to enter the Lucky Draw. The Promoters reserve the right to verify the eligibility of all Entrants.
+          5. By entering the Lucky Draw, the Entrant hereby warrants that all information submitted is true, current and complete.
+          6. The Promoter reserve the right to disqualify any Entrant if:(a) The Promoter have reasonable grounds to believe the Entrant has breached any of these Terms and Conditions. (b) The information provided is not in accordance with these Terms and Conditions.  
+
+**Completing the Survey**
+          1. The promotion period of the Lucky Draw will begin on 22 Fe[](editor-content.html?cs=utf-8)bruary 2012 and end at midnight on 7 March 2012.
+          2. Qualified Entrants are those who have responded to the "Survey on Awareness, Knowledge and Impacts of Internet Protocol  
+(IP) Address in Hong Kong"at a website (http://cityucb.qualtrics.com/SE/?SID=SV_29pO1SOAbjTzT9O) during the promotion period.
+          3. Once the survey is successfully completed, Entrants are required to fill in their personal particulars, including family surname, HKID (first letter and first 4 digits), and email address.
+          4. Qualified Entrants that have successfully completed the survey will be entered into the Lucky Draw. Each qualifying survey is valid for one entry. Entrants cannot use multiple email accounts to respond to the survey; duplicated respondents details will result in disqualification.
+**** **Lucky Draw Information, Results Announcement and Prizes**  
+
+          5. The Lucky Draw will take place on 8 March 2012 at Internet Society Hong Kong, Unit G, 10/F, Lladro Center, 72 Hoi Yuen Road, Kwun Tong, Hong Kong.
+          6. The Lucky Draw results will be announced in The Standard and Sing Tao Daily newspapers on 16March 2012.
+          7. There are a total of two (2) Lucky Draw prizes, with one winner per prize ("Prize Winners"). The Prize Winners will be notified  
+individually by email on or about 8 March 2012.
+          8. Prize Winnerswill receive one of the following prizes:**Grand Prize (****two):********iPad2 16GB****WiFi**
+          9. Upon receiving the winner notification email, all Prize Winners should contact the Promoter for the prize redemption  
+directly by email or phone on or before 30 March 2012.
+          10. Failure to claim the prizes within the specified period or in this specified manner may result in disqualification, with no selection of alternative winners.
+          11. Prizes are non-transferable, non-exchangeable, non-replaceable, and there is no cash alternative.
+          12. The Promoter reserve the right to request written proof of residency and the age of any winner before any prize is awarded.
+          13. All Entrants agree to be bound by the Terms and Conditions posted on the Promoter's website. In case of any discrepancy between the English version and the Chinese version of these Terms and Conditions, the English version shall prevail.
+          14. **Liability**
+          15. Neither the Promoter nor any of its' directors, employees, agents or suppliers shall accept any responsibility for any  
+damage, loss, injury or disappointment suffered by any Entrant entering the Lucky Draw or as a result of accepting any prize. The Promoters are not responsible for any event of force majeure; any problems or technical malfunctions of any telephone network or lines, computer online systems, servers, providers or computer equipment; any software failure of any email system or any entry failing to be received due to technical problems or traffic congestion on the Internet, telephone lines or on any web site; or any combination thereof, including any injury or damage to the  
+Entrant's or any other person's computer related to or resulting from participating or downloading any materials in the Lucky Draw.
+          16. By entering the Lucky Draw, Entrants agree that no claim shall be asserted against the Promoter, its' subsidiaries, affiliates, directors, officers, employees or agents relating to any and all losses or injuries (including special, indirect and consequential losses), damages, rights, claims and actions of any kind resulting from acceptance or use of any  
+prize, including, without limitation, personal injuries, death and property damage.
+          17. **Governing Law**
+          18. The Lucky Draw Terms and Conditions shall be governed in all respects by the laws of the Hong Kong SAR.
+          19. Each Entrant is fully responsible for ensuring that his/her participation in the Lucky Draw is lawful in accordance with the laws of the Hong Kong SAR. Neither the Promoters nor their servants or agents shall be taken to make any representations, express or implied, as to the lawfulness of any Entrant's participation.
+Trade Promotion Competition License Number: 037887 [**Return to Survey**](http://cityucb.asia.qualtrics.com/SE/?SID=SV_29pO1SOAbjTzT9O)  
+
+* * *
+
+**抽獎之細則及條款** 「香港互聯網規約（IP）地址的意識、認知及影響調查」抽獎之主辦機構和主辨單位為香港互聯網協會（以下簡稱為「主辨單位」）。 抽獎之細則及條款包括參加本次抽獎之方法及詳情。 下列之此抽獎活動之細則及條款將會構成問卷完成者（以下簡稱為「參加者」）與主辨單位之間的協議。
+          1. 每位參加者在決定參加是次活動之前，應細閱以下各部分之所有條款。參加者參加是次活動，將被視作同意遵守有關之細則及條款。
+          2. 當就參加條款及細則、參加行為、活動結果及其他與活動有關事務存有任何爭議時，主辨單位保留最終裁決之權利，並無需預先知會或進行討論。**參加資格**
+          3. 所有參加者必須年滿18歲，為香港特別行政區居民，持有效香港居民身份證，並能夠提供有效電郵地址、香港居民身份證號碼首個英文字母及首4位數字，方合資格參加是次活動。
+          4. 主辨單位及其子公司之員工、其委託的廣告、公關代理及網站公司；及上述公司的子公司或夥伴公司的董事、股東、合夥人、員工、代理人、以及上述所有人士的直系家屬均不得參加是次活動。主辨單位有權要求查證參加者是否符合參加資格。
+          5. 參加者須保證所提供的所有登記資料均絕對真實、準確及完整。
+          6. 於下列情況之下，參加者將會被取消資格：(a)主辨單位有理由相信參加者違反有關參加細則及條款。 (b根據此細則及條款內容，參加者所提供的並不是有效資料。 [](editor-content.html?cs=utf-8) **完成調查問卷**
+          1. 是次活動推廣期由2012年2月22日開始至2012年3月7日午夜止。
+          2. 合資格的參加者須於指定之活動期間內，於網站: http://cityucb.qualtrics.com/SE/?SID=SV_29pO1SOAbjTzT9O完成「香港互聯網規約（IP）地址的意識、認知及影響調查」問卷後，即有機會參加抽獎。
+          3. 參加者需填寫個人資料，包括姓氏、香港居民身份證號碼首個英文字母，首4個數字及電郵地址。
+          4. 已完整填妥問卷的合資格參加者將可參加抽獎。每份完成的調查問卷只可登記一次。參加不可以多個不同的電郵地址填寫問卷。如重複登記，參加者將會被取消資格。
+**抽獎****詳情、****結果****公布****及獎品** 5.  
+抽獎於2012年3月8日假香港互聯網協會，香港觀塘開源道72號溢財中心10樓G室舉行。
+          6. 中獎名單將於2012年3月16日於星島日報及英文虎報刊登公佈。
+          7. 是次活動將抽出兩名得獎者（「得獎者」）。主辨單位將於2012年3月8日或該段期間以個別電郵通知各得獎者。
+          8. 下列為參加者有機會贏取之獎品：
+**獎品****(****兩名****): Apple iPad 2  
+16GB****WiFi**
+          9. 所有得獎者收到電郵通知後，須於2012年3月30日或之前，透過電郵或電話方式聯絡主辨單位。
+          10. 如未能於指定日期前領取獎品，得獎資格將被取消，主辨單位將不會重選得獎者。
+          11. 獎品不可轉讓、不可更換、不可以其他任何形式兌換，亦不可以兌換現金。
+          12. 主辨單位保留在送出獎品前要求任何得獎者提供有關居留地、年齡、身份證明等書面證明之權利。
+          13. 所有參加者必須同意及遵守於主辨單位之網站中列明之細則及條款。如英文本與中文譯本文義有異，一概以英文本為準。**責任**
+          14. 抽獎之獎品質素由主辨單位負責。主辨單位及其董事、職員、代理人、供應商對任何參加者因參加或得獎造成的損失、傷病或不滿，均不承擔任何責任。主辨單位將不會對以下情況負責：電話網絡或線路、電腦網絡系統、伺服器、供應商、電腦設備的任何問題或技術故障，任何電子郵件軟件故障，參加紀錄被存入於有技術故障之資料庫，網絡、電話線路或任何網站堵塞，或因參加或下載活動有關資料而造成參加者或他人電腦或其他電子儀器的毀損。
+          15. 參加者同意不就因接受或使用任何獎品而造成的任何損失（包括特殊、間接及連帶損失）而向主辨單位、其母公司、子公司、夥伴公司、董事、職員或代理人提出訴訟或尋求賠償。這些損失包括但不僅限於個人傷病、死亡或財物損失。**法律聲明**
+          16. 是次活動及有關的參加細則及條款，於任何情況下均受到香港法例之監管。
+          17. 每位參加者均有責任確保其參與是次活動乃符合香港特別行政區政府的法律。若參加者就參與是次活動而違反任何法律，主辨單位及其代理商均無需負上責任。
+推廣生意競賽牌照號碼︰037887 **[回到問卷](http://cityucb.asia.qualtrics.com/SE/?SID=SV_29pO1SOAbjTzT9O)**

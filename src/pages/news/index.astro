@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+
+const allPosts = await getCollection('news', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+function formatDate(d: Date) {
+  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+---
+
+<PageLayout title="News" description="Latest news and updates from Internet Society Hong Kong.">
+  <div class="page-banner">
+    <div class="container">
+      <h1>News</h1>
+      <div class="breadcrumb"><a href="/">Home</a> / News</div>
+    </div>
+  </div>
+
+  <div class="container" style="padding-bottom: 3rem;">
+    <div class="post-grid">
+      {posts.map((post) => (
+        <article class="post-card">
+          {post.data.featuredImage && (
+            <div class="post-card__image">
+              <img src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+            </div>
+          )}
+          <div class="post-card__body">
+            <div class="post-card__meta">{formatDate(post.data.date)}</div>
+            <h2 class="post-card__title">
+              <a href={`/news/${post.data.slug}/`}>{post.data.title}</a>
+            </h2>
+            {post.data.excerpt && (
+              <p class="post-card__excerpt">{post.data.excerpt.slice(0, 120)}{post.data.excerpt.length > 120 ? '…' : ''}</p>
+            )}
+            <div class="post-card__cats">
+              {post.data.categories.slice(0, 2).map(cat => (
+                <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+              ))}
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</PageLayout>

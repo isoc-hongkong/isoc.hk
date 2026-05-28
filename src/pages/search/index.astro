@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+---
+
+<PageLayout title="Search" description="Search Internet Society Hong Kong">
+  <div class="page-banner">
+    <div class="container">
+      <h1>Search</h1>
+      <div class="breadcrumb"><a href="/">Home</a> / Search</div>
+    </div>
+  </div>
+
+  <div class="container search-page">
+    <div id="search"></div>
+  </div>
+</PageLayout>
+
+<!-- Pagefind UI — loaded at runtime after build populates /pagefind/ -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" is:inline />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function() {
+    new PagefindUI({ element: '#search', showSubResults: true });
+  });
+</script>
+
+<style>
+  .search-page {
+    padding: 2rem 1.25rem 4rem;
+    max-width: 800px;
+  }
+</style>

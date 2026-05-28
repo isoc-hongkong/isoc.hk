@@ -1,0 +1,46 @@
+---
+import { getCollection, render } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((page) => ({
+    params: { slug: page.data.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<PageLayout
+  title={page.data.title}
+  description={page.data.description}
+  lang={page.data.lang === 'zh-Hant' ? 'zh-Hant' : 'en'}
+>
+  <div class="page-banner">
+    <div class="container">
+      <h1>{page.data.title}</h1>
+      <div class="breadcrumb">
+        {page.data.parent
+          ? <><a href="/">Home</a> / <a href={`/${page.data.parent}/`}>{page.data.parent.replace(/-/g, ' ')}</a> / {page.data.title}</>
+          : <><a href="/">Home</a> / {page.data.title}</>
+        }
+      </div>
+    </div>
+  </div>
+
+  <div class="container page-content">
+    <div class="prose">
+      <Content />
+    </div>
+  </div>
+</PageLayout>
+
+<style>
+  .page-content {
+    padding: 2rem 1.25rem 3rem;
+    max-width: 860px;
+  }
+</style>

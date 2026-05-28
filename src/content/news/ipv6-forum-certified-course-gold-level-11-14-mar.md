@@ -1,0 +1,22 @@
+---
+wpId: 3352
+title: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar)"
+slug: "ipv6-forum-certified-course-gold-level-11-14-mar"
+date: 2014-02-06
+modified: 2014-02-06
+excerpt: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar) Introduction Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services. &nbsp; This IPv6 Forum Certified Cour"
+description: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar) Introduction Major Internet service providers (ISPs), home networking equipment manufacturers, and web comp"
+categories: ["ipv6"]
+tags: []
+lang: en
+---
+
+[![Banner - IPv6 Forum Certificate](/images/uploads/2014/02/Banner-IPv6-Forum-Cert20.jpg)](/images/uploads/2014/02/Banner-IPv6-Forum-Cert20.jpg)  
+---  
+IPv6 Forum Certified Course (Gold Level) (11-14 Mar)  
+**Introduction** Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services.   This IPv6 Forum Certified Course (Gold Level) is recognized and certified by IPv6 Forum. This course is jointly hosted by Internet Society Hong Kong and IPv6 Now. Training will be delivered in classroom format with hands-on exercises. It features the content of real-world IPv6 concepts and deployment techniques. Instructor will explain and demonstrate the functions and share real examples through an interactive approach.   Participants who pass the examination will be qualified for the certificate award.    | Date: | 11-14 Mar, 2014  
+---|---  
+Time: | 9:30am - 5pm  
+**Who Should Attend** * Network / System Engineers, IT / Product / Operation Managers,?System Administrators * Those who would like to obtain IPv6 qualification   **Medium of Instruction** Cantonese (English terms will be used where appropriate)   **Duration** 4 Days   [![People - Sang Young](/images/uploads/2014/02/People-Sang-Young.jpg)](/images/uploads/2014/02/People-Sang-Young.jpg) |  **Speakers** Sang Young Head of IPv6 Training Team, Internet Society Hong?Kong    Mr. Young has been active in the area of Information?Technology for over 18 years and has an abundance of?experience handling many projects relating to IP?Addresses and specifically IPv6.?He is achieved the IPv6 Certification (Level Sage) of Hurricane Electric?and?has obtained many other certifications over the years.?CWNA, ISO/IEC 2000 Auditor?Certificate, ITIL v3 Foundation, IPv6?Certification-Level Sage (Hurricane?Electric), FCNSP/FCNSA, CIFI, Astaro Certified?Engineer, CHFI, CEH, CISA, CISSP.  
+---|---  
+  **Course Content** The IPv6 Forum Certified Courses includes:   * IPv6 Address Representation? * IPv6 Address Architecture? * IPv6 Packet Format? * Multicast? * Auto configuration? * DHCPv6? * Domain Name System? * Routing IPv6 and Mobile IPv6 * Trialing IPv6 in a IPv4 Only Network * Looking at the IPv6 Internet? * Transition Techniques? * Telecommunications Carrier Deployment? * IPv6 Applications and Deployment * IPv6 Quality-of-Service Capabilities? * Security, Privacy and Authentication? * IPv6 Network Management * Class Review   **Course Fee** HK$12,000 / HK$9,800* *(for participants who enroll on or before 3 Mar 2014 / 3 or more enrolments from the same company / member or staff of organizer and co-organizer)   **Award of Certificates** Participants who have attained at least 80% attendance will be awarded a certificate of attendance issued by Hong Kong Productivity Council.   For those who have attained at least 80% attendance and passed the examinations during the course, a certificate of IPv6 Forum Certified Engineer will be awarded which will be issued by Internet Society Hong Kong and IPv6 Now.   **Application** To enrol, please complete the attached enrolment form and send it together with the appropriate fee to IT & Business Management Division (IBD), Hong Kong Productivity Council, 2/F, HKPC Building, 78 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong. Attention: Emerging Technology Unit.   [All cheques should be crossed and made payable to the Hong Kong Productivity Council.]    **Venue** Hong Kong Productivity Council, 1/F, HKPC Building, 78 Tat Chee Avenue, Kowloon Tong, Kowloon, Hong Kong. (Kowloon Tong MTR Station Exit C)   **Enquiries** Please call Ms. Kwok at (852) 2788-6271, Ms. Lo at (852) 2788-6266, fax (852) 2190-9774 or email: fannie@hkpc.org Website: http://www.hktrainingonline.com

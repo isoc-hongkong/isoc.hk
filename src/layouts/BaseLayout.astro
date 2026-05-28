@@ -1,0 +1,61 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  lang?: string;
+  canonicalURL?: string;
+}
+
+const {
+  title,
+  description = 'Internet Society Hong Kong Chapter — promoting the open development and use of the Internet.',
+  image,
+  lang = 'zh-Hant',
+  canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
+} = Astro.props;
+
+const siteName = 'Internet Society Hong Kong';
+const fullTitle = title ? `${title} | ${siteName}` : siteName;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#40B2A4" />
+
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content={siteName} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  {image && <meta property="og:image" content={image} />}
+  <meta property="og:url" content={canonicalURL} />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+  {image && <meta name="twitter:image" content={image} />}
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/ui/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/ui/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="57x57" href="/images/ui/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/ui/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/ui/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/images/ui/apple-touch-icon-144x144.png" />
+
+  <slot name="head" />
+</head>
+<body>
+  <slot />
+</body>
+</html>

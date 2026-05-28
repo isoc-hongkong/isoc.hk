@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /wp-json/
+
+Sitemap: https://www.isoc.hk/sitemap-index.xml

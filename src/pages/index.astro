@@ -1,0 +1,105 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+
+const allPosts = await getCollection('news', ({ data }) => !data.draft);
+const recentPosts = allPosts
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 12);
+
+function formatDate(d: Date) {
+  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+---
+
+<PageLayout title="" lang="zh-Hant">
+  <main>
+    <div class="hero container">
+      <h1 class="hero-title">Internet Society Hong Kong</h1>
+      <p class="hero-subtitle">Promoting the open development, evolution, and use of the Internet for everyone in Hong Kong and beyond.</p>
+      <div class="hero-actions">
+        <a href="/about/" class="btn btn--primary">About Us</a>
+        <a href="/be-our-members/" class="btn btn--outline">Join Us</a>
+      </div>
+    </div>
+
+    <div class="container posts-section">
+      <h2 class="section-title">Latest Updates</h2>
+      <div class="post-grid">
+        {recentPosts.map((post) => (
+          <article class="post-card">
+            {post.data.featuredImage && (
+              <div class="post-card__image">
+                <img src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+              </div>
+            )}
+            <div class="post-card__body">
+              <div class="post-card__meta">{formatDate(post.data.date)}</div>
+              <h3 class="post-card__title">
+                <a href={`/news/${post.data.slug}/`}>{post.data.title}</a>
+              </h3>
+              {post.data.excerpt && (
+                <p class="post-card__excerpt">{post.data.excerpt.slice(0, 120)}{post.data.excerpt.length > 120 ? '…' : ''}</p>
+              )}
+              <div class="post-card__cats">
+                {post.data.categories.slice(0, 2).map(cat => (
+                  <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+                ))}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+      <div class="posts-more">
+        <a href="/category/news/" class="btn btn--primary">All News</a>
+        <a href="/category/events/" class="btn btn--outline">All Events</a>
+      </div>
+    </div>
+  </main>
+</PageLayout>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: 3rem 1.25rem;
+  }
+  .hero-title {
+    font-size: 2.4rem;
+    color: var(--color-navy);
+    margin-bottom: 0.75rem;
+  }
+  .hero-subtitle {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+  }
+  .hero-actions { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+  .btn {
+    display: inline-block;
+    padding: 0.65rem 1.5rem;
+    border-radius: var(--radius);
+    font-size: 0.95rem;
+    font-weight: 600;
+    transition: background-color 0.15s;
+    text-decoration: none;
+  }
+  .btn--primary { background: var(--color-teal); color: white; }
+  .btn--primary:hover { background: var(--color-teal-dark); text-decoration: none; }
+  .btn--outline { border: 2px solid var(--color-navy); color: var(--color-navy); }
+  .btn--outline:hover { background: var(--color-navy); color: white; text-decoration: none; }
+
+  .posts-section { padding-bottom: 3rem; }
+
+  .section-title {
+    font-size: 1.4rem;
+    color: var(--color-navy);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--color-teal);
+    display: inline-block;
+  }
+
+  .posts-more { text-align: center; margin-top: 2rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+</style>

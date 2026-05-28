@@ -1,0 +1,18 @@
+---
+wpId: 226
+title: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO)"
+slug: "online-brand-and-presence-development-new-top-level-domains-tld-internationalized-domain-names-idn-search-engine-optimization-seo"
+date: 2012-07-05
+modified: 2012-07-05
+excerpt: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO) There are about 200 million domain names registered worldwide, with close to 50% registered under the &#8220;.com&#8221; TLD (&#8220;top-level domain&#8221;"
+description: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO) There are about "
+categories: ["domain-names", "events"]
+tags: []
+lang: en
+---
+
+---  
+![Banner - Online Brand and Presence Development](/images/uploads/2013/01/Banner-R120706EH.jpg)  
+**Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) & Search Engine Optimization (SEO) **  
+There are about 200 million domain names registered worldwide, with close to 50% registered under the ".com" TLD ("top-level domain"). After over a decade of international multi-stakeholder debate, the Internet landscape may be seeing a significant shift. The Internet's domain name system ("DNS") was once a website's directory and address namespace. However, domain names have grown beyond a navigational command line on the Internet. The presentation will discuss the development of domain name usage, especially the utilization of strategic portfolio of domains, and brand and presence development online, especially how it relates to Search Engine Optimization ("SEO") and Search Engine Marketing ("SEM"). It will also contemplate the impact of the imminent introduction of new TLDs and the potential of internationalized domain names ("IDNs"), and how the Asian market may significantly be changed in the future as it catches up with the US and European domain industry. In this seminar, you will learn about the future online marketing trends on how to create a positive user experience for your customers, enhance your corporate brands and prevalence of your product / service marks online, and target your customers utilizing a strategic TLD portfolio. Mr Edmon Chung is the CEO of DotAsia Organisation Limited and Vice Chair of Internet Society Hong Kong. He is also an elected member of the ICANN ALAC ("Atl-Large Advisory Committee"). He is currently the Co-Chair of the ICANN Joint ccNSO/GNSO IDN Working Group ("JIG") and the Internationalized Registration Data Working Group ("IRD-WG"). Mr Chung is an inventor of patented underlying technologies for IDNs and email addresses on the Internet. He has served on a number of global IDN-related committees, including technical and policy groups, which advocate the introduction of multilingual domain names and email addresses on the Internet.   Register:[Click here](https://docs.google.com/spreadsheet/viewform?formkey=dElyeldHOHROUllDSXVHdjRiTHQ3SUE6MQ) **Date:** 6 July, 2012 (Fri) **Time:** 12:30 - 14:00 **Venue:** HKGCC Theatre, 22/F, United Centre, 95 Queensway Road, Admiralty **Fee:** ISOC HK Member $160 _(Seat confirmation will be provided after payment. HKGCC personnel will contact you for payment methods)_ For more information, please contact: Betty Law Tel: 28231293 / Fax: 25279843 Email: [betty@chamber.org.hk ](mailto:betty@chamber.org.hk)  
+![Host - HKGCC, Co-organizer - ISOC HK](/images/uploads/2013/01/Image-OnlineBrandLogos.jpg)
