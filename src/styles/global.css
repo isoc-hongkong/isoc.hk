@@ -1,6 +1,7 @@
 :root {
-  --color-teal: #40B2A4;
-  --color-teal-dark: #2e8f83;
+  --color-teal: #0d6b62;
+  --color-teal-dark: #094a44;
+  --color-teal-light: #40B2A4;
   --color-navy: #0c2e48;
   --color-bg: #e9e6df;
   --color-surface: #efedf8;
@@ -58,7 +59,8 @@ ul, ol { padding-left: 1.5rem; margin-bottom: 1rem; }
   border-radius: var(--radius);
   margin: 1.5rem 0;
 }
-.prose a { color: var(--color-teal); }
+.prose a { color: var(--color-teal); text-decoration: underline; }
+.contact-info a { color: var(--color-teal); text-decoration: underline; }
 .prose blockquote {
   border-left: 4px solid var(--color-teal);
   padding: 0.5rem 1rem;
