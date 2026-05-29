@@ -4,7 +4,7 @@ title: "HK Got Talent: How to Build your Successful Startup? (17 Jun)"
 slug: "hk-got-talent-how-to-build-your-successful-startup-17-jun"
 date: 2014-06-06
 modified: 2014-06-06
-excerpt: "HK Got Talent: How to Build your Successful Startup? (17 Jun) Google Buys an Enterprise Android Company, Divide (Formerly Known as Enterproid) recently. NetDragon Buys Cherrypicks&#8217; mobile business for HK$236.5 million a few days ago. These are really exciting news for startups in Hong Kong. It"
+excerpt: "HK Got Talent: How to Build your Successful Startup? (17 Jun) Google Buys an Enterprise Android Company, Divide (Formerly Known as Enterproid) recently. NetDragon Buys Cherrypicks’ mobile business for HK$236.5 million a few days ago. These are really exciting news for startups in Hong Kong. It"
 description: "HK Got Talent: How to Build your Successful Startup? (17 Jun) Google Buys an Enterprise Android Company, Divide (Formerly Known as Enterproid) recently. NetDrag"
 categories: ["events", "startup"]
 tags: []

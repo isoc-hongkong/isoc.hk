@@ -1,11 +1,11 @@
 ---
 wpId: 3862
-title: "Defending Against Large Scale Attack &#8211; HK Case (16 Aug 2014)"
+title: "Defending Against Large Scale Attack – HK Case (16 Aug 2014)"
 slug: "defending-against-large-scale-attack-hk-case-16-aug-2014"
 date: 2014-08-13
 modified: 2014-08-13
-excerpt: "&nbsp; Defending Against Large Scale Attack &#8211; Hong Kong Case (16 Aug, this Sat)  &#8211; by Matthew Prince, Co-founder and CEO, Cloudflare Date:  16 Aug 2014 (this Sat) Time: 11am Venue: ST111,（Tower S) The Hong Kong Polytechnic University Entry fee: Free of charge  (Priority will be given to "
-description: "&nbsp; Defending Against Large Scale Attack &#8211; Hong Kong Case (16 Aug, this Sat)  &#8211; by Matthew Prince, Co-founder and CEO, Cloudflare Date:  16 Aug 2"
+excerpt: "Defending Against Large Scale Attack – Hong Kong Case (16 Aug, this Sat)  – by Matthew Prince, Co-founder and CEO, Cloudflare Date:  16 Aug 2014 (this Sat) Time: 11am Venue: ST111,（Tower S) The Hong Kong Polytechnic University Entry fee: Free of charge  (Priority will be given to "
+description: "Defending Against Large Scale Attack – Hong Kong Case (16 Aug, this Sat)  – by Matthew Prince, Co-founder and CEO, Cloudflare Date:  16 Aug 2"
 categories: ["events", "internet-security-privacy", "news", "spotlight"]
 tags: ["cloudflare", "ddos-attack", "large-scale-attack"]
 lang: en

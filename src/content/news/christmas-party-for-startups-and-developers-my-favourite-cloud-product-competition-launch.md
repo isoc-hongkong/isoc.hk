@@ -1,11 +1,11 @@
 ---
 wpId: 3147
-title: "Christmas Party for Startups and Developers + &quot;My Favourite Cloud Product&quot; Competition Launch (19 Dec)"
+title: 'Christmas Party for Startups and Developers + "My Favourite Cloud Product" Competition Launch (19 Dec)'
 slug: "christmas-party-for-startups-and-developers-my-favourite-cloud-product-competition-launch"
 date: 2013-12-10
 modified: 2013-12-10
-excerpt: "Christmas Party for Startups and Developers + &#8220;My Favourite Cloud Product&#8221; Competition Launch (19 Dec) Its party time for startups and developers! And we have some good news to share with you. Don&#8217;t miss the great prizes! Date: 19 Dec 2013 (Thu) Time: 7.15 &#8211; 10pm Venue: WYND,"
-description: "Christmas Party for Startups and Developers + &#8220;My Favourite Cloud Product&#8221; Competition Launch (19 Dec) Its party time for startups and developers! A"
+excerpt: "Christmas Party for Startups and Developers + “My Favourite Cloud Product” Competition Launch (19 Dec) Its party time for startups and developers! And we have some good news to share with you. Don’t miss the great prizes! Date: 19 Dec 2013 (Thu) Time: 7.15 – 10pm Venue: WYND,"
+description: "Christmas Party for Startups and Developers + “My Favourite Cloud Product” Competition Launch (19 Dec) Its party time for startups and developers! A"
 categories: ["application-development", "events", "startup"]
 tags: []
 lang: en

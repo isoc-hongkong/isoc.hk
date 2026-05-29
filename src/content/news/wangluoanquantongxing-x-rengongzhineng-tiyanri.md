@@ -5,8 +5,8 @@ slug: "wangluoanquantongxing-x-rengongzhineng-tiyanri"
 originalSlug: "%e3%80%8e%e7%b6%b2%e7%b5%a1%e5%ae%89%e5%85%a8%e5%90%8c%e8%a1%8c-x-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e3%80%8f%e9%ab%94%e9%a9%97%e6%97%a5"
 date: 2025-09-30
 modified: 2025-10-03
-excerpt: "&#8216;CyberSafe For All x AI&#8217; Discovery Fun Day 『網絡安全同行&nbsp;x 人工智能』體驗日 日期：2025 年 10 月 25 日（星期六） 時間：下午 2:00 &#8211; 5:00&nbsp; 地點：灣仔皇后大道東183號 合和商場 3樓中庭 語言：廣東話及設手語翻譯 ** 免費參加 ** 活動旨在提升市民整體網絡安全意識，將聚焦於人工智能 (AI) 所帶來的威脅及與日俱增的網絡安全風險，特設講座及人工智能示範攤位，講解日益嚴峻的網絡危機、展示人工智能如何被濫用以製造詐騙，並提供實用技巧與可行建議，協助個人用戶如何加強自"
-description: "&#8216;CyberSafe For All x AI&#8217; Discovery Fun Day 『網絡安全同行&nbsp;x 人工智能』體驗日 日期：2025 年 10 月 25 日（星期六） 時間：下午 2:00 &#8211; 5:00&nbsp; 地點：灣仔皇后大道東183號 合和商場 3樓中庭 語"
+excerpt: "‘CyberSafe For All x AI’ Discovery Fun Day 『網絡安全同行 x 人工智能』體驗日 日期：2025 年 10 月 25 日（星期六） 時間：下午 2:00 – 5:00  地點：灣仔皇后大道東183號 合和商場 3樓中庭 語言：廣東話及設手語翻譯 ** 免費參加 ** 活動旨在提升市民整體網絡安全意識，將聚焦於人工智能 (AI) 所帶來的威脅及與日俱增的網絡安全風險，特設講座及人工智能示範攤位，講解日益嚴峻的網絡危機、展示人工智能如何被濫用以製造詐騙，並提供實用技巧與可行建議，協助個人用戶如何加強自"
+description: "‘CyberSafe For All x AI’ Discovery Fun Day 『網絡安全同行 x 人工智能』體驗日 日期：2025 年 10 月 25 日（星期六） 時間：下午 2:00 – 5:00  地點：灣仔皇后大道東183號 合和商場 3樓中庭 語"
 categories: ["news"]
 tags: []
 lang: mixed

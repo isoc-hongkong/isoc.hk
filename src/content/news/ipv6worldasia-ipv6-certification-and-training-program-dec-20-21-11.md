@@ -1,6 +1,6 @@
 ---
 wpId: 410
-title: "IPv6World:Asia &#8211; IPv6 Certification and Training Program (Dec 20-21, 11)"
+title: "IPv6World:Asia – IPv6 Certification and Training Program (Dec 20-21, 11)"
 slug: "ipv6worldasia-ipv6-certification-and-training-program-dec-20-21-11"
 date: 2011-12-20
 modified: 2011-12-20

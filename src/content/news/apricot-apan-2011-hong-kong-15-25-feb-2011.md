@@ -1,6 +1,6 @@
 ---
 wpId: 608
-title: "APRICOT-APAN 2011, Hong Kong &#8211; 15 &#8211; 25 Feb 2011"
+title: "APRICOT-APAN 2011, Hong Kong – 15 – 25 Feb 2011"
 slug: "apricot-apan-2011-hong-kong-15-25-feb-2011"
 date: 2011-02-20
 modified: 2011-02-20

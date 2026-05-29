@@ -4,8 +4,8 @@ title: "World IPv6 Day x IPv6World:Asia (8 Jun 11)"
 slug: "world-ipv6-day-x-ipv6worldasia-8-jun-11"
 date: 2011-06-08
 modified: 2011-06-08
-excerpt: "&nbsp; What is &#8220;World IPv6 Day&#8221; (8 Jun 2011)?  8 June, 2011 is dubbed &#8220;World IPv6 Day&#8221; as on that day, Facebook (www.facebook.com), Google(www.google.com; www.youtube.com) and Yahoo(www.yahoo.com), websites with more than one billion combined visits each day, are joining majo"
-description: "&nbsp; What is &#8220;World IPv6 Day&#8221; (8 Jun 2011)?  8 June, 2011 is dubbed &#8220;World IPv6 Day&#8221; as on that day, Facebook (www.facebook.com), Goog"
+excerpt: "What is “World IPv6 Day” (8 Jun 2011)?  8 June, 2011 is dubbed “World IPv6 Day” as on that day, Facebook (www.facebook.com), Google(www.google.com; www.youtube.com) and Yahoo(www.yahoo.com), websites with more than one billion combined visits each day, are joining majo"
+description: "What is “World IPv6 Day” (8 Jun 2011)?  8 June, 2011 is dubbed “World IPv6 Day” as on that day, Facebook (www.facebook.com), Goog"
 categories: ["events", "ipv6", "spotlight"]
 tags: []
 lang: en

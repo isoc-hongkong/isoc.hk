@@ -5,8 +5,8 @@ slug: "web-apps-apple-tokyo-wangluo-chengshi-pingguo-dongjing-xintongyongdingjiy
 originalSlug: "web-apps-apple-tokyo-%e7%b6%b2%e7%b5%a1-%e7%a8%8b%e5%bc%8f-%e8%98%8b%e6%9e%9c-%e6%9d%b1%e4%ba%ac-%e6%96%b0%e9%80%9a%e7%94%a8%e9%a0%82%e7%b4%9a%e5%9f%9f%e5%90%8d-gtld-%e5%85%a8"
 date: 2011-12-08
 modified: 2011-12-08
-excerpt: ".web, .apps, .apple, .tokyo, . 網絡 , . 程式 , . 蘋果 , . 東京 新通用頂級域名 (gTLD) 全面開放 ， 過百域名面世 ， 改變全球互聯網生態 香港企業認知度底 ， 遠遠落後其他地區 &nbsp; 【香港 ， 2011 年 12 月 7 日】 &#8211; 香港互聯網協會 （ ISOC HK ） 今天邀請了 負責管理全球域名的組織 ICANN 代表 Savenaca Vocea 講解 新通用頂級域名 ( new gTLD) 計劃 詳情 。 現在全世界只有&#8230;"
-description: ".web, .apps, .apple, .tokyo, . 網絡 , . 程式 , . 蘋果 , . 東京 新通用頂級域名 (gTLD) 全面開放 ， 過百域名面世 ， 改變全球互聯網生態 香港企業認知度底 ， 遠遠落後其他地區 &nbsp; 【香港 ， 2011 年 12 月 7 日】 &#8211; 香港互聯網協"
+excerpt: ".web, .apps, .apple, .tokyo, . 網絡 , . 程式 , . 蘋果 , . 東京 新通用頂級域名 (gTLD) 全面開放 ， 過百域名面世 ， 改變全球互聯網生態 香港企業認知度底 ， 遠遠落後其他地區   【香港 ， 2011 年 12 月 7 日】 – 香港互聯網協會 （ ISOC HK ） 今天邀請了 負責管理全球域名的組織 ICANN 代表 Savenaca Vocea 講解 新通用頂級域名 ( new gTLD) 計劃 詳情 。 現在全世界只有…"
+description: ".web, .apps, .apple, .tokyo, . 網絡 , . 程式 , . 蘋果 , . 東京 新通用頂級域名 (gTLD) 全面開放 ， 過百域名面世 ， 改變全球互聯網生態 香港企業認知度底 ， 遠遠落後其他地區   【香港 ， 2011 年 12 月 7 日】 – 香港互聯網協"
 categories: ["domain-names", "events"]
 tags: []
 lang: mixed

@@ -1,11 +1,11 @@
 ---
 wpId: 1544
-title: "ISOC-HK eNewsletter &#8211; April 2013"
+title: "ISOC-HK eNewsletter – April 2013"
 slug: "isoc-hk-enewsletter-april-2013"
 date: 2013-03-15
 modified: 2013-03-15
-excerpt: "&nbsp; HIGHLIGHT StartLab Hong Kong (Deadline: 15 Apr) StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students &amp; Graduates in Hong Kong! (1 &#8211; 8 Jun 2013) Hosted by ISOC HK, Cyberport and Hong Kong Science and Technology Parks Corporation and supported by nearly 20 institutions"
-description: "&nbsp; HIGHLIGHT StartLab Hong Kong (Deadline: 15 Apr) StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students &amp; Graduates in Hong Kong! (1 &#8"
+excerpt: "HIGHLIGHT StartLab Hong Kong (Deadline: 15 Apr) StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students & Graduates in Hong Kong! (1 – 8 Jun 2013) Hosted by ISOC HK, Cyberport and Hong Kong Science and Technology Parks Corporation and supported by nearly 20 institutions"
+description: "HIGHLIGHT StartLab Hong Kong (Deadline: 15 Apr) StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students & Graduates in Hong Kong! (1 &#8"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

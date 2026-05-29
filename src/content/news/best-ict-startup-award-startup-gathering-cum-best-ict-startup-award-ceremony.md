@@ -1,11 +1,11 @@
 ---
 wpId: 3562
-title: "Best ICT Startup Award &#8211; Startup Gathering and Best ICT Startup Award Ceremony"
+title: "Best ICT Startup Award – Startup Gathering and Best ICT Startup Award Ceremony"
 slug: "best-ict-startup-award-startup-gathering-cum-best-ict-startup-award-ceremony"
 date: 2014-03-29
 modified: 2014-03-29
-excerpt: "Best ICT Startup Award &#8211; Startup Gathering and Best ICT Startup Award Ceremony Its time for startups and friends to meet again! Good opportunity to meet new friends and your potential investors and partners. At the same time, let&#8217;s celebrate with the winners of Best ICT Startup Award of "
-description: "Best ICT Startup Award &#8211; Startup Gathering and Best ICT Startup Award Ceremony Its time for startups and friends to meet again! Good opportunity to meet n"
+excerpt: "Best ICT Startup Award – Startup Gathering and Best ICT Startup Award Ceremony Its time for startups and friends to meet again! Good opportunity to meet new friends and your potential investors and partners. At the same time, let’s celebrate with the winners of Best ICT Startup Award of "
+description: "Best ICT Startup Award – Startup Gathering and Best ICT Startup Award Ceremony Its time for startups and friends to meet again! Good opportunity to meet n"
 categories: ["startup"]
 tags: []
 lang: en

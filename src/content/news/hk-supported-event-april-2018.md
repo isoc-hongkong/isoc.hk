@@ -1,6 +1,6 @@
 ---
 wpId: 6485
-title: "HK Supported Event &#8211; April 2018"
+title: "HK Supported Event – April 2018"
 slug: "hk-supported-event-april-2018"
 date: 2018-03-21
 modified: 2018-03-21

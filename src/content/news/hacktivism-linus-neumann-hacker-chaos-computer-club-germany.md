@@ -1,11 +1,11 @@
 ---
 wpId: 5798
-title: "Hacktivism &#8211; Linus Neumann, Hacker, Chaos Computer Club, Germany"
+title: "Hacktivism – Linus Neumann, Hacker, Chaos Computer Club, Germany"
 slug: "hacktivism-linus-neumann-hacker-chaos-computer-club-germany"
 date: 2016-05-17
 modified: 2016-05-17
-excerpt: "Hacktivism: How German Hackers Confront Network Surveillance After Snowden&#8217;s revelations, German government was found to have aided US&#8217;s NSA and UK&#8217;s GCHQ. Linus Neumann will share with us on how hackers&#8217; groups in Germany defended internet safety and freedom to the courts. L"
-description: "Hacktivism: How German Hackers Confront Network Surveillance After Snowden&#8217;s revelations, German government was found to have aided US&#8217;s NSA and UK&"
+excerpt: "Hacktivism: How German Hackers Confront Network Surveillance After Snowden’s revelations, German government was found to have aided US’s NSA and UK’s GCHQ. Linus Neumann will share with us on how hackers’ groups in Germany defended internet safety and freedom to the courts. L"
+description: "Hacktivism: How German Hackers Confront Network Surveillance After Snowden’s revelations, German government was found to have aided US’s NSA and UK&"
 categories: ["events", "internet-security-privacy"]
 tags: []
 lang: en

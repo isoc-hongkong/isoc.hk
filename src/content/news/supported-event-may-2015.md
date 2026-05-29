@@ -1,11 +1,11 @@
 ---
 wpId: 4953
-title: "Supported Event &#8211; June 2015"
+title: "Supported Event – June 2015"
 slug: "supported-event-may-2015"
 date: 2015-04-21
 modified: 2015-04-21
-excerpt: "ISOC HK SUPPORTED EVENTS Cyber Security is Everywhere&#8221; Graphic Design Contest (15 June &#8211; 30 Sept) The Office of the Government Chief Information Officer, Hong Kong Police Force and the Hong Kong Computer Emergency Response Team Coordination Centre jointly organise the &#8220;Cyber Securi"
-description: "ISOC HK SUPPORTED EVENTS Cyber Security is Everywhere&#8221; Graphic Design Contest (15 June &#8211; 30 Sept) The Office of the Government Chief Information Off"
+excerpt: "ISOC HK SUPPORTED EVENTS Cyber Security is Everywhere” Graphic Design Contest (15 June – 30 Sept) The Office of the Government Chief Information Officer, Hong Kong Police Force and the Hong Kong Computer Emergency Response Team Coordination Centre jointly organise the “Cyber Securi"
+description: "ISOC HK SUPPORTED EVENTS Cyber Security is Everywhere” Graphic Design Contest (15 June – 30 Sept) The Office of the Government Chief Information Off"
 categories: ["supported-events"]
 tags: []
 lang: en

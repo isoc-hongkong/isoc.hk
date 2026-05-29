@@ -1,11 +1,11 @@
 ---
 wpId: 5552
-title: "World Internet Developer Summit 2016 &#8211; Save the Date! (7 &amp; 8 June, HK)"
+title: "World Internet Developer Summit 2016 – Save the Date! (7 & 8 June, HK)"
 slug: "world-internet-developer-summit-wids-save-the-date-7-8-june-hk"
 date: 2016-04-08
 modified: 2016-04-08
-excerpt: "World Internet Developer Summit (WIDS) 7th &amp; 8th June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Entering its fifth year since 2012, this annual and signature Summit continues to put the spotlights on the latest development, news, technologies, advanced hints and tips. 2-day S"
-description: "World Internet Developer Summit (WIDS) 7th &amp; 8th June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Entering its fifth year since 2012, this"
+excerpt: "World Internet Developer Summit (WIDS) 7th & 8th June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Entering its fifth year since 2012, this annual and signature Summit continues to put the spotlights on the latest development, news, technologies, advanced hints and tips. 2-day S"
+description: "World Internet Developer Summit (WIDS) 7th & 8th June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Entering its fifth year since 2012, this"
 categories: ["application-development", "events", "startup"]
 tags: []
 lang: en

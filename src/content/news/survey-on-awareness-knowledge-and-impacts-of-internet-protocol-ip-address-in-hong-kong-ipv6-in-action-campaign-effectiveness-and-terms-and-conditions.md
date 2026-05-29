@@ -1,11 +1,11 @@
 ---
 wpId: 172
-title: "Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong &amp; &quot;IPv6 In Action&quot; Campaign Effectiveness and Terms and Conditions"
+title: 'Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong & "IPv6 In Action" Campaign Effectiveness and Terms and Conditions'
 slug: "survey-on-awareness-knowledge-and-impacts-of-internet-protocol-ip-address-in-hong-kong-ipv6-in-action-campaign-effectiveness-and-terms-and-conditions"
 date: 2012-10-12
 modified: 2012-10-12
-excerpt: "ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the &#8220;IPv6 In Action&#8221; campaign, we are interested to know the level of awareness, knowledge and impacts of IP Address in Hong Kong. We have commissioned City University of Hong Kong to"
-description: "ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the &#8220;IPv6 In Action&#8221; campaign, we are inter"
+excerpt: "ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the “IPv6 In Action” campaign, we are interested to know the level of awareness, knowledge and impacts of IP Address in Hong Kong. We have commissioned City University of Hong Kong to"
+description: "ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the “IPv6 In Action” campaign, we are inter"
 categories: ["events", "ipv6"]
 tags: []
 lang: en

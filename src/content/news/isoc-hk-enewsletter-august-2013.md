@@ -4,8 +4,8 @@ title: "ISOC-HK eNewsletter – August 2013"
 slug: "isoc-hk-enewsletter-august-2013"
 date: 2013-08-19
 modified: 2013-08-19
-excerpt: "&nbsp; HIGHLIGHT &#8220;Internet of Things &#8211; From Vision to Reality&#8221; (4 Sep @ Cyberport) This conference is jointly organized by Internet Society Hong Kong and The Institution of Engineering and Technology. It will cover both research and real case study. We will bring you from vision to"
-description: "&nbsp; HIGHLIGHT &#8220;Internet of Things &#8211; From Vision to Reality&#8221; (4 Sep @ Cyberport) This conference is jointly organized by Internet Society Ho"
+excerpt: "HIGHLIGHT “Internet of Things – From Vision to Reality” (4 Sep @ Cyberport) This conference is jointly organized by Internet Society Hong Kong and The Institution of Engineering and Technology. It will cover both research and real case study. We will bring you from vision to"
+description: "HIGHLIGHT “Internet of Things – From Vision to Reality” (4 Sep @ Cyberport) This conference is jointly organized by Internet Society Ho"
 categories: ["enewsletter", "publication"]
 tags: []
 lang: en

@@ -1,6 +1,6 @@
 ---
 wpId: 5147
-title: "ISOC HK Supported event &#8211; Oct"
+title: "ISOC HK Supported event – Oct"
 slug: "isoc-hk-supported-event-oct"
 date: 2015-10-15
 modified: 2015-10-15

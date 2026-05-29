@@ -4,8 +4,8 @@ title: "2nd HONG KONG INTERNET GOVERNANCE FORUM (HKIGF) ROUNDTABLE IN April 2019
 slug: "hkigf-ai-and-ethics"
 date: 2019-03-04
 modified: 2020-06-04
-excerpt: "Event details Date: 2nd April, 2019 (Tuesday)Time: 7:00 &#8211; 9:00 pmVenue: Room 502, The&nbsp;Legislative Council ComplexLanguage: EnglishRundown: 1. Speakers sharing 2. Panel discussion 3. Floor discussionRemark: free entry with prior registration; live broadcast on Facebook (TBC)Registration:&n"
-description: "Event details Date: 2nd April, 2019 (Tuesday)Time: 7:00 &#8211; 9:00 pmVenue: Room 502, The&nbsp;Legislative Council ComplexLanguage: EnglishRundown: 1. Speaker"
+excerpt: "Event details Date: 2nd April, 2019 (Tuesday)Time: 7:00 – 9:00 pmVenue: Room 502, The Legislative Council ComplexLanguage: EnglishRundown: 1. Speakers sharing 2. Panel discussion 3. Floor discussionRemark: free entry with prior registration; live broadcast on Facebook (TBC)Registration:&n"
+description: "Event details Date: 2nd April, 2019 (Tuesday)Time: 7:00 – 9:00 pmVenue: Room 502, The Legislative Council ComplexLanguage: EnglishRundown: 1. Speaker"
 categories: ["events", "hkigf"]
 tags: []
 lang: en

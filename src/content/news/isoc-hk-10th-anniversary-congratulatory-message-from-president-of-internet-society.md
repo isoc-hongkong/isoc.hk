@@ -1,11 +1,11 @@
 ---
 wpId: 6250
-title: "ISOC HK 10th Anniversary &#8211; Congratulatory Message from President of Internet Society"
+title: "ISOC HK 10th Anniversary – Congratulatory Message from President of Internet Society"
 slug: "isoc-hk-10th-anniversary-congratulatory-message-from-president-of-internet-society"
 date: 2016-11-12
 modified: 2017-12-10
-excerpt: "&nbsp; &nbsp; Congratulatory Message from President &amp; CEO of Internet Society&nbsp;&nbsp; Ms Kathryn Brown &nbsp; Congratulations on 10 years of ISOC Hong Kong! Chester (Chairman of ISOC HK), friends in Hong Kong, Knowing that today is a milestone in your chapter&rsquo;s development I wanted to "
-description: "&nbsp; &nbsp; Congratulatory Message from President &amp; CEO of Internet Society&nbsp;&nbsp; Ms Kathryn Brown &nbsp; Congratulations on 10 years of ISOC Hong K"
+excerpt: "Congratulatory Message from President & CEO of Internet Society   Ms Kathryn Brown   Congratulations on 10 years of ISOC Hong Kong! Chester (Chairman of ISOC HK), friends in Hong Kong, Knowing that today is a milestone in your chapter’s development I wanted to "
+description: "Congratulatory Message from President & CEO of Internet Society   Ms Kathryn Brown   Congratulations on 10 years of ISOC Hong K"
 categories: ["about-us", "news", "spotlight"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "SecureHongKong  2015"
 slug: "securehongkong-2015"
 date: 2015-08-27
 modified: 2015-08-27
-excerpt: "SecureHongKong2015 &#8211; Protecting Our Infrastructure and Information Assets September 11, 2015 (Friday) | Cyberport | 10:00 &#8211; 17:15 (Registration starts at 09:30) The one-day conference will deliver discussion and thought-provoking presentations on many of the serious critical infrastructu"
-description: "SecureHongKong2015 &#8211; Protecting Our Infrastructure and Information Assets September 11, 2015 (Friday) | Cyberport | 10:00 &#8211; 17:15 (Registration star"
+excerpt: "SecureHongKong2015 – Protecting Our Infrastructure and Information Assets September 11, 2015 (Friday) | Cyberport | 10:00 – 17:15 (Registration starts at 09:30) The one-day conference will deliver discussion and thought-provoking presentations on many of the serious critical infrastructu"
+description: "SecureHongKong2015 – Protecting Our Infrastructure and Information Assets September 11, 2015 (Friday) | Cyberport | 10:00 – 17:15 (Registration star"
 categories: ["events", "security-2"]
 tags: ["cybersecurity", "infrastructure", "%e9%9b%b2%e7%ab%af%e4%bf%9d%e5%ae%89%ef%bc%8ccloud-security"]
 lang: en

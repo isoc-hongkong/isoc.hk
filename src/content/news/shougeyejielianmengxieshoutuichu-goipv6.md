@@ -5,8 +5,8 @@ slug: "shougeyejielianmengxieshoutuichu-goipv6"
 originalSlug: "%e9%a6%96%e5%80%8b%e6%a5%ad%e7%95%8c%e8%81%af%e7%9b%9f%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e3%80%8cgoipv6%e3%80%8d"
 date: 2013-04-08
 modified: 2013-04-08
-excerpt: "&nbsp; 香港，2013年4月5日 ––香港互聯網註冊管理有限公司（HKIRC）、香港互聯網協會(ISOC HK)、天下網絡有限公司、NTT Communications及 TraxComm共同簽署諒解備忘錄 (Memorandum of Understanding, MoU) 組成「goIPv6」聯盟，並計劃於本年七月推出免費的IPv6網絡隧道服務「goIPv6」。該服務亦獲得數碼港及Juniper Networks的鼎力支持。由於IPv4地址不敷應用，服務將進一步推動業界及網絡用戶過渡IPv6（互聯網規約版本六），迎接未來互聯網的發展和機遇。 隨著IPv4地址短缺及新興網絡市場的蓬勃發"
-description: "&nbsp; 香港，2013年4月5日 ––香港互聯網註冊管理有限公司（HKIRC）、香港互聯網協會(ISOC HK)、天下網絡有限公司、NTT Communications及 TraxComm共同簽署諒解備忘錄 (Memorandum of Understanding, MoU) 組成「goIPv6」聯盟，並計劃於本"
+excerpt: "香港，2013年4月5日 ––香港互聯網註冊管理有限公司（HKIRC）、香港互聯網協會(ISOC HK)、天下網絡有限公司、NTT Communications及 TraxComm共同簽署諒解備忘錄 (Memorandum of Understanding, MoU) 組成「goIPv6」聯盟，並計劃於本年七月推出免費的IPv6網絡隧道服務「goIPv6」。該服務亦獲得數碼港及Juniper Networks的鼎力支持。由於IPv4地址不敷應用，服務將進一步推動業界及網絡用戶過渡IPv6（互聯網規約版本六），迎接未來互聯網的發展和機遇。 隨著IPv4地址短缺及新興網絡市場的蓬勃發"
+description: "香港，2013年4月5日 ––香港互聯網註冊管理有限公司（HKIRC）、香港互聯網協會(ISOC HK)、天下網絡有限公司、NTT Communications及 TraxComm共同簽署諒解備忘錄 (Memorandum of Understanding, MoU) 組成「goIPv6」聯盟，並計劃於本"
 categories: ["media-column", "news", "press-release"]
 tags: []
 lang: mixed

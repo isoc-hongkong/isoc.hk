@@ -4,8 +4,8 @@ title: "IPv6 Forum Certified Course (Silver Level) 8﹣9 Jan, 2015"
 slug: "ipv6-forum-certified-course-silver-level"
 date: 2014-10-31
 modified: 2014-10-31
-excerpt: "&nbsp; Introduction  Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services.  This IPv6 Forum Certified Course (Silver Level) is recognized and certified by IPv6 For"
-description: "&nbsp; Introduction  Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to perma"
+excerpt: "Introduction  Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services.  This IPv6 Forum Certified Course (Silver Level) is recognized and certified by IPv6 For"
+description: "Introduction  Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to perma"
 categories: ["events", "ipv6", "news", "spotlight"]
 tags: ["ipv6", "ipv6-forum", "training"]
 lang: en

@@ -1,11 +1,11 @@
 ---
 wpId: 316
-title: "ISOC-HK eNewsletter &#8211; April 2012"
+title: "ISOC-HK eNewsletter – April 2012"
 slug: "isoc-hk-enewsletter-april-2012"
 date: 2012-04-11
 modified: 2012-04-11
-excerpt: "HIGHLIGHTS  IPv6 In Action &#8211; Website &amp; Pamphlet Launched The &#8220;IPv6 In Action&#8221; Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exhaustion situation and to raise their awareness of IPv6.Sponsored by The O"
-description: "HIGHLIGHTS  IPv6 In Action &#8211; Website &amp; Pamphlet Launched The &#8220;IPv6 In Action&#8221; Project aims to help the general public and Small and Medium"
+excerpt: "HIGHLIGHTS  IPv6 In Action – Website & Pamphlet Launched The “IPv6 In Action” Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exhaustion situation and to raise their awareness of IPv6.Sponsored by The O"
+description: "HIGHLIGHTS  IPv6 In Action – Website & Pamphlet Launched The “IPv6 In Action” Project aims to help the general public and Small and Medium"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

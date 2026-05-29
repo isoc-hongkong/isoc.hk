@@ -2,7 +2,7 @@
 wpId: 6429
 title: "Be Our Members"
 slug: "be-our-members"
-description: "ISOC HK Membership &#8211; Individual Members ISOC HK is driven by individual users and Internet professionals, in conjunction with and augmented by socially re"
+description: "ISOC HK Membership – Individual Members ISOC HK is driven by individual users and Internet professionals, in conjunction with and augmented by socially re"
 lang: en
 ---
 

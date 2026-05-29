@@ -1,6 +1,6 @@
 ---
 wpId: 1204
-title: "The First IPv6 Forum Certified Course &#8211; Gold Level (5-8 Mar, 2013)"
+title: "The First IPv6 Forum Certified Course – Gold Level (5-8 Mar, 2013)"
 slug: "ipv6forumcourse"
 date: 2013-02-28
 modified: 2013-02-28

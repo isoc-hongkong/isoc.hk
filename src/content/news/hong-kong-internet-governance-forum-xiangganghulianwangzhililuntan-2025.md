@@ -5,8 +5,8 @@ slug: "hong-kong-internet-governance-forum-xiangganghulianwangzhililuntan-2025"
 originalSlug: "hong-kong-internet-governance-forum-%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e6%b2%bb%e7%90%86%e8%ab%96%e5%a3%87-2025"
 date: 2025-04-15
 modified: 2025-04-15
-excerpt: "Hong Kong Internet Governance Forum 2025 &#8211; The Future of Creativity: Exploring Copyrights in AI Creation The intersection of AI and copyright has sparked intense debate recently. This event provides a platform for stakeholders to come together, discuss and propose possible solutions. Date: Apr"
-description: "Hong Kong Internet Governance Forum 2025 &#8211; The Future of Creativity: Exploring Copyrights in AI Creation The intersection of AI and copyright has sparked "
+excerpt: "Hong Kong Internet Governance Forum 2025 – The Future of Creativity: Exploring Copyrights in AI Creation The intersection of AI and copyright has sparked intense debate recently. This event provides a platform for stakeholders to come together, discuss and propose possible solutions. Date: Apr"
+description: "Hong Kong Internet Governance Forum 2025 – The Future of Creativity: Exploring Copyrights in AI Creation The intersection of AI and copyright has sparked "
 categories: ["news"]
 tags: []
 lang: en

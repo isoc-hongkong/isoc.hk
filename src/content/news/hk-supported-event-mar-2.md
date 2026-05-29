@@ -4,8 +4,8 @@ title: "HK Supported Event Mar"
 slug: "hk-supported-event-mar-2"
 date: 2017-03-01
 modified: 2017-03-01
-excerpt: "Internet Economy Summit (10-12 Apr) Themed &#8216;Shaping the Internet Economy for Growth&#8217;,this Summit explores directions and strategies for capturing opportunities offered by the Internet in propelling economic development. Renowned speakers and experts at the Summit will discuss future deve"
-description: "Internet Economy Summit (10-12 Apr) Themed &#8216;Shaping the Internet Economy for Growth&#8217;,this Summit explores directions and strategies for capturing op"
+excerpt: "Internet Economy Summit (10-12 Apr) Themed ‘Shaping the Internet Economy for Growth’,this Summit explores directions and strategies for capturing opportunities offered by the Internet in propelling economic development. Renowned speakers and experts at the Summit will discuss future deve"
+description: "Internet Economy Summit (10-12 Apr) Themed ‘Shaping the Internet Economy for Growth’,this Summit explores directions and strategies for capturing op"
 categories: ["supported-events"]
 tags: []
 lang: en

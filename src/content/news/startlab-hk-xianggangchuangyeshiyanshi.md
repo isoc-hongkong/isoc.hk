@@ -5,8 +5,8 @@ slug: "startlab-hk-xianggangchuangyeshiyanshi"
 originalSlug: "startlab-hk-%e9%a6%99%e6%b8%af%e5%89%b5%e6%a5%ad%e5%af%a6%e9%a9%97%e5%ae%a4"
 date: 2013-03-15
 modified: 2013-03-15
-excerpt: "StartLab Hong Kong aims at fostering startups and its ecosystem in Hong Kong. We are the first startup bootcamp for tertiary students &amp; graduates in Hong Kong. We target students and graduates within two years, who study design and engineering or computer science or with related knowledge, want "
-description: "StartLab Hong Kong aims at fostering startups and its ecosystem in Hong Kong. We are the first startup bootcamp for tertiary students &amp; graduates in Hong Ko"
+excerpt: "StartLab Hong Kong aims at fostering startups and its ecosystem in Hong Kong. We are the first startup bootcamp for tertiary students & graduates in Hong Kong. We target students and graduates within two years, who study design and engineering or computer science or with related knowledge, want "
+description: "StartLab Hong Kong aims at fostering startups and its ecosystem in Hong Kong. We are the first startup bootcamp for tertiary students & graduates in Hong Ko"
 categories: ["application-development", "events", "spotlight", "startup"]
 tags: []
 lang: en

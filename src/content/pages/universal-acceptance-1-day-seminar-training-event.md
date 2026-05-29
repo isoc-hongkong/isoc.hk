@@ -1,8 +1,8 @@
 ---
 wpId: 7236
-title: "Universal Acceptance: 1-Day Seminar &#038; Training Event"
+title: "Universal Acceptance: 1-Day Seminar & Training Event"
 slug: "universal-acceptance-1-day-seminar-training-event"
-description: "Join us to fix the &#8220;bug&#8221; of your Internet apps, websites, SaaS or email servers now! If you are still not aware of Universal Acceptance yet, you may"
+description: "Join us to fix the “bug” of your Internet apps, websites, SaaS or email servers now! If you are still not aware of Universal Acceptance yet, you may"
 lang: en
 ---
 

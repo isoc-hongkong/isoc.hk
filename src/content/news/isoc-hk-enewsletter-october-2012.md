@@ -1,11 +1,11 @@
 ---
 wpId: 165
-title: "ISOC-HK eNewsletter &#8211; October 2012"
+title: "ISOC-HK eNewsletter – October 2012"
 slug: "isoc-hk-enewsletter-october-2012"
 date: 2012-10-15
 modified: 2012-10-15
-excerpt: "HIGHLIGHT OF EVENT Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong &amp; &#8220;IPv6 In Action&#8221; Campaign Effectiveness ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the &#8220;IPv6 In Action&#8"
-description: "HIGHLIGHT OF EVENT Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong &amp; &#8220;IPv6 In Action&#8221; Campaign Effecti"
+excerpt: "HIGHLIGHT OF EVENT Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong & “IPv6 In Action” Campaign Effectiveness ISOC HK is currently carrying out an awareness promotion campaign on IPv6. With the ongoing promotion of the “IPv6 In Action&#8"
+description: "HIGHLIGHT OF EVENT Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong & “IPv6 In Action” Campaign Effecti"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

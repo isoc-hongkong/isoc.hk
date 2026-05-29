@@ -4,8 +4,8 @@ title: "StartLab.HK: The First Startup Bootcamp for Tertiary Students"
 slug: "startlab-hk"
 date: 2013-05-18
 modified: 2013-05-18
-excerpt: "&nbsp; StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students &#038; Graduates in Hong Kong! StartLab Hong Kong (http://startlab.hk/) is the first bootcamp target specifically at tertiary students and graduates (within 2 years) with the supports by 6 universities in Hong Kong. It is al"
-description: "&nbsp; StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students &#038; Graduates in Hong Kong! StartLab Hong Kong (http://startlab.hk/) is the first"
+excerpt: "StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students & Graduates in Hong Kong! StartLab Hong Kong (http://startlab.hk/) is the first bootcamp target specifically at tertiary students and graduates (within 2 years) with the supports by 6 universities in Hong Kong. It is al"
+description: "StartLab Hong Kong: The First Startup Bootcamp for Tertiary Students & Graduates in Hong Kong! StartLab Hong Kong (http://startlab.hk/) is the first"
 categories: ["events", "news", "startup"]
 tags: []
 lang: en

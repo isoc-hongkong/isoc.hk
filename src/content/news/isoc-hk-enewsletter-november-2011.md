@@ -1,11 +1,11 @@
 ---
 wpId: 431
-title: "ISOC-HK eNewsletter &#8211; November 2011"
+title: "ISOC-HK eNewsletter – November 2011"
 slug: "isoc-hk-enewsletter-november-2011"
 date: 2011-11-30
 modified: 2011-11-30
-excerpt: "&nbsp; HIGHLIGHTS  &#8220;IPv6 in Action&#8221; Project for SMEs and General Public, sponsored by Hong Kong SAR Government Internet Society Hong Kong (ISOC-HK) is proud to announce that it has been awarded by the Office of the Government Chief Information Officer (OGCIO) to lead the &#8220;IPv6 in A"
-description: "&nbsp; HIGHLIGHTS  &#8220;IPv6 in Action&#8221; Project for SMEs and General Public, sponsored by Hong Kong SAR Government Internet Society Hong Kong (ISOC-HK) "
+excerpt: "HIGHLIGHTS  “IPv6 in Action” Project for SMEs and General Public, sponsored by Hong Kong SAR Government Internet Society Hong Kong (ISOC-HK) is proud to announce that it has been awarded by the Office of the Government Chief Information Officer (OGCIO) to lead the “IPv6 in A"
+description: "HIGHLIGHTS  “IPv6 in Action” Project for SMEs and General Public, sponsored by Hong Kong SAR Government Internet Society Hong Kong (ISOC-HK) "
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

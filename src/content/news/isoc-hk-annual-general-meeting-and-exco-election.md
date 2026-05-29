@@ -4,7 +4,7 @@ title: "ISOC HK Annual General Meeting and EXCO Election"
 slug: "isoc-hk-annual-general-meeting-and-exco-election"
 date: 2011-08-29
 modified: 2011-08-29
-excerpt: "Annual General Meeting and EXCO Election Notice The AGM of the Internet Society Hong Kong will be held on 30-Sep-2011 (Fri). We will also hold our EXCO election in this meeting. The agenda and details of the election are below. Date: 30-Sep-2011 (Fri) Time: 07:30pm &#8211; 08:30pm Venue: Room 203, D"
+excerpt: "Annual General Meeting and EXCO Election Notice The AGM of the Internet Society Hong Kong will be held on 30-Sep-2011 (Fri). We will also hold our EXCO election in this meeting. The agenda and details of the election are below. Date: 30-Sep-2011 (Fri) Time: 07:30pm – 08:30pm Venue: Room 203, D"
 description: "Annual General Meeting and EXCO Election Notice The AGM of the Internet Society Hong Kong will be held on 30-Sep-2011 (Fri). We will also hold our EXCO election"
 categories: ["notice"]
 tags: []

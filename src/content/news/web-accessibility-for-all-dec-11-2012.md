@@ -4,8 +4,8 @@ title: "Web Accessibility For All (Dec 11, 2012)"
 slug: "web-accessibility-for-all-dec-11-2012"
 date: 2012-11-19
 modified: 2012-11-19
-excerpt: "Organized by Internet Society Hong Kong, and Information Technology Resource of HKCSS, we proudly present our first &#8220;Web Accessibility For All&#8221; event in Hong Kong. Internet has become a primary way of communicating, distributing information and providing services to the public. Internet "
-description: "Organized by Internet Society Hong Kong, and Information Technology Resource of HKCSS, we proudly present our first &#8220;Web Accessibility For All&#8221; even"
+excerpt: "Organized by Internet Society Hong Kong, and Information Technology Resource of HKCSS, we proudly present our first “Web Accessibility For All” event in Hong Kong. Internet has become a primary way of communicating, distributing information and providing services to the public. Internet "
+description: "Organized by Internet Society Hong Kong, and Information Technology Resource of HKCSS, we proudly present our first “Web Accessibility For All” even"
 categories: ["events", "spotlight", "web-accessibility"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "Internet Society Joins Commemoration of International Day of Persons wit
 slug: "internet-society-joins-commemoration-of-international-day-of-persons-with-disabilities"
 date: 2012-12-05
 modified: 2012-12-05
-excerpt: "3rd December is the International Day of Persons with Disabilities. This year&#8217;s theme is: Removing barriers to create an inclusive and accessible society for all. The Internet Society&#8217;s guiding principle is the &#8220;Internet is for everyone,&#8221; which includes the estimated one bill"
-description: "3rd December is the International Day of Persons with Disabilities. This year&#8217;s theme is: Removing barriers to create an inclusive and accessible society "
+excerpt: "3rd December is the International Day of Persons with Disabilities. This year’s theme is: Removing barriers to create an inclusive and accessible society for all. The Internet Society’s guiding principle is the “Internet is for everyone,” which includes the estimated one bill"
+description: "3rd December is the International Day of Persons with Disabilities. This year’s theme is: Removing barriers to create an inclusive and accessible society "
 categories: ["global-news", "news", "spotlight", "web-accessibility"]
 tags: []
 lang: en

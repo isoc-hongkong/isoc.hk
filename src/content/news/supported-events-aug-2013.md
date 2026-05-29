@@ -4,8 +4,8 @@ title: "Supported Events – Aug 2013"
 slug: "supported-events-aug-2013"
 date: 2013-08-01
 modified: 2013-08-01
-excerpt: "ISOC HK SUPPORTED EVENTS The NTT Global Forum 2013 &#8211; What’s next for Cloud and Data Centre? (21 Aug) The NTT Global Forum in Hong Kong will feature a series of thought-provoking keynote presentations and solution showcases focusing on the latest solutions of cloud and data centre that can achi"
-description: "ISOC HK SUPPORTED EVENTS The NTT Global Forum 2013 &#8211; What’s next for Cloud and Data Centre? (21 Aug) The NTT Global Forum in Hong Kong will feature a seri"
+excerpt: "ISOC HK SUPPORTED EVENTS The NTT Global Forum 2013 – What’s next for Cloud and Data Centre? (21 Aug) The NTT Global Forum in Hong Kong will feature a series of thought-provoking keynote presentations and solution showcases focusing on the latest solutions of cloud and data centre that can achi"
+description: "ISOC HK SUPPORTED EVENTS The NTT Global Forum 2013 – What’s next for Cloud and Data Centre? (21 Aug) The NTT Global Forum in Hong Kong will feature a seri"
 categories: ["news", "supported-events"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "Supporting Events – May 2018"
 slug: "supporting-events-may-2018"
 date: 2018-05-23
 modified: 2018-06-04
-excerpt: "1.)AsiaSecWest 2018 Applied Digital Security &amp; Training New and innovative material, highlighting emerging information security technologies &amp; techniques. Conference content is simultaneously translated into Mandarin, English, and Russian. Join us to interact with the world&#8217;s internati"
-description: "1.)AsiaSecWest 2018 Applied Digital Security &amp; Training New and innovative material, highlighting emerging information security technologies &amp; technique"
+excerpt: "1.)AsiaSecWest 2018 Applied Digital Security & Training New and innovative material, highlighting emerging information security technologies & techniques. Conference content is simultaneously translated into Mandarin, English, and Russian. Join us to interact with the world’s internati"
+description: "1.)AsiaSecWest 2018 Applied Digital Security & Training New and innovative material, highlighting emerging information security technologies & technique"
 categories: ["supported-events"]
 tags: []
 lang: en

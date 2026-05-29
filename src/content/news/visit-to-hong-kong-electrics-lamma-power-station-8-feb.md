@@ -1,11 +1,11 @@
 ---
 wpId: 3292
-title: "Visit to Hong Kong Electric&#039;s Lamma Power Station (8 Feb)"
+title: "Visit to Hong Kong Electric's Lamma Power Station (8 Feb)"
 slug: "visit-to-hong-kong-electrics-lamma-power-station-8-feb"
 date: 2014-01-24
 modified: 2014-01-24
-excerpt: "Visit to Hong Kong Electric&#8217;s Lamma Power Station (8 Feb) Have you ever noticed how a power plant operates? Now you have a chance to visit the Central Control Room, Solar PV System and even the Turbine Hall in Hong Kong Eletric&#8217;s Lamma Power Station. Please Come and Join Us! Don&#8217;t "
-description: "Visit to Hong Kong Electric&#8217;s Lamma Power Station (8 Feb) Have you ever noticed how a power plant operates? Now you have a chance to visit the Central Con"
+excerpt: "Visit to Hong Kong Electric’s Lamma Power Station (8 Feb) Have you ever noticed how a power plant operates? Now you have a chance to visit the Central Control Room, Solar PV System and even the Turbine Hall in Hong Kong Eletric’s Lamma Power Station. Please Come and Join Us! Don’t "
+description: "Visit to Hong Kong Electric’s Lamma Power Station (8 Feb) Have you ever noticed how a power plant operates? Now you have a chance to visit the Central Con"
 categories: ["events"]
 tags: []
 lang: en

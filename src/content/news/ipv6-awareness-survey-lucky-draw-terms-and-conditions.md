@@ -1,11 +1,11 @@
 ---
 wpId: 372
-title: "IPv6 Awareness Survey Lucky Draw &#8211; Terms and Conditions"
+title: "IPv6 Awareness Survey Lucky Draw – Terms and Conditions"
 slug: "ipv6-awareness-survey-lucky-draw-terms-and-conditions"
 date: 2012-02-09
 modified: 2012-02-09
-excerpt: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the &#8220;Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong&#8221; Lucky Draw (&#8220;Lucky Draw&#8221;) is Internet Society Hong Kong (&#8220;Promoter&#8221;). Inform"
-description: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the &#8220;Survey on Awareness, Knowledge and Impacts of Internet Pr"
+excerpt: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the “Survey on Awareness, Knowledge and Impacts of Internet Protocol (IP) Address in Hong Kong” Lucky Draw (“Lucky Draw”) is Internet Society Hong Kong (“Promoter”). Inform"
+description: "Lucky Draw Terms and ConditionsLucky Draw Terms and Conditions The Promoter and Operator of the “Survey on Awareness, Knowledge and Impacts of Internet Pr"
 categories: ["events", "ipv6"]
 tags: []
 lang: en

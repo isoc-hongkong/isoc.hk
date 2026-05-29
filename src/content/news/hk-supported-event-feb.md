@@ -4,8 +4,8 @@ title: "HK Supported Event Feb"
 slug: "hk-supported-event-feb"
 date: 2017-02-01
 modified: 2017-02-01
-excerpt: "ISACA China HK Chapter Annual Conference 2017 (16 Mar) Carrying the theme of “Inspiration and Challenges of IT Governance vs Cybersecurity &#8211; 2017 and Beyond” this year, 100 delegates who are key IT executives, and decision makers from both local and overseas professionals with solid informatio"
-description: "ISACA China HK Chapter Annual Conference 2017 (16 Mar) Carrying the theme of “Inspiration and Challenges of IT Governance vs Cybersecurity &#8211; 2017 and Beyo"
+excerpt: "ISACA China HK Chapter Annual Conference 2017 (16 Mar) Carrying the theme of “Inspiration and Challenges of IT Governance vs Cybersecurity – 2017 and Beyond” this year, 100 delegates who are key IT executives, and decision makers from both local and overseas professionals with solid informatio"
+description: "ISACA China HK Chapter Annual Conference 2017 (16 Mar) Carrying the theme of “Inspiration and Challenges of IT Governance vs Cybersecurity – 2017 and Beyo"
 categories: ["supported-events"]
 tags: []
 lang: en

@@ -1,6 +1,6 @@
 ---
 wpId: 442
-title: "IPv6World:Asia &#8211; Deployment Experience with IPv6 (Nov 8, 2011)"
+title: "IPv6World:Asia – Deployment Experience with IPv6 (Nov 8, 2011)"
 slug: "ipv6worldasia-deployment-experience-with-ipv6-nov-8-2011"
 date: 2011-10-21
 modified: 2011-10-21

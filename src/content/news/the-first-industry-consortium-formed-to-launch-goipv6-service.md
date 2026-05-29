@@ -4,7 +4,7 @@ title: "The first industry consortium formed to launch “goIPv6” service"
 slug: "the-first-industry-consortium-formed-to-launch-goipv6-service"
 date: 2013-04-03
 modified: 2013-04-03
-excerpt: "For Immediate Release   The first industry consortium formed to launch “goIPv6” service Hong Kong’s first free IPv6 service facilitates Internet’s development &nbsp; Hong Kong, 5 April 2013 –– A Memorandum of Understanding (MOU) has been jointly signed by Hong Kong Internet Registration Corporation "
+excerpt: "For Immediate Release   The first industry consortium formed to launch “goIPv6” service Hong Kong’s first free IPv6 service facilitates Internet’s development   Hong Kong, 5 April 2013 –– A Memorandum of Understanding (MOU) has been jointly signed by Hong Kong Internet Registration Corporation "
 description: "For Immediate Release   The first industry consortium formed to launch “goIPv6” service Hong Kong’s first free IPv6 service facilitates Internet’s development &"
 categories: ["press-release"]
 tags: []

@@ -4,8 +4,8 @@ title: "UX for Developers Series #1: What Does UX Mean for Developers? (5 Dec Ev
 slug: "ux-for-developers-series-1-what-does-ux-mean-for-developers-5-dec-evening-wanchai"
 date: 2016-11-18
 modified: 2016-11-18
-excerpt: "&nbsp; UX for Developers Series #1: What Does UX Mean for Developers? Co-hosted by ISOC HK &amp; eXperience Gathering&nbsp; 5 December | Wan Chai&nbsp;| 7:00pm-9:30pm (Registration starts at 6:30pm) In UX for Developers Series #1, we will bring you 4 short talks on Dec 5 evening:​ Talk #1 &#8211; ​&"
-description: "&nbsp; UX for Developers Series #1: What Does UX Mean for Developers? Co-hosted by ISOC HK &amp; eXperience Gathering&nbsp; 5 December | Wan Chai&nbsp;| 7:00pm-"
+excerpt: "UX for Developers Series #1: What Does UX Mean for Developers? Co-hosted by ISOC HK & eXperience Gathering  5 December | Wan Chai | 7:00pm-9:30pm (Registration starts at 6:30pm) In UX for Developers Series #1, we will bring you 4 short talks on Dec 5 evening:​ Talk #1 – ​&"
+description: "UX for Developers Series #1: What Does UX Mean for Developers? Co-hosted by ISOC HK & eXperience Gathering  5 December | Wan Chai | 7:00pm-"
 categories: ["events", "startup"]
 tags: []
 lang: en

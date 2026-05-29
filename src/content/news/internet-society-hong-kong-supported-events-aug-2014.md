@@ -4,8 +4,8 @@ title: "Internet Society Hong Kong Supported Events (Aug 2014)"
 slug: "internet-society-hong-kong-supported-events-aug-2014"
 date: 2014-08-01
 modified: 2014-08-01
-excerpt: "Internet Society Hong Kong Supported Events (Aug 2014) Government 2.4 Conference (31 July 2014) There is a free admission for our ISOCHK members. Please&nbsp;register at this link to secure seats and choose &ldquo;free admission&rdquo;:&nbsp;http://goo.gl/0IbyaN &nbsp; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&g"
-description: "Internet Society Hong Kong Supported Events (Aug 2014) Government 2.4 Conference (31 July 2014) There is a free admission for our ISOCHK members. Please&nbsp;re"
+excerpt: "Internet Society Hong Kong Supported Events (Aug 2014) Government 2.4 Conference (31 July 2014) There is a free admission for our ISOCHK members. Please register at this link to secure seats and choose “free admission”: http://goo.gl/0IbyaN   >>>>>>>&g"
+description: "Internet Society Hong Kong Supported Events (Aug 2014) Government 2.4 Conference (31 July 2014) There is a free admission for our ISOCHK members. Please re"
 categories: ["events"]
 tags: []
 lang: en

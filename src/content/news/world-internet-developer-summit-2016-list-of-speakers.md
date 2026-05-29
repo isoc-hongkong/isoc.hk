@@ -1,11 +1,11 @@
 ---
 wpId: 5770
-title: "World Internet Developer Summit 2016 &#8211; List of Speakers"
+title: "World Internet Developer Summit 2016 – List of Speakers"
 slug: "world-internet-developer-summit-2016-list-of-speakers"
 date: 2016-05-12
 modified: 2016-05-12
-excerpt: "&nbsp; Keynote Speakers &nbsp; &nbsp; Christian Strzadala, Software Engineer,&nbsp; Elastic&nbsp;&nbsp; &nbsp; *Presentation Slides &nbsp;&nbsp; &nbsp; Matt Heath, Distributed Systems&nbsp; Engineer, Mondo *Presentation Slides &nbsp;&nbsp; &nbsp; &nbsp; Andy Cheung, Partner Business&nbsp;Evangelist,"
-description: "&nbsp; Keynote Speakers &nbsp; &nbsp; Christian Strzadala, Software Engineer,&nbsp; Elastic&nbsp;&nbsp; &nbsp; *Presentation Slides &nbsp;&nbsp; &nbsp; Matt Hea"
+excerpt: "Keynote Speakers     Christian Strzadala, Software Engineer,  Elastic     *Presentation Slides      Matt Heath, Distributed Systems  Engineer, Mondo *Presentation Slides        Andy Cheung, Partner Business Evangelist,"
+description: "Keynote Speakers     Christian Strzadala, Software Engineer,  Elastic     *Presentation Slides      Matt Hea"
 categories: ["others"]
 tags: []
 lang: en

@@ -1,11 +1,11 @@
 ---
 wpId: 321
-title: "&quot;IPv6 In Action&quot; Latest News"
+title: '"IPv6 In Action" Latest News'
 slug: "ipv6-in-action-latest-news"
 date: 2012-03-15
 modified: 2012-03-15
-excerpt: "IPv6 In Action For English, please scroll down &nbsp; &nbsp; 國際資訊科技博覽 2012「 IPv6 讓網絡持續 &#8211; 甚麼是 IPv6? 何準備迎接網絡新格局 ? 」研討會 現時接通互聯網嘅IP地址嘅版本係IPv4，但係有太多人，太多裝置都需要，所以地址已經用完了! IPv6係最新嘅版本&#8230; IPv4有43億個地址，但IPv6可容納嘅地址係多到幾乎無限! 好似電話號碼唔夠用，加多幾個位，分別係你需要更換或提升你的電話裝置。- 互聯網當前狀況及 IPv4 耗盡問題 &#8211; 究竟什麼是 IPv6? 它是不是唯"
-description: "IPv6 In Action For English, please scroll down &nbsp; &nbsp; 國際資訊科技博覽 2012「 IPv6 讓網絡持續 &#8211; 甚麼是 IPv6? 何準備迎接網絡新格局 ? 」研討會 現時接通互聯網嘅IP地址嘅版本係IPv4，但係有太多人，太多裝置都需要，所"
+excerpt: "IPv6 In Action For English, please scroll down     國際資訊科技博覽 2012「 IPv6 讓網絡持續 – 甚麼是 IPv6? 何準備迎接網絡新格局 ? 」研討會 現時接通互聯網嘅IP地址嘅版本係IPv4，但係有太多人，太多裝置都需要，所以地址已經用完了! IPv6係最新嘅版本… IPv4有43億個地址，但IPv6可容納嘅地址係多到幾乎無限! 好似電話號碼唔夠用，加多幾個位，分別係你需要更換或提升你的電話裝置。- 互聯網當前狀況及 IPv4 耗盡問題 – 究竟什麼是 IPv6? 它是不是唯"
+description: "IPv6 In Action For English, please scroll down     國際資訊科技博覽 2012「 IPv6 讓網絡持續 – 甚麼是 IPv6? 何準備迎接網絡新格局 ? 」研討會 現時接通互聯網嘅IP地址嘅版本係IPv4，但係有太多人，太多裝置都需要，所"
 categories: ["events", "ipv6"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "My Favourite Cloud Product"
 slug: "my-favourite-cloud-product"
 date: 2014-01-26
 modified: 2014-01-26
-excerpt: "&nbsp; &nbsp; This year, we have received total 92 applications/ nominations. The decision of choosing the winners has been a difficult one, as the overall standard of applicants was high. After the judging and voting process, we are pleased to inform you the final result of&nbsp;My Favourite Cloud "
-description: "&nbsp; &nbsp; This year, we have received total 92 applications/ nominations. The decision of choosing the winners has been a difficult one, as the overall stan"
+excerpt: "This year, we have received total 92 applications/ nominations. The decision of choosing the winners has been a difficult one, as the overall standard of applicants was high. After the judging and voting process, we are pleased to inform you the final result of My Favourite Cloud "
+description: "This year, we have received total 92 applications/ nominations. The decision of choosing the winners has been a difficult one, as the overall stan"
 categories: ["spotlight", "startup"]
 tags: []
 lang: en

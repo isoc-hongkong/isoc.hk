@@ -4,8 +4,8 @@ title: "[Hiring!] Developer (Part-time)"
 slug: "hiring-developer-part-time"
 date: 2021-09-13
 modified: 2021-09-13
-excerpt: "Internet Society Hong Kong (ISOC HK) &#8211; Job Vacancy Job Title: Developer (Part-Time) Background: ISOC HK believes data will contribute to social good, and opening up public datasets is the fundamental first step. In 2020, ISOC HK launched the Hong Kong Open Data Index, the first evidence-based "
-description: "Internet Society Hong Kong (ISOC HK) &#8211; Job Vacancy Job Title: Developer (Part-Time) Background: ISOC HK believes data will contribute to social good, and "
+excerpt: "Internet Society Hong Kong (ISOC HK) – Job Vacancy Job Title: Developer (Part-Time) Background: ISOC HK believes data will contribute to social good, and opening up public datasets is the fundamental first step. In 2020, ISOC HK launched the Hong Kong Open Data Index, the first evidence-based "
+description: "Internet Society Hong Kong (ISOC HK) – Job Vacancy Job Title: Developer (Part-Time) Background: ISOC HK believes data will contribute to social good, and "
 categories: ["news"]
 tags: []
 lang: en

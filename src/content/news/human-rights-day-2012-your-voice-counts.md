@@ -4,8 +4,8 @@ title: "Human Rights Day 2012: your voice counts!"
 slug: "human-rights-day-2012-your-voice-counts"
 date: 2012-12-08
 modified: 2012-12-08
-excerpt: "December 10 will mark the annual celebrations for international Human Rights Day.    This year&#8217;s theme, &#8220;My Voice Counts&#8220;, will focus on inclusion and the right to participate in public life, emphasizing the right of every individual to voice their opinion and take part in public d"
-description: "December 10 will mark the annual celebrations for international Human Rights Day.    This year&#8217;s theme, &#8220;My Voice Counts&#8220;, will focus on inclu"
+excerpt: "December 10 will mark the annual celebrations for international Human Rights Day.    This year’s theme, “My Voice Counts“, will focus on inclusion and the right to participate in public life, emphasizing the right of every individual to voice their opinion and take part in public d"
+description: "December 10 will mark the annual celebrations for international Human Rights Day.    This year’s theme, “My Voice Counts“, will focus on inclu"
 categories: ["global-news", "internet-freedom", "news", "spotlight"]
 tags: []
 lang: en

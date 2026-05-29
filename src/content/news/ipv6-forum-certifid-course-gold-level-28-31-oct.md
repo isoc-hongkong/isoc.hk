@@ -4,7 +4,7 @@ title: "IPv6 Forum Certifid Course (Gold Level) (28-31 Oct)"
 slug: "ipv6-forum-certifid-course-gold-level-28-31-oct"
 date: 2013-09-24
 modified: 2013-09-24
-excerpt: "IPv6 Forum Certified Course (Gold Level) (28-31 Oct) Nature and Objectives The IPv6 Forum is a world-wide consortium of leading vendors, Internet service vendors, National research &amp; Education Networks (NRENs) and international ISPs, with a clear mission to promote IPv6 by improving market and u"
+excerpt: "IPv6 Forum Certified Course (Gold Level) (28-31 Oct) Nature and Objectives The IPv6 Forum is a world-wide consortium of leading vendors, Internet service vendors, National research & Education Networks (NRENs) and international ISPs, with a clear mission to promote IPv6 by improving market and u"
 description: "IPv6 Forum Certified Course (Gold Level) (28-31 Oct) Nature and Objectives The IPv6 Forum is a world-wide consortium of leading vendors, Internet service vendor"
 categories: ["ipv6"]
 tags: []

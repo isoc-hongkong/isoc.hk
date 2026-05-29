@@ -1,6 +1,6 @@
 ---
 wpId: 370
-title: "Internet Society&#039;s letter dated to Honourable Members of the European Parliament (February 2012)"
+title: "Internet Society's letter dated to Honourable Members of the European Parliament (February 2012)"
 slug: "internet-societys-letter-dated-to-honourable-members-of-the-european-parliament-february-2012"
 date: 2012-02-09
 modified: 2012-02-09

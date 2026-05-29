@@ -1,11 +1,11 @@
 ---
 wpId: 5069
-title: "Supported Event &#8211; Sept 2015"
+title: "Supported Event – Sept 2015"
 slug: "supported-event-sept-2015"
 date: 2015-08-20
 modified: 2015-08-20
-excerpt: "ISOC HK SUPPORTED EVENTS DOMAINfest Asia 2015 (4-7 Sept) Asia&#8217;s first-ever DOMAINfest will soon come to Macau! DOMAINfest first launched in 2004 began as a series of gatherings globally. In Collaboration with DotAsia and Allegravita, 2015DOMAINfest.Asia will take place in Macau from Sep 4th &#"
-description: "ISOC HK SUPPORTED EVENTS DOMAINfest Asia 2015 (4-7 Sept) Asia&#8217;s first-ever DOMAINfest will soon come to Macau! DOMAINfest first launched in 2004 began as "
+excerpt: "ISOC HK SUPPORTED EVENTS DOMAINfest Asia 2015 (4-7 Sept) Asia’s first-ever DOMAINfest will soon come to Macau! DOMAINfest first launched in 2004 began as a series of gatherings globally. In Collaboration with DotAsia and Allegravita, 2015DOMAINfest.Asia will take place in Macau from Sep 4th &#"
+description: "ISOC HK SUPPORTED EVENTS DOMAINfest Asia 2015 (4-7 Sept) Asia’s first-ever DOMAINfest will soon come to Macau! DOMAINfest first launched in 2004 began as "
 categories: ["supported-events"]
 tags: []
 lang: en

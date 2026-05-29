@@ -4,8 +4,8 @@ title: "World IPv6 Launch x IPv6 in Action x IPv6World:Asia (Jun 6, 12)"
 slug: "world-ipv6-launch-x-ipv6-in-action-x-ipv6worldasia-jun-6-12"
 date: 2012-04-28
 modified: 2012-04-28
-excerpt: "&nbsp; World IPv6 Launch x IPv6 in Action x IPv6World:Asia Is Asia Pacific and China doing well on IPv6 Deployment? Organized by the Internet Society, and building on the successful one-day World IPv6 Day event held on 8 June 2011, World IPv6 Launch represents a major milestone in the global deploym"
-description: "&nbsp; World IPv6 Launch x IPv6 in Action x IPv6World:Asia Is Asia Pacific and China doing well on IPv6 Deployment? Organized by the Internet Society, and build"
+excerpt: "World IPv6 Launch x IPv6 in Action x IPv6World:Asia Is Asia Pacific and China doing well on IPv6 Deployment? Organized by the Internet Society, and building on the successful one-day World IPv6 Day event held on 8 June 2011, World IPv6 Launch represents a major milestone in the global deploym"
+description: "World IPv6 Launch x IPv6 in Action x IPv6World:Asia Is Asia Pacific and China doing well on IPv6 Deployment? Organized by the Internet Society, and build"
 categories: ["events", "ipv6", "spotlight"]
 tags: []
 lang: en

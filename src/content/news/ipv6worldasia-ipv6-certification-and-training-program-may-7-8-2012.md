@@ -1,6 +1,6 @@
 ---
 wpId: 286
-title: "IPv6World:Asia &#8211; IPv6 Certification and Training Program (May 7- 8, 2012)"
+title: "IPv6World:Asia – IPv6 Certification and Training Program (May 7- 8, 2012)"
 slug: "ipv6worldasia-ipv6-certification-and-training-program-may-7-8-2012"
 date: 2012-04-18
 modified: 2012-04-18

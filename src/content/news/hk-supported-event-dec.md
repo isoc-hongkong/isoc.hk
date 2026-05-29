@@ -4,8 +4,8 @@ title: "HK Supported Event Dec"
 slug: "hk-supported-event-dec"
 date: 2016-12-07
 modified: 2016-12-07
-excerpt: "Dear Members &amp; Friends of ISOC HK, &nbsp; Season’s Greetings to you all! Wishing you all the Joy of this Season Holidays! Cheers, Internet Society Hong Kong &nbsp;   SocTech (社創科技 &#8211; 按下快門之外) 隨著「燒菲林」的年代遠去，數碼攝影越來越普及，現在人人一智能電話，人人都可以接觸攝影藝術。然而，攝影又是否只是單單按下快門？攝影又如何結合社會工作，以拍攝影響生命? 社會課和研修課系列 ： 日期: 1"
-description: "Dear Members &amp; Friends of ISOC HK, &nbsp; Season’s Greetings to you all! Wishing you all the Joy of this Season Holidays! Cheers, Internet Society Hong Kong"
+excerpt: "Dear Members & Friends of ISOC HK,   Season’s Greetings to you all! Wishing you all the Joy of this Season Holidays! Cheers, Internet Society Hong Kong     SocTech (社創科技 – 按下快門之外) 隨著「燒菲林」的年代遠去，數碼攝影越來越普及，現在人人一智能電話，人人都可以接觸攝影藝術。然而，攝影又是否只是單單按下快門？攝影又如何結合社會工作，以拍攝影響生命? 社會課和研修課系列 ： 日期: 1"
+description: "Dear Members & Friends of ISOC HK,   Season’s Greetings to you all! Wishing you all the Joy of this Season Holidays! Cheers, Internet Society Hong Kong"
 categories: ["supported-events"]
 tags: []
 lang: en

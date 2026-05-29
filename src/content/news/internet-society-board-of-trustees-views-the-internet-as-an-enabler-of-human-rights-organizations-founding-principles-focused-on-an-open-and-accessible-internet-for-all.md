@@ -1,11 +1,11 @@
 ---
 wpId: 472
-title: "Internet Society Board of Trustees Views the Internet as an Enabler of Human Rights.  Organization&#039;s Founding Principles Focused on an Open and Accessible Internet for All"
+title: "Internet Society Board of Trustees Views the Internet as an Enabler of Human Rights.  Organization's Founding Principles Focused on an Open and Accessible Internet for All"
 slug: "internet-society-board-of-trustees-views-the-internet-as-an-enabler-of-human-rights-organizations-founding-principles-focused-on-an-open-and-accessible-internet-for-all"
 date: 2011-10-20
 modified: 2011-10-20
-excerpt: "[Dakar, Senegal &#8211; 25 October 2011] &#8211; The Internet Society today announced that its Board of Trustees, during its meeting held 22 &#8211; 23 October 2011 in Dakar, Senegal, addressed human rights issues related to Internet access. The organization has been a long-time advocate of an open,"
-description: "[Dakar, Senegal &#8211; 25 October 2011] &#8211; The Internet Society today announced that its Board of Trustees, during its meeting held 22 &#8211; 23 October "
+excerpt: "[Dakar, Senegal – 25 October 2011] – The Internet Society today announced that its Board of Trustees, during its meeting held 22 – 23 October 2011 in Dakar, Senegal, addressed human rights issues related to Internet access. The organization has been a long-time advocate of an open,"
+description: "[Dakar, Senegal – 25 October 2011] – The Internet Society today announced that its Board of Trustees, during its meeting held 22 – 23 October "
 categories: ["global-news", "internet-freedom", "news", "spotlight"]
 tags: []
 lang: en

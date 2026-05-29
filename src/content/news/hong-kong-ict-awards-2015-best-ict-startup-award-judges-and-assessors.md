@@ -1,11 +1,11 @@
 ---
 wpId: 4473
-title: "Hong Kong ICT Awards 2015: Best ICT Startup Award &#8211; Judges and Assessors"
+title: "Hong Kong ICT Awards 2015: Best ICT Startup Award – Judges and Assessors"
 slug: "hong-kong-ict-awards-2015-best-ict-startup-award-judges-and-assessors"
 date: 2015-01-20
 modified: 2015-01-20
-excerpt: "Chairperson of Judging Panel Hon. Bernard Charnwut Chan Chairperson The Hong Kong Council of Social Service Member Executive Council, HKSAR Government &nbsp; Judges Mr. Ray Chan Co-founder 9GAG Mr. Jason Chiu Chief Executive Officer Cherrypicks Mr. Sunny Kok Chief Executive Officer Green Tomato Mr. "
-description: "Chairperson of Judging Panel Hon. Bernard Charnwut Chan Chairperson The Hong Kong Council of Social Service Member Executive Council, HKSAR Government &nbsp; Ju"
+excerpt: "Chairperson of Judging Panel Hon. Bernard Charnwut Chan Chairperson The Hong Kong Council of Social Service Member Executive Council, HKSAR Government   Judges Mr. Ray Chan Co-founder 9GAG Mr. Jason Chiu Chief Executive Officer Cherrypicks Mr. Sunny Kok Chief Executive Officer Green Tomato Mr. "
+description: "Chairperson of Judging Panel Hon. Bernard Charnwut Chan Chairperson The Hong Kong Council of Social Service Member Executive Council, HKSAR Government   Ju"
 categories: ["isoc-hk", "news", "spotlight", "startup"]
 tags: []
 lang: en

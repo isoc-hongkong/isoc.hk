@@ -5,7 +5,7 @@ slug: "hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-secu
 originalSlug: "hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-security-law-hong-kongs-great-firewall-%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e7%ae%a1%e6%b2%bb%e8%ab%96"
 date: 2020-11-09
 modified: 2020-11-09
-excerpt: "Register: https://forms.gle/naBTUjQdiNf9CNL37 Hong Kong Internet Governance Forum: Is the National Security Law Hong Kong’s Great Firewall? Date: 18 NOV Time: 7pm &#8211; 9pm  Venue: ZOOM Language: English On July 1, Hong Kong’s sweeping new national security law came into effect. Though the law doe"
+excerpt: "Register: https://forms.gle/naBTUjQdiNf9CNL37 Hong Kong Internet Governance Forum: Is the National Security Law Hong Kong’s Great Firewall? Date: 18 NOV Time: 7pm – 9pm  Venue: ZOOM Language: English On July 1, Hong Kong’s sweeping new national security law came into effect. Though the law doe"
 description: "Register: https://forms.gle/naBTUjQdiNf9CNL37 Hong Kong Internet Governance Forum: Is the National Security Law Hong Kong’s Great Firewall? Date: 18 NOV Time: 7"
 categories: ["events", "international-events"]
 tags: []

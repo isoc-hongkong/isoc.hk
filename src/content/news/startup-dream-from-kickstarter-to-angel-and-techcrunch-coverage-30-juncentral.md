@@ -4,7 +4,7 @@ title: "Startup Dream: From Kickstarter to Angel and Techcrunch coverage (7 Jul@
 slug: "startup-dream-from-kickstarter-to-angel-and-techcrunch-coverage-30-juncentral"
 date: 2014-06-16
 modified: 2014-06-16
-excerpt: "Startup Dream: From Kickstarter to Angel and Techcrunch coverage (7 Jul@Central) How to kick start your idea with Kickstarter? How to raise your Angel fund? How to get featured on Techcrunch? Please join us and get to know how to do it! Date: 7 Jul, 2014 (Mon) Time: 6:30pm &#8211; 8:30pm Venue: Gara"
+excerpt: "Startup Dream: From Kickstarter to Angel and Techcrunch coverage (7 Jul@Central) How to kick start your idea with Kickstarter? How to raise your Angel fund? How to get featured on Techcrunch? Please join us and get to know how to do it! Date: 7 Jul, 2014 (Mon) Time: 6:30pm – 8:30pm Venue: Gara"
 description: "Startup Dream: From Kickstarter to Angel and Techcrunch coverage (7 Jul@Central) How to kick start your idea with Kickstarter? How to raise your Angel fund? How"
 categories: ["events", "startup"]
 tags: []

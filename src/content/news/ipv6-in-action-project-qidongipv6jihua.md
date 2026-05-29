@@ -1,12 +1,12 @@
 ---
 wpId: 1027
-title: "IPv6 In Action Project &#124; 啟動IPv6計劃"
+title: "IPv6 In Action Project | 啟動IPv6計劃"
 slug: "ipv6-in-action-project-qidongipv6jihua"
 originalSlug: "ipv6-in-action-project-%e5%95%9f%e5%8b%95ipv6%e8%a8%88%e5%8a%83"
 date: 2013-02-01
 modified: 2013-02-01
-excerpt: "The &#8220;IPv6 In Action&#8221; Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exhaustion situation and to raise their awareness of IPv6. Sponsored by The Office of the Government Chief Information Officer (OGCIO), the pro"
-description: "The &#8220;IPv6 In Action&#8221; Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exh"
+excerpt: "The “IPv6 In Action” Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exhaustion situation and to raise their awareness of IPv6. Sponsored by The Office of the Government Chief Information Officer (OGCIO), the pro"
+description: "The “IPv6 In Action” Project aims to help the general public and Small and Medium Enterprises (SMEs) to better understand the IPv4 address space exh"
 categories: ["events", "ipv6", "news", "spotlight"]
 tags: ["ipv6"]
 lang: en

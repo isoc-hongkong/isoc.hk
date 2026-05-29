@@ -1,11 +1,11 @@
 ---
 wpId: 159
-title: "ISOC-HK eNewsletter &#8211; November 2012"
+title: "ISOC-HK eNewsletter – November 2012"
 slug: "isoc-hk-enewsletter-november-2012"
 date: 2012-11-01
 modified: 2012-11-01
-excerpt: "HIGHLIGHT OF EVENT SecureHongKong 2012 &#8211; Mitigating Against Emerging Threats (17 Dec @ Cyberport) Conference will provide a platform for security professionals to meet and discuss the challenges information security professionals face when trying to secure their organization infrastructure, ke"
-description: "HIGHLIGHT OF EVENT SecureHongKong 2012 &#8211; Mitigating Against Emerging Threats (17 Dec @ Cyberport) Conference will provide a platform for security professi"
+excerpt: "HIGHLIGHT OF EVENT SecureHongKong 2012 – Mitigating Against Emerging Threats (17 Dec @ Cyberport) Conference will provide a platform for security professionals to meet and discuss the challenges information security professionals face when trying to secure their organization infrastructure, ke"
+description: "HIGHLIGHT OF EVENT SecureHongKong 2012 – Mitigating Against Emerging Threats (17 Dec @ Cyberport) Conference will provide a platform for security professi"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

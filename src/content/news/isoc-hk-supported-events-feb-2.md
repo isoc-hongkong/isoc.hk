@@ -4,8 +4,8 @@ title: "ISOC HK Supported Events – Feb"
 slug: "isoc-hk-supported-events-feb-2"
 date: 2016-02-02
 modified: 2016-02-02
-excerpt: "ISOC HK SUPPORTED EVENTS Dear Members &amp; Friends of ISOC HK, &nbsp; Wishing you all the luck, health, and fortune in the Year of the Monkey! Cheers, Internet Society Hong Kong &nbsp; &nbsp;   Joint ICT Spring Dinner 2016 (18 Feb)  To welcome the Year of the Monkey, the Joint ICT Spring Dinner, jo"
-description: "ISOC HK SUPPORTED EVENTS Dear Members &amp; Friends of ISOC HK, &nbsp; Wishing you all the luck, health, and fortune in the Year of the Monkey! Cheers, Internet"
+excerpt: "ISOC HK SUPPORTED EVENTS Dear Members & Friends of ISOC HK,   Wishing you all the luck, health, and fortune in the Year of the Monkey! Cheers, Internet Society Hong Kong       Joint ICT Spring Dinner 2016 (18 Feb)  To welcome the Year of the Monkey, the Joint ICT Spring Dinner, jo"
+description: "ISOC HK SUPPORTED EVENTS Dear Members & Friends of ISOC HK,   Wishing you all the luck, health, and fortune in the Year of the Monkey! Cheers, Internet"
 categories: ["others", "supported-events"]
 tags: []
 lang: en

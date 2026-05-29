@@ -4,8 +4,8 @@ title: "Response to Public Consultation on the Proposed New Digital 21 Strategy"
 slug: "response-to-public-consultation-on-the-proposed-new-digital-21-strategy"
 date: 2013-11-30
 modified: 2013-11-30
-excerpt: "Response to Public Consultation on the Proposed New Digital 21 Strategy &nbsp; The Vision of Internet Society Hong Kong (ISOC-HK) is &ldquo;Internet is for Everyone&rdquo;. By connecting the world, working with others, and advocating for equal access to the Internet, we strive to make the world a be"
-description: "Response to Public Consultation on the Proposed New Digital 21 Strategy &nbsp; The Vision of Internet Society Hong Kong (ISOC-HK) is &ldquo;Internet is for Ever"
+excerpt: "Response to Public Consultation on the Proposed New Digital 21 Strategy   The Vision of Internet Society Hong Kong (ISOC-HK) is “Internet is for Everyone”. By connecting the world, working with others, and advocating for equal access to the Internet, we strive to make the world a be"
+description: "Response to Public Consultation on the Proposed New Digital 21 Strategy   The Vision of Internet Society Hong Kong (ISOC-HK) is “Internet is for Ever"
 categories: ["consultation-paper", "copyright-creativity", "internet-freedom", "internet-security-privacy", "startup", "web-accessibility"]
 tags: []
 lang: en

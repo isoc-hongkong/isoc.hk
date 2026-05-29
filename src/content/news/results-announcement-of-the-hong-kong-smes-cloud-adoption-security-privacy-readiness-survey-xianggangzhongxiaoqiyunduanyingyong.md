@@ -1,12 +1,12 @@
 ---
 wpId: 6415
-title: "Results Announcement of the  &quot;Hong Kong SMEs Cloud Adoption, Security &amp; Privacy Readiness Survey&quot; 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈"
+title: 'Results Announcement of the  "Hong Kong SMEs Cloud Adoption, Security & Privacy Readiness Survey" 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈'
 slug: "results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-xianggangzhongxiaoqiyunduanyingyong"
 originalSlug: "results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-%e3%80%8a%e9%a6%99%e6%b8%af%e4%b8%ad%e5%b0%8f%e4%bc%81%e9%9b%b2%e7%ab%af%e6%87%89%e7%94%a8%e3%80%81"
 date: 2017-11-01
 modified: 2017-12-10
-excerpt: "Results Announcement of the &#8220;Hong Kong SMEs Cloud Adoption, Security &amp; Privacy Readiness Survey&#8221; 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈 SMEs are generally unclear on how cloud service providers handle their customers privacy and security policy, while 70% of the interviewed SMEs are not familia"
-description: "Results Announcement of the &#8220;Hong Kong SMEs Cloud Adoption, Security &amp; Privacy Readiness Survey&#8221; 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈 SMEs are generally "
+excerpt: "Results Announcement of the “Hong Kong SMEs Cloud Adoption, Security & Privacy Readiness Survey” 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈 SMEs are generally unclear on how cloud service providers handle their customers privacy and security policy, while 70% of the interviewed SMEs are not familia"
+description: "Results Announcement of the “Hong Kong SMEs Cloud Adoption, Security & Privacy Readiness Survey” 《香港中小企雲端應用、保安及私隱就緒程度調查》結果公佈 SMEs are generally "
 categories: ["cloud", "internet-security-privacy", "news", "press-release", "privacy-2", "publication", "security-2"]
 tags: []
 featuredImage: "/images/uploads/2017/11/HT-18-1.jpg"

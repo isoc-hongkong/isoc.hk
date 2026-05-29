@@ -1,11 +1,11 @@
 ---
 wpId: 2899
-title: "SecureHongKong 2013 &#8211; Know What You Don’t Know (28 Nov@Cyberport)"
+title: "SecureHongKong 2013 – Know What You Don’t Know (28 Nov@Cyberport)"
 slug: "securehongkong-2013-know-what-you-dont-know-28-novcyberport"
 date: 2013-10-31
 modified: 2013-10-31
-excerpt: "SecureHongKong 2013 &#8211; Know What You Don&#8217;t Know (28 Nov) Internet Society Hong Kong Members Enjoy a Complimentary Seat and Earn up to 7.5 CPE credits! Continuing from the success of last year’s conference, jointly organized by (ISC)², Internet Society Hong Kong, Professional Information S"
-description: "SecureHongKong 2013 &#8211; Know What You Don&#8217;t Know (28 Nov) Internet Society Hong Kong Members Enjoy a Complimentary Seat and Earn up to 7.5 CPE credits"
+excerpt: "SecureHongKong 2013 – Know What You Don’t Know (28 Nov) Internet Society Hong Kong Members Enjoy a Complimentary Seat and Earn up to 7.5 CPE credits! Continuing from the success of last year’s conference, jointly organized by (ISC)², Internet Society Hong Kong, Professional Information S"
+description: "SecureHongKong 2013 – Know What You Don’t Know (28 Nov) Internet Society Hong Kong Members Enjoy a Complimentary Seat and Earn up to 7.5 CPE credits"
 categories: ["events", "internet-security-privacy"]
 tags: []
 lang: en

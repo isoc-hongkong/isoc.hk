@@ -1,11 +1,11 @@
 ---
 wpId: 4498
-title: "Executive Committee 2014 &#8211; 2015"
+title: "Executive Committee 2014 – 2015"
 slug: "executive-committee-2014-2015"
 date: 2015-01-01
 modified: 2015-01-01
-excerpt: "Board of Directors&nbsp; 2014 &ndash; 2015 &nbsp; Chester Soong, Chairman &nbsp; Ben Cheng, Vice Chairman, and Convener, Startup Working Group &nbsp; Ken Lam, Treasurer and Convener, Internet Application Development Working Group &nbsp; Jacky Tsoi, Secretary and Convener, Internet Security and Priva"
-description: "Board of Directors&nbsp; 2014 &ndash; 2015 &nbsp; Chester Soong, Chairman &nbsp; Ben Cheng, Vice Chairman, and Convener, Startup Working Group &nbsp; Ken Lam, T"
+excerpt: "Board of Directors  2014 – 2015   Chester Soong, Chairman   Ben Cheng, Vice Chairman, and Convener, Startup Working Group   Ken Lam, Treasurer and Convener, Internet Application Development Working Group   Jacky Tsoi, Secretary and Convener, Internet Security and Priva"
+description: "Board of Directors  2014 – 2015   Chester Soong, Chairman   Ben Cheng, Vice Chairman, and Convener, Startup Working Group   Ken Lam, T"
 categories: ["about-us"]
 tags: []
 lang: en

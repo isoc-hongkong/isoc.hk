@@ -4,8 +4,8 @@ title: "HK Supported Event Jan"
 slug: "hk-supported-event-jan"
 date: 2017-01-03
 modified: 2017-01-03
-excerpt: "Dear Members &amp; Friends of ISOC HK, Wishing You a Prosperous Year of the Rooster! Cheers,Internet Society Hong Kong   Joint ICT Spring Dinner 2017 (9 Feb) To welcome The Year of the Rooster, the Hong Kong Information Technology Federation (HKITF) and Hong Kong Wireless Technology Industry Associa"
-description: "Dear Members &amp; Friends of ISOC HK, Wishing You a Prosperous Year of the Rooster! Cheers,Internet Society Hong Kong   Joint ICT Spring Dinner 2017 (9 Feb) To"
+excerpt: "Dear Members & Friends of ISOC HK, Wishing You a Prosperous Year of the Rooster! Cheers,Internet Society Hong Kong   Joint ICT Spring Dinner 2017 (9 Feb) To welcome The Year of the Rooster, the Hong Kong Information Technology Federation (HKITF) and Hong Kong Wireless Technology Industry Associa"
+description: "Dear Members & Friends of ISOC HK, Wishing You a Prosperous Year of the Rooster! Cheers,Internet Society Hong Kong   Joint ICT Spring Dinner 2017 (9 Feb) To"
 categories: ["supported-events"]
 tags: []
 lang: en

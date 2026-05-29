@@ -1,6 +1,6 @@
 ---
 wpId: 4157
-title: "Hong Kong ICT Awards 2015: Best ICT Startup Award &#8211; Leaflet"
+title: "Hong Kong ICT Awards 2015: Best ICT Startup Award – Leaflet"
 slug: "hong-kong-ict-awards-2015-best-ict-startup-award"
 date: 2015-01-15
 modified: 2015-01-15

@@ -1,11 +1,11 @@
 ---
 wpId: 331
-title: "World Internet Developers&#039; Summit 2012"
+title: "World Internet Developers' Summit 2012"
 slug: "world-internet-developers-summit-2012"
 date: 2012-03-04
 modified: 2012-03-04
-excerpt: "Get ready for Hong Kong&#8217;s First World Internet Developers&#8217; Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technology Parks Corporation, the action-packed two-day summit is the first and may be the biggest cross-platform developer summit in the region.  "
-description: "Get ready for Hong Kong&#8217;s First World Internet Developers&#8217; Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technol"
+excerpt: "Get ready for Hong Kong’s First World Internet Developers’ Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technology Parks Corporation, the action-packed two-day summit is the first and may be the biggest cross-platform developer summit in the region.  "
+description: "Get ready for Hong Kong’s First World Internet Developers’ Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technol"
 categories: ["application-development", "events", "spotlight"]
 tags: []
 lang: en

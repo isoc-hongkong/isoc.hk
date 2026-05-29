@@ -1,11 +1,11 @@
 ---
 wpId: 291
-title: "&quot;Building Trust in Cloud Computing&quot; Summit 2012"
+title: '"Building Trust in Cloud Computing" Summit 2012'
 slug: "building-trust-in-cloud-computing-summit-2012"
 date: 2012-04-18
 modified: 2012-04-18
-excerpt: "&#8220;Building Trust in Cloud Computing&#8221; Summit 2012 and Inauguration of CSA Hong Kong &amp; Macau Chapter Hosted by Internet Society Hong Kong and Cloud Security Alliance &#8211; Hong Kong &amp; Macau, join us for the one day summit to learn more about Security Assurance with Cloud Computing"
-description: "&#8220;Building Trust in Cloud Computing&#8221; Summit 2012 and Inauguration of CSA Hong Kong &amp; Macau Chapter Hosted by Internet Society Hong Kong and Cloud"
+excerpt: "“Building Trust in Cloud Computing” Summit 2012 and Inauguration of CSA Hong Kong & Macau Chapter Hosted by Internet Society Hong Kong and Cloud Security Alliance – Hong Kong & Macau, join us for the one day summit to learn more about Security Assurance with Cloud Computing"
+description: "“Building Trust in Cloud Computing” Summit 2012 and Inauguration of CSA Hong Kong & Macau Chapter Hosted by Internet Society Hong Kong and Cloud"
 categories: ["events", "internet-security-privacy", "spotlight"]
 tags: []
 lang: en

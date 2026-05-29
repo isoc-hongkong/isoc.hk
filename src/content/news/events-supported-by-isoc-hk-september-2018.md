@@ -4,8 +4,8 @@ title: "Events Supported by ISOC HK– September 2018"
 slug: "events-supported-by-isoc-hk-september-2018"
 date: 2018-09-28
 modified: 2019-03-06
-excerpt: "ISOC HK is supporting the following events: EduTECH Asia 2018 (9-10 Oct, 2018) Seminar on &#8220;Surviving the Sino-US Trade Dispute: Enhancement of Government Support to SMEs&#8221; (15 Oct, 2018) Hong Kong Towards Faster Payment Conference (16 Oct, 2018) R"
-description: "ISOC HK is supporting the following events: EduTECH Asia 2018 (9-10 Oct, 2018) Seminar on &#8220;Surviving the Sino-US Trade Dispute: Enhancement of Government "
+excerpt: "ISOC HK is supporting the following events: EduTECH Asia 2018 (9-10 Oct, 2018) Seminar on “Surviving the Sino-US Trade Dispute: Enhancement of Government Support to SMEs” (15 Oct, 2018) Hong Kong Towards Faster Payment Conference (16 Oct, 2018) R"
+description: "ISOC HK is supporting the following events: EduTECH Asia 2018 (9-10 Oct, 2018) Seminar on “Surviving the Sino-US Trade Dispute: Enhancement of Government "
 categories: ["events"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "HK Supported Event May"
 slug: "hk-supported-event-may"
 date: 2016-05-06
 modified: 2016-05-06
-excerpt: "ISOC HK SUPPORTED EVENTS   The HK Tech &#038; Startup Job Fair (28 May) This Job Fair aims to connect talented job seekers with the best HK-based startups. This event will bring together undergraduates, graduate students, and seasoned professionals to one event, exclusively for Tech Startups.. Date "
-description: "ISOC HK SUPPORTED EVENTS   The HK Tech &#038; Startup Job Fair (28 May) This Job Fair aims to connect talented job seekers with the best HK-based startups. This"
+excerpt: "ISOC HK SUPPORTED EVENTS   The HK Tech & Startup Job Fair (28 May) This Job Fair aims to connect talented job seekers with the best HK-based startups. This event will bring together undergraduates, graduate students, and seasoned professionals to one event, exclusively for Tech Startups.. Date "
+description: "ISOC HK SUPPORTED EVENTS   The HK Tech & Startup Job Fair (28 May) This Job Fair aims to connect talented job seekers with the best HK-based startups. This"
 categories: ["supported-events"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "IPv6 Certification and Training Program (Oct 4-5)"
 slug: "ipv6-certification-and-training-program-oct-4-5"
 date: 2012-09-21
 modified: 2012-09-21
-excerpt: "If you cannot view the below properly, please check here &nbsp; With full house attendance and great feedback, we have brought back by popular demand, our Third IPv6 Certification and Training Program in Hong Kong. We have incorporated feedback from the previous training and enhanced the program. Th"
-description: "If you cannot view the below properly, please check here &nbsp; With full house attendance and great feedback, we have brought back by popular demand, our Third"
+excerpt: "If you cannot view the below properly, please check here   With full house attendance and great feedback, we have brought back by popular demand, our Third IPv6 Certification and Training Program in Hong Kong. We have incorporated feedback from the previous training and enhanced the program. Th"
+description: "If you cannot view the below properly, please check here   With full house attendance and great feedback, we have brought back by popular demand, our Third"
 categories: ["events", "ipv6"]
 tags: []
 lang: en

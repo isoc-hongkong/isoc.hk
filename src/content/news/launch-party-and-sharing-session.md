@@ -1,11 +1,11 @@
 ---
 wpId: 3037
-title: "Best ICT Startup Award &#8211; Launch Party and Sharing Session"
+title: "Best ICT Startup Award – Launch Party and Sharing Session"
 slug: "launch-party-and-sharing-session"
 date: 2013-11-16
 modified: 2013-11-16
-excerpt: "Best ICT Startup Award &#8211; Launch Party and Sharing Session Have you just started an ICT startup? Ever wondered what the secrets to success are? The first Best ICT Startup Award of Hong Kong ICT Award, an award to recognise the most outstanding ICT startups in Hong Kong, is now open for applicat"
-description: "Best ICT Startup Award &#8211; Launch Party and Sharing Session Have you just started an ICT startup? Ever wondered what the secrets to success are? The first B"
+excerpt: "Best ICT Startup Award – Launch Party and Sharing Session Have you just started an ICT startup? Ever wondered what the secrets to success are? The first Best ICT Startup Award of Hong Kong ICT Award, an award to recognise the most outstanding ICT startups in Hong Kong, is now open for applicat"
+description: "Best ICT Startup Award – Launch Party and Sharing Session Have you just started an ICT startup? Ever wondered what the secrets to success are? The first B"
 categories: ["events", "startup"]
 tags: []
 lang: en

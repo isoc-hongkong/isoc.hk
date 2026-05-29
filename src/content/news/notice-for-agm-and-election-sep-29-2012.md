@@ -4,7 +4,7 @@ title: "Notice for AGM and Election (Sep 29, 2012)"
 slug: "notice-for-agm-and-election-sep-29-2012"
 date: 2012-09-19
 modified: 2012-09-19
-excerpt: "The AGM of the Internet Society Hong Kong Limited will be held on 29-Sep-2012 (Sat). We will also hold our EXCO election in this meeting.There will be five seats opened &#8211; four for full members and one for general members. If you want to join the election please fill in the appropriate nominati"
+excerpt: "The AGM of the Internet Society Hong Kong Limited will be held on 29-Sep-2012 (Sat). We will also hold our EXCO election in this meeting.There will be five seats opened – four for full members and one for general members. If you want to join the election please fill in the appropriate nominati"
 description: "The AGM of the Internet Society Hong Kong Limited will be held on 29-Sep-2012 (Sat). We will also hold our EXCO election in this meeting.There will be five seat"
 categories: ["notice"]
 tags: []

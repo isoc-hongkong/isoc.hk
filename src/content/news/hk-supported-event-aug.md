@@ -4,7 +4,7 @@ title: "HK Supported Event Aug"
 slug: "hk-supported-event-aug"
 date: 2016-08-01
 modified: 2016-08-01
-excerpt: "ISOC HK SUPPORTED EVENTS   LegCo ITFC Election Forum (29 Aug) An Election Forum will be organized to create a platform for IT voters to understand more about the candidates’ view for the upcoming LEGCO Election IT Functional Constituency. Date 29 Aug (Mon) Time: 7:00pm &#8211; 8:30pm Venue: Auditori"
+excerpt: "ISOC HK SUPPORTED EVENTS   LegCo ITFC Election Forum (29 Aug) An Election Forum will be organized to create a platform for IT voters to understand more about the candidates’ view for the upcoming LEGCO Election IT Functional Constituency. Date 29 Aug (Mon) Time: 7:00pm – 8:30pm Venue: Auditori"
 description: "ISOC HK SUPPORTED EVENTS   LegCo ITFC Election Forum (29 Aug) An Election Forum will be organized to create a platform for IT voters to understand more about th"
 categories: ["supported-events"]
 tags: []

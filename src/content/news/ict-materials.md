@@ -1,6 +1,6 @@
 ---
 wpId: 7196
-title: "資訊及通訊科技科增潤教材 &#8211; 教師培訓課程"
+title: "資訊及通訊科技科增潤教材 – 教師培訓課程"
 slug: "ict-materials"
 originalSlug: "ict_materials"
 date: 2022-08-31

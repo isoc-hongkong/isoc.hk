@@ -4,8 +4,8 @@ title: "SecureHongKong 2016"
 slug: "securehongkong-2016"
 date: 2016-08-09
 modified: 2016-08-09
-excerpt: "&nbsp; SecureHongKong 2016&nbsp; Privacy, Policy and Technology 2 Sep, 2016 (Fri) | Cyberport | 10:00 &#8211; 17:15 (Registration starts at 09:30) &nbsp; With the theme of &lsquo;Advancing Security Leaders: People, Policy &amp; Technology&rsquo;, this one-day conference will deliver discussion and t"
-description: "&nbsp; SecureHongKong 2016&nbsp; Privacy, Policy and Technology 2 Sep, 2016 (Fri) | Cyberport | 10:00 &#8211; 17:15 (Registration starts at 09:30) &nbsp; With t"
+excerpt: "SecureHongKong 2016  Privacy, Policy and Technology 2 Sep, 2016 (Fri) | Cyberport | 10:00 – 17:15 (Registration starts at 09:30)   With the theme of ‘Advancing Security Leaders: People, Policy & Technology’, this one-day conference will deliver discussion and t"
+description: "SecureHongKong 2016  Privacy, Policy and Technology 2 Sep, 2016 (Fri) | Cyberport | 10:00 – 17:15 (Registration starts at 09:30)   With t"
 categories: ["events", "internet-security-privacy", "privacy-2", "security-2"]
 tags: []
 lang: en

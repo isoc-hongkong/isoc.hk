@@ -1,11 +1,11 @@
 ---
 wpId: 174
-title: "Supported Events &#8211; Oct 2012"
+title: "Supported Events – Oct 2012"
 slug: "supported-events-oct-2012"
 date: 2012-10-10
 modified: 2012-10-10
-excerpt: "ISOC HK SUPPORTED EVENTS CRE &amp; CSQS Roundtable (Oct 11)Theme: Discovering CRE Innovation &amp; Integration, Meeting Future Customer Demand Today The speaker/s and panelists will share about best practices of past Customer Relationship Excellence Awards (CRE Awards) winners and companies that hav"
-description: "ISOC HK SUPPORTED EVENTS CRE &amp; CSQS Roundtable (Oct 11)Theme: Discovering CRE Innovation &amp; Integration, Meeting Future Customer Demand Today The speaker"
+excerpt: "ISOC HK SUPPORTED EVENTS CRE & CSQS Roundtable (Oct 11)Theme: Discovering CRE Innovation & Integration, Meeting Future Customer Demand Today The speaker/s and panelists will share about best practices of past Customer Relationship Excellence Awards (CRE Awards) winners and companies that hav"
+description: "ISOC HK SUPPORTED EVENTS CRE & CSQS Roundtable (Oct 11)Theme: Discovering CRE Innovation & Integration, Meeting Future Customer Demand Today The speaker"
 categories: ["news", "supported-events"]
 tags: []
 lang: en

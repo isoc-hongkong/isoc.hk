@@ -4,8 +4,8 @@ title: "NOTICE FOR AGM 2022 AND ELECTION"
 slug: "notice-for-agm-2022-and-election"
 date: 2022-11-28
 modified: 2022-12-14
-excerpt: "&lt;FOR MEMBERS ONLY&gt; The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 19-Dec-2022 (Monday). The Election of the Board of Directors will be held in the AGM. Two to Five seats of the Board will be opened for election and both Full Member and General Member nom"
-description: "&lt;FOR MEMBERS ONLY&gt; The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 19-Dec-2022 (Monday). The Election of the Board "
+excerpt: "<FOR MEMBERS ONLY> The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 19-Dec-2022 (Monday). The Election of the Board of Directors will be held in the AGM. Two to Five seats of the Board will be opened for election and both Full Member and General Member nom"
+description: "<FOR MEMBERS ONLY> The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 19-Dec-2022 (Monday). The Election of the Board "
 categories: ["news"]
 tags: []
 lang: en

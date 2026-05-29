@@ -2,7 +2,7 @@
 wpId: 682
 title: "Privacy Policy Statement"
 slug: "privacy-policy-statement"
-description: "This Privacy Policy (here forth “this Policy”) of Internet Society Hong Kong Limited (here forth &#8220;ISOC HK&#8221;) and its practice in relation to the coll"
+description: "This Privacy Policy (here forth “this Policy”) of Internet Society Hong Kong Limited (here forth “ISOC HK”) and its practice in relation to the coll"
 lang: en
 ---
 

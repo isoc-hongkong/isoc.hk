@@ -1,11 +1,11 @@
 ---
 wpId: 4435
-title: "Hong Kong ICT Awards 2015: Best ICT Startup Award &#8211; Call for Entries"
+title: "Hong Kong ICT Awards 2015: Best ICT Startup Award – Call for Entries"
 slug: "hong-kong-ict-awards-2015-best-ict-startup-award-call-for-entries"
 date: 2015-01-05
 modified: 2015-01-05
-excerpt: "Hong Kong ICT Awards 2015: Best ICT Startup Award &#8211; Call for Entries &nbsp; &nbsp; ​ &nbsp; &nbsp; &nbsp; Encouraging young entrepreneurs and rewarding tech startups Call for Entries –Best ICT Startup Award &nbsp; Hong Kong ICT Awards 2015: Best ICT Startup Award aims to recognize ICT startups"
-description: "Hong Kong ICT Awards 2015: Best ICT Startup Award &#8211; Call for Entries &nbsp; &nbsp; ​ &nbsp; &nbsp; &nbsp; Encouraging young entrepreneurs and rewarding te"
+excerpt: "Hong Kong ICT Awards 2015: Best ICT Startup Award – Call for Entries     ​       Encouraging young entrepreneurs and rewarding tech startups Call for Entries –Best ICT Startup Award   Hong Kong ICT Awards 2015: Best ICT Startup Award aims to recognize ICT startups"
+description: "Hong Kong ICT Awards 2015: Best ICT Startup Award – Call for Entries     ​       Encouraging young entrepreneurs and rewarding te"
 categories: ["isoc-hk", "spotlight", "startup"]
 tags: []
 lang: en

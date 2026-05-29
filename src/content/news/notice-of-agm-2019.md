@@ -4,8 +4,8 @@ title: "NOTICE OF AGM 2019"
 slug: "notice-of-agm-2019"
 date: 2019-11-08
 modified: 2019-11-08
-excerpt: "FOR&nbsp;ISOC HK MEMBERS ONLY NOTICE OF AGM AND ELECTION The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 10-Dec-2019 (Tuesday). The Election of the Board of Directors will be held in the AGM. Five seats of the Board will be opened for election, with four seats "
-description: "FOR&nbsp;ISOC HK MEMBERS ONLY NOTICE OF AGM AND ELECTION The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 10-Dec-2019 (Tue"
+excerpt: "FOR ISOC HK MEMBERS ONLY NOTICE OF AGM AND ELECTION The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 10-Dec-2019 (Tuesday). The Election of the Board of Directors will be held in the AGM. Five seats of the Board will be opened for election, with four seats "
+description: "FOR ISOC HK MEMBERS ONLY NOTICE OF AGM AND ELECTION The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 10-Dec-2019 (Tue"
 categories: ["news"]
 tags: []
 lang: en

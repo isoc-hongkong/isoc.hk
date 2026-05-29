@@ -1,6 +1,6 @@
 ---
 wpId: 6638
-title: "Events Supported by ISOC HK&#8211; August 2018"
+title: "Events Supported by ISOC HK– August 2018"
 slug: "events-supported-by-isoc-hk-august-2018"
 date: 2018-08-29
 modified: 2018-08-29

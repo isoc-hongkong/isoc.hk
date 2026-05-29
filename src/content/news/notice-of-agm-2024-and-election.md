@@ -4,8 +4,8 @@ title: "NOTICE OF AGM 2024 AND ELECTION"
 slug: "notice-of-agm-2024-and-election"
 date: 2025-01-23
 modified: 2025-01-23
-excerpt: "&lt; MEMBERS ONLY &gt; The&nbsp;Annual&nbsp;General&nbsp;Meeting&nbsp;(AGM) of Internet Society Hong Kong Limited will be held on 24-Jan-2025 (Friday).&nbsp;The Election of the Board of Directors will be held in the&nbsp;AGM. THREE seats of the Board will be opened for election and both Full Member "
-description: "&lt; MEMBERS ONLY &gt; The&nbsp;Annual&nbsp;General&nbsp;Meeting&nbsp;(AGM) of Internet Society Hong Kong Limited will be held on 24-Jan-2025 (Friday).&nbsp;The"
+excerpt: "< MEMBERS ONLY > The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 24-Jan-2025 (Friday). The Election of the Board of Directors will be held in the AGM. THREE seats of the Board will be opened for election and both Full Member "
+description: "< MEMBERS ONLY > The Annual General Meeting (AGM) of Internet Society Hong Kong Limited will be held on 24-Jan-2025 (Friday). The"
 categories: ["news"]
 tags: []
 lang: en

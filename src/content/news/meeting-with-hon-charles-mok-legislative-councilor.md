@@ -4,8 +4,8 @@ title: "Meeting with Hon. Charles Mok, Legislative Councilor (IT)"
 slug: "meeting-with-hon-charles-mok-legislative-councilor"
 date: 2013-01-06
 modified: 2013-01-06
-excerpt: "Meeting with Hon. Charles Mok, Legislative Councilor (IT) &amp; Guided Tour in the new LegCo Complex We, the Internet Society Hong Kong advocate a free and open Internet by actively engaging in the consultation of Internet governance or related policies to uphold the freedom of expression and opinio"
-description: "Meeting with Hon. Charles Mok, Legislative Councilor (IT) &amp; Guided Tour in the new LegCo Complex We, the Internet Society Hong Kong advocate a free and open"
+excerpt: "Meeting with Hon. Charles Mok, Legislative Councilor (IT) & Guided Tour in the new LegCo Complex We, the Internet Society Hong Kong advocate a free and open Internet by actively engaging in the consultation of Internet governance or related policies to uphold the freedom of expression and opinio"
+description: "Meeting with Hon. Charles Mok, Legislative Councilor (IT) & Guided Tour in the new LegCo Complex We, the Internet Society Hong Kong advocate a free and open"
 categories: ["events"]
 tags: ["charles-mok", "guided-tour", "legco-complex", "legislative-council"]
 lang: en

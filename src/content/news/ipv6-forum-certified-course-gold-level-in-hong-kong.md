@@ -4,8 +4,8 @@ title: "IPv6 Forum Certified Course (Gold Level) in Hong Kong （May-Jun 2013)"
 slug: "ipv6-forum-certified-course-gold-level-in-hong-kong"
 date: 2013-04-09
 modified: 2013-04-09
-excerpt: "Become an &#8220;IPv6 Forum Certified Engineer&#8221; now! IPv6 Forum Certified Course (Gold Level) in Hong Kong This IPv6 Forum Certified Course (Gold Level) is recognized and certified by IPv6 Forum. This is the first such course in Hong Kong jointly hosted by Internet Society Hong Kong and IPv6 N"
-description: "Become an &#8220;IPv6 Forum Certified Engineer&#8221; now! IPv6 Forum Certified Course (Gold Level) in Hong Kong This IPv6 Forum Certified Course (Gold Level) i"
+excerpt: "Become an “IPv6 Forum Certified Engineer” now! IPv6 Forum Certified Course (Gold Level) in Hong Kong This IPv6 Forum Certified Course (Gold Level) is recognized and certified by IPv6 Forum. This is the first such course in Hong Kong jointly hosted by Internet Society Hong Kong and IPv6 N"
+description: "Become an “IPv6 Forum Certified Engineer” now! IPv6 Forum Certified Course (Gold Level) in Hong Kong This IPv6 Forum Certified Course (Gold Level) i"
 categories: ["events", "ipv6", "spotlight"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "New gTLDs: Help shape the future of Internet? Briefing Session (7 Dec 11
 slug: "new-gtlds-help-shape-the-future-of-internet-briefing-session-7-dec-11"
 date: 2011-12-07
 modified: 2011-12-07
-excerpt: "Event Videos and Links Savenaca VoceaGlobal Partnerships, Manager,Regional Relations &#8211; Australasia/Pacific Islands &#8211; ICANN Charles MokChairman, APRALO, ICANN andFounding Chair, Internet Society Hong Kong Watch live streaming video from internetsocietychapters at livestream.com &nbsp; Wat"
-description: "Event Videos and Links Savenaca VoceaGlobal Partnerships, Manager,Regional Relations &#8211; Australasia/Pacific Islands &#8211; ICANN Charles MokChairman, APRA"
+excerpt: "Event Videos and Links Savenaca VoceaGlobal Partnerships, Manager,Regional Relations – Australasia/Pacific Islands – ICANN Charles MokChairman, APRALO, ICANN andFounding Chair, Internet Society Hong Kong Watch live streaming video from internetsocietychapters at livestream.com   Wat"
+description: "Event Videos and Links Savenaca VoceaGlobal Partnerships, Manager,Regional Relations – Australasia/Pacific Islands – ICANN Charles MokChairman, APRA"
 categories: ["domain-names", "events", "spotlight"]
 tags: []
 lang: en

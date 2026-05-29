@@ -4,8 +4,8 @@ title: "ISOC HK Supported event – Oct"
 slug: "isoc-hk-supported-event-oct-2"
 date: 2015-10-28
 modified: 2015-10-28
-excerpt: "ISOC HK SUPPORTED EVENTS   &#8220;Made in Hong Kong&#8221; Business Exchange Trip to Shenzhen and Visit to Qianhai (17-18 Nov)  The two-day business exchange trip to Beijing will include Seminar and Business Matching with local investors and potential business partners in China. Delegates will also "
-description: "ISOC HK SUPPORTED EVENTS   &#8220;Made in Hong Kong&#8221; Business Exchange Trip to Shenzhen and Visit to Qianhai (17-18 Nov)  The two-day business exchange tr"
+excerpt: "ISOC HK SUPPORTED EVENTS   “Made in Hong Kong” Business Exchange Trip to Shenzhen and Visit to Qianhai (17-18 Nov)  The two-day business exchange trip to Beijing will include Seminar and Business Matching with local investors and potential business partners in China. Delegates will also "
+description: "ISOC HK SUPPORTED EVENTS   “Made in Hong Kong” Business Exchange Trip to Shenzhen and Visit to Qianhai (17-18 Nov)  The two-day business exchange tr"
 categories: ["others", "supported-events"]
 tags: []
 lang: en

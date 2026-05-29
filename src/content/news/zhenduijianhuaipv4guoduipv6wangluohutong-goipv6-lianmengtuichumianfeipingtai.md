@@ -5,8 +5,8 @@ slug: "zhenduijianhuaipv4guoduipv6wangluohutong-goipv6-lianmengtuichumianfeiping
 originalSlug: "%e9%87%9d%e5%b0%8d%e7%b0%a1%e5%8c%96ipv4%e9%81%8e%e6%b8%a1ipv6%e7%b6%b2%e7%b5%a1%e4%ba%92%e9%80%9a-%e3%80%8cgoipv6%e3%80%8d%e8%81%af%e7%9b%9f%e6%8e%a8%e5%87%ba%e5%85%8d%e8%b2%bb%e5%b9%b3%e5%8f%b0"
 date: 2013-04-08
 modified: 2013-04-08
-excerpt: "&nbsp; 隨著 IPv4 地址短缺，目前 IPv4 地址已經達至飽和，為針對 IPv4 地址不敷應用問題，互聯網公司不斷不動 IPv6 地址以應付未來互聯網的發展，其中香港互聯網註冊管理有限公司（ HKIRC ）、香港互聯網協會 (ISOC HK) 、天下網絡有限公司、 NTT Communications 及 TraxComm 於上週五簽署諒解備忘錄，組成「 goIPv6 」聯盟，並同時計劃於七月推出免費的 IPv6 網絡隧道服務「 goIPv6 」。 &nbsp; 隨著互聯網應用廣泛，現時的 IPv4 地址在區域內已不敷應用，透過 IPv6 可提供大量網絡地址，在更換設備時可棄置舊有 "
-description: "&nbsp; 隨著 IPv4 地址短缺，目前 IPv4 地址已經達至飽和，為針對 IPv4 地址不敷應用問題，互聯網公司不斷不動 IPv6 地址以應付未來互聯網的發展，其中香港互聯網註冊管理有限公司（ HKIRC ）、香港互聯網協會 (ISOC HK) 、天下網絡有限公司、 NTT Communications 及 T"
+excerpt: "隨著 IPv4 地址短缺，目前 IPv4 地址已經達至飽和，為針對 IPv4 地址不敷應用問題，互聯網公司不斷不動 IPv6 地址以應付未來互聯網的發展，其中香港互聯網註冊管理有限公司（ HKIRC ）、香港互聯網協會 (ISOC HK) 、天下網絡有限公司、 NTT Communications 及 TraxComm 於上週五簽署諒解備忘錄，組成「 goIPv6 」聯盟，並同時計劃於七月推出免費的 IPv6 網絡隧道服務「 goIPv6 」。   隨著互聯網應用廣泛，現時的 IPv4 地址在區域內已不敷應用，透過 IPv6 可提供大量網絡地址，在更換設備時可棄置舊有 "
+description: "隨著 IPv4 地址短缺，目前 IPv4 地址已經達至飽和，為針對 IPv4 地址不敷應用問題，互聯網公司不斷不動 IPv6 地址以應付未來互聯網的發展，其中香港互聯網註冊管理有限公司（ HKIRC ）、香港互聯網協會 (ISOC HK) 、天下網絡有限公司、 NTT Communications 及 T"
 categories: ["media-column", "news", "press-release"]
 tags: []
 lang: mixed

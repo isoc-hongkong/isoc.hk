@@ -4,7 +4,7 @@ title: "Are you ready for IPv6? (3 Mar @ Cyberport)"
 slug: "are-you-ready-for-ipv6-3-mar-cyberport"
 date: 2014-02-11
 modified: 2014-02-11
-excerpt: "Are you ready for IPv6? (3 Mar @ Cyberport) Over half thousand of IT practitioners had already attended the World IPv6 Day and World IPv6 Launch in 2011 and 2012. It has been already over one year from now. Where are we now in Hong Kong and in Asia Pacific? What&#8217;s IPv6 for the mass&#8230;"
+excerpt: "Are you ready for IPv6? (3 Mar @ Cyberport) Over half thousand of IT practitioners had already attended the World IPv6 Day and World IPv6 Launch in 2011 and 2012. It has been already over one year from now. Where are we now in Hong Kong and in Asia Pacific? What’s IPv6 for the mass…"
 description: "Are you ready for IPv6? (3 Mar @ Cyberport) Over half thousand of IT practitioners had already attended the World IPv6 Day and World IPv6 Launch in 2011 and 201"
 categories: ["events", "ipv6"]
 tags: []

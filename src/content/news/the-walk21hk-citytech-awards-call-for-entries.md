@@ -1,11 +1,11 @@
 ---
 wpId: 5916
-title: "The Walk21HK CityTech Awards &#8211; Call for Entries"
+title: "The Walk21HK CityTech Awards – Call for Entries"
 slug: "the-walk21hk-citytech-awards-call-for-entries"
 date: 2016-07-18
 modified: 2016-07-18
-excerpt: "The Walk21HK CityTech Awards &#8211; Call for Entries “Innovation for walking” “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored by Walk21 a global leader in championing walking – and Civic Exchange – a renowned Asian public policy Think Tank.,  The Walk21HK CityTech A"
-description: "The Walk21HK CityTech Awards &#8211; Call for Entries “Innovation for walking” “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored "
+excerpt: "The Walk21HK CityTech Awards – Call for Entries “Innovation for walking” “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored by Walk21 a global leader in championing walking – and Civic Exchange – a renowned Asian public policy Think Tank.,  The Walk21HK CityTech A"
+description: "The Walk21HK CityTech Awards – Call for Entries “Innovation for walking” “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored "
 categories: ["events", "isoc-hk", "spotlight", "startup"]
 tags: []
 lang: en

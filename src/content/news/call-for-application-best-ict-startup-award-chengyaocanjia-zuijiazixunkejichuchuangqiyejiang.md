@@ -1,12 +1,12 @@
 ---
 wpId: 3247
-title: "Call for Application &#8211; Best ICT Startup Award 誠邀參加「最佳資訊科技初創企業獎」"
+title: "Call for Application – Best ICT Startup Award 誠邀參加「最佳資訊科技初創企業獎」"
 slug: "call-for-application-best-ict-startup-award-chengyaocanjia-zuijiazixunkejichuchuangqiyejiang"
 originalSlug: "call-for-application-best-ict-startup-award-%e8%aa%a0%e9%82%80%e5%8f%83%e5%8a%a0%e3%80%8c%e6%9c%80%e4%bd%b3%e8%b3%87%e8%a8%8a%e7%a7%91%e6%8a%80%e5%88%9d%e5%89%b5%e4%bc%81%e6%a5%ad%e7%8d%8e%e3%80%8d"
 date: 2014-01-09
 modified: 2014-01-09
-excerpt: "Please scroll down for English version 鼓勵青年創業 &nbsp;獎勵科技新企業 誠邀參加「最佳資訊科技初創企業獎」 &nbsp; 時間緊逼！－－香港互聯網協會（Internet Society Hong Kong）主辦的「香港資訊及通訊科技獎」－「最佳資訊科技初創企業獎」報名期到1月24日中午12時為止， 只剩兩星期，請從速報名！ &nbsp; 此獎項為今年首次特設，旨在鼓勵及表揚初創企業開發具創意和質素的資訊科技解決方案，並以推廣企業及初創企業文化為目標，同時促進初創企業及其整個生態系統，以及推動企業透過資訊科技，為社會作出貢獻。本獎項設有消費市場、商"
-description: "Please scroll down for English version 鼓勵青年創業 &nbsp;獎勵科技新企業 誠邀參加「最佳資訊科技初創企業獎」 &nbsp; 時間緊逼！－－香港互聯網協會（Internet Society Hong Kong）主辦的「香港資訊及通訊科技獎」－「最佳資訊科技初創企業獎」報名期到"
+excerpt: "Please scroll down for English version 鼓勵青年創業  獎勵科技新企業 誠邀參加「最佳資訊科技初創企業獎」   時間緊逼！－－香港互聯網協會（Internet Society Hong Kong）主辦的「香港資訊及通訊科技獎」－「最佳資訊科技初創企業獎」報名期到1月24日中午12時為止， 只剩兩星期，請從速報名！   此獎項為今年首次特設，旨在鼓勵及表揚初創企業開發具創意和質素的資訊科技解決方案，並以推廣企業及初創企業文化為目標，同時促進初創企業及其整個生態系統，以及推動企業透過資訊科技，為社會作出貢獻。本獎項設有消費市場、商"
+description: "Please scroll down for English version 鼓勵青年創業  獎勵科技新企業 誠邀參加「最佳資訊科技初創企業獎」   時間緊逼！－－香港互聯網協會（Internet Society Hong Kong）主辦的「香港資訊及通訊科技獎」－「最佳資訊科技初創企業獎」報名期到"
 categories: ["application-development", "spotlight", "startup"]
 tags: []
 lang: en

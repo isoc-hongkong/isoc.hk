@@ -1,6 +1,6 @@
 ---
 wpId: 4957
-title: "Supported Event &#8211; April 2015"
+title: "Supported Event – April 2015"
 slug: "supported-event-april-2015"
 date: 2015-03-22
 modified: 2015-03-22

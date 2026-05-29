@@ -1,11 +1,11 @@
 ---
 wpId: 6026
-title: "The Walk21HK CityTech Awards &#8211; 截止報名日期延至9月5日! Submission Deadline Extended to 5 Sep!"
+title: "The Walk21HK CityTech Awards – 截止報名日期延至9月5日! Submission Deadline Extended to 5 Sep!"
 slug: "citytech"
 date: 2016-08-05
 modified: 2016-08-05
-excerpt: "Walk21HK CityTech Awards &#8211; 現正接受提名及報名  Call For Nominations &amp; Entries 「以創新意念助城市設計實踐以人為本」 “Innovation for Walking” 由香港互聯網協會及思匯政策研究所 聯合主辦的 Walk21HK CityTech Awards，旨在嘉許改善「步行」體驗或鼓勵步行習慣的創新科技產品及構思 — 當中包括，但不限於任何科技應用，如道路裝置、手機應用程式、配件、穿戴裝置等等。 Co-organized by Internet Society Hong Kong (ISOC HK) &amp"
-description: "Walk21HK CityTech Awards &#8211; 現正接受提名及報名  Call For Nominations &amp; Entries 「以創新意念助城市設計實踐以人為本」 “Innovation for Walking” 由香港互聯網協會及思匯政策研究所 聯合主辦的 Walk21HK CityT"
+excerpt: "Walk21HK CityTech Awards – 現正接受提名及報名  Call For Nominations & Entries 「以創新意念助城市設計實踐以人為本」 “Innovation for Walking” 由香港互聯網協會及思匯政策研究所 聯合主辦的 Walk21HK CityTech Awards，旨在嘉許改善「步行」體驗或鼓勵步行習慣的創新科技產品及構思 — 當中包括，但不限於任何科技應用，如道路裝置、手機應用程式、配件、穿戴裝置等等。 Co-organized by Internet Society Hong Kong (ISOC HK) &amp"
+description: "Walk21HK CityTech Awards – 現正接受提名及報名  Call For Nominations & Entries 「以創新意念助城市設計實踐以人為本」 “Innovation for Walking” 由香港互聯網協會及思匯政策研究所 聯合主辦的 Walk21HK CityT"
 categories: ["events", "others", "spotlight", "startup"]
 tags: []
 lang: en

@@ -1,11 +1,11 @@
 ---
 wpId: 495
-title: "IPv6World.Asia &#8211; After World IPv6 Day, what&#039;s next? (2 Sep 11)"
+title: "IPv6World.Asia – After World IPv6 Day, what's next? (2 Sep 11)"
 slug: "ipv6world-asia-after-world-ipv6-day-whats-next-2-sep-11"
 date: 2011-09-02
 modified: 2011-09-02
-excerpt: "Date: 2 Sep 2011 (Friday) Time: 2pm &#8211; 5pm Venue:  Function Room, Core E, Cyberport 3,100 Cyberport Road, Hong Kong Presentation File Downloads: HE_IPv6.pdfyahoo_IPv6.pdf CISCO_IPv6_1.pdf Conference Photo Slideshow: &nbsp; Conference Videos: Highlights: Part 1: Part 2: Part 3: Part 4: _________"
-description: "Date: 2 Sep 2011 (Friday) Time: 2pm &#8211; 5pm Venue:  Function Room, Core E, Cyberport 3,100 Cyberport Road, Hong Kong Presentation File Downloads: HE_IPv6.pd"
+excerpt: "Date: 2 Sep 2011 (Friday) Time: 2pm – 5pm Venue:  Function Room, Core E, Cyberport 3,100 Cyberport Road, Hong Kong Presentation File Downloads: HE_IPv6.pdfyahoo_IPv6.pdf CISCO_IPv6_1.pdf Conference Photo Slideshow:   Conference Videos: Highlights: Part 1: Part 2: Part 3: Part 4: _________"
+description: "Date: 2 Sep 2011 (Friday) Time: 2pm – 5pm Venue:  Function Room, Core E, Cyberport 3,100 Cyberport Road, Hong Kong Presentation File Downloads: HE_IPv6.pd"
 categories: ["events", "ipv6", "spotlight"]
 tags: []
 lang: en

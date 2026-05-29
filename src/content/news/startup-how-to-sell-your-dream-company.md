@@ -1,11 +1,11 @@
 ---
 wpId: 231
-title: "STARTUP: HOW TO &quot;SELL&quot; YOUR DREAM COMPANY?"
+title: 'STARTUP: HOW TO "SELL" YOUR DREAM COMPANY?'
 slug: "startup-how-to-sell-your-dream-company"
 date: 2012-06-13
 modified: 2012-06-13
-excerpt: "STARTUP: HOW TO &#8220;SELL&#8221; YOUR DREAM COMPANY? How to find funding for your startup is critical to the success of your business. While some can be started with minimal capital, many require a substantial expenditure. If you are looking to start your own business and is contemplating how to f"
-description: "STARTUP: HOW TO &#8220;SELL&#8221; YOUR DREAM COMPANY? How to find funding for your startup is critical to the success of your business. While some can be start"
+excerpt: "STARTUP: HOW TO “SELL” YOUR DREAM COMPANY? How to find funding for your startup is critical to the success of your business. While some can be started with minimal capital, many require a substantial expenditure. If you are looking to start your own business and is contemplating how to f"
+description: "STARTUP: HOW TO “SELL” YOUR DREAM COMPANY? How to find funding for your startup is critical to the success of your business. While some can be start"
 categories: ["events", "spotlight", "startup"]
 tags: []
 lang: en

@@ -4,8 +4,8 @@ title: "Important: KSK Rollover"
 slug: "important-ksk-rollover"
 date: 2018-09-28
 modified: 2018-09-28
-excerpt: "Please read the below message from HKIRC Subject: ALERT: Urge Action on Root Zone Key Signing Key (KSK) Change (KSK Rollover scheduled on 11 Oct 2018) &#8211; 中文版本隨英文之後 &#8211; Dear Sir/Madam, We are writing to inform you of the schedule of root zone key signing key (“KSK”) change to be conducted by"
-description: "Please read the below message from HKIRC Subject: ALERT: Urge Action on Root Zone Key Signing Key (KSK) Change (KSK Rollover scheduled on 11 Oct 2018) &#8211; 中"
+excerpt: "Please read the below message from HKIRC Subject: ALERT: Urge Action on Root Zone Key Signing Key (KSK) Change (KSK Rollover scheduled on 11 Oct 2018) – 中文版本隨英文之後 – Dear Sir/Madam, We are writing to inform you of the schedule of root zone key signing key (“KSK”) change to be conducted by"
+description: "Please read the below message from HKIRC Subject: ALERT: Urge Action on Root Zone Key Signing Key (KSK) Change (KSK Rollover scheduled on 11 Oct 2018) – 中"
 categories: ["news"]
 tags: []
 lang: en

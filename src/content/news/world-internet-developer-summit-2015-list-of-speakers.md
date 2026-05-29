@@ -1,11 +1,11 @@
 ---
 wpId: 4723
-title: "World Internet Developer Summit 2015 &#8211; List of Speakers"
+title: "World Internet Developer Summit 2015 – List of Speakers"
 slug: "world-internet-developer-summit-2015-list-of-speakers"
 date: 2015-04-24
 modified: 2015-04-24
-excerpt: "Keynote Speakers Maxime Belanger  Software Engineer, DropboxTopic: Unlocking the Desktop using Web Technologies Josh Aberant Postmaster, Twitter &nbsp; Colin Charles Chief Evangelist, MariaDB CorporationTopic: Meet MariaDB: The new MySQL Ying-Kit Wong Senior Technical Specialist, IBM CloudTopic: Usi"
-description: "Keynote Speakers Maxime Belanger  Software Engineer, DropboxTopic: Unlocking the Desktop using Web Technologies Josh Aberant Postmaster, Twitter &nbsp; Colin Ch"
+excerpt: "Keynote Speakers Maxime Belanger  Software Engineer, DropboxTopic: Unlocking the Desktop using Web Technologies Josh Aberant Postmaster, Twitter   Colin Charles Chief Evangelist, MariaDB CorporationTopic: Meet MariaDB: The new MySQL Ying-Kit Wong Senior Technical Specialist, IBM CloudTopic: Usi"
+description: "Keynote Speakers Maxime Belanger  Software Engineer, DropboxTopic: Unlocking the Desktop using Web Technologies Josh Aberant Postmaster, Twitter   Colin Ch"
 categories: ["others"]
 tags: []
 lang: en

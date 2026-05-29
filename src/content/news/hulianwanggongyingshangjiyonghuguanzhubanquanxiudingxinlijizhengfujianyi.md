@@ -5,8 +5,8 @@ slug: "hulianwanggongyingshangjiyonghuguanzhubanquanxiudingxinlijizhengfujianyi"
 originalSlug: "%e4%ba%92%e8%81%af%e7%b6%b2%e4%be%9b%e6%87%89%e5%95%86%e5%8f%8a%e7%94%a8%e6%88%b6%e9%97%9c%e6%b3%a8%e7%89%88%e6%ac%8a%e4%bf%ae%e8%a8%82%e6%96%b0%e4%be%8b%e5%8f%8a%e6%94%bf%e5%ba%9c%e5%bb%ba%e8%ad%b0"
 date: 2011-08-25
 modified: 2011-08-25
-excerpt: "香港互聯網協會 (ISOC HK) 香港互聯網協會就&lt;&lt;2011年版權（修訂）條例草案&gt;&gt;的意見書 (23 Jul 11) ISOC-數碼版權修訂-1.docx &nbsp; [新聞稿] 香港互聯網協會關注政府建議《版權條例》修訂下之服務提供者《實務守則》對用戶權益及表達自由表示關注 (23 Aug 2011) ISOC_HK_response_to_Copyright_Bill_2011_25Aug11.pdf &nbsp; 互聯網服務供應商協會 (HKISPA)  [新聞稿] 互聯網服務供應商協會 (HKISPA) 對「版權（修訂）條例2011」的回應 (25 Au"
-description: "香港互聯網協會 (ISOC HK) 香港互聯網協會就&lt;&lt;2011年版權（修訂）條例草案&gt;&gt;的意見書 (23 Jul 11) ISOC-數碼版權修訂-1.docx &nbsp; [新聞稿] 香港互聯網協會關注政府建議《版權條例》修訂下之服務提供者《實務守則》對用戶權益及表達自由表示關注 (23 A"
+excerpt: "香港互聯網協會 (ISOC HK) 香港互聯網協會就<<2011年版權（修訂）條例草案>>的意見書 (23 Jul 11) ISOC-數碼版權修訂-1.docx   [新聞稿] 香港互聯網協會關注政府建議《版權條例》修訂下之服務提供者《實務守則》對用戶權益及表達自由表示關注 (23 Aug 2011) ISOC_HK_response_to_Copyright_Bill_2011_25Aug11.pdf   互聯網服務供應商協會 (HKISPA)  [新聞稿] 互聯網服務供應商協會 (HKISPA) 對「版權（修訂）條例2011」的回應 (25 Au"
+description: "香港互聯網協會 (ISOC HK) 香港互聯網協會就<<2011年版權（修訂）條例草案>>的意見書 (23 Jul 11) ISOC-數碼版權修訂-1.docx   [新聞稿] 香港互聯網協會關注政府建議《版權條例》修訂下之服務提供者《實務守則》對用戶權益及表達自由表示關注 (23 A"
 categories: ["consultation-paper", "copyright-creativity", "internet-freedom", "news", "press-release"]
 tags: []
 lang: en

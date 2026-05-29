@@ -1,11 +1,11 @@
 ---
 wpId: 5842
-title: "World Internet Developer Summit 2016 – Register Now! (7 &amp; 8 June, HK)"
+title: "World Internet Developer Summit 2016 – Register Now! (7 & 8 June, HK)"
 slug: "world-internet-developer-summit-2016-register-now-7-8-june-hk"
 date: 2016-05-23
 modified: 2016-05-23
-excerpt: "Hosted By Internet Society Hong Kong &#038; Cyberport World Internet Developer Summit (WIDS) 7 &amp; 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Register NOW! &nbsp; More Speakers Announced and Many More to Come! &nbsp; 2-day Summit will be packed with main track Conference,"
-description: "Hosted By Internet Society Hong Kong &#038; Cyberport World Internet Developer Summit (WIDS) 7 &amp; 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  •"
+excerpt: "Hosted By Internet Society Hong Kong & Cyberport World Internet Developer Summit (WIDS) 7 & 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang Register NOW!   More Speakers Announced and Many More to Come!   2-day Summit will be packed with main track Conference,"
+description: "Hosted By Internet Society Hong Kong & Cyberport World Internet Developer Summit (WIDS) 7 & 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  •"
 categories: ["application-development", "events", "others"]
 tags: []
 lang: en

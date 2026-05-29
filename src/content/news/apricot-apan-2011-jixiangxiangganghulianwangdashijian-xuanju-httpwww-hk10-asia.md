@@ -5,8 +5,8 @@ slug: "apricot-apan-2011-jixiangxiangganghulianwangdashijian-xuanju-httpwww-hk10
 originalSlug: "apricot-apan-2011%e3%80%8c%e6%bf%80%e6%83%b3%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%a4%a7%e4%ba%8b%e4%bb%b6%e3%80%8d%e9%81%b8%e8%88%89-httpwww-hk10-asia"
 date: 2011-01-18
 modified: 2011-01-18
-excerpt: "Defining Moments of the Internet in Hong Kong&#8221; Online Campaign 「激想香港互聯網大事件」選舉 (http://www.hk10.asia)   Video library of this online campaign: ttp://www.youtube.com/isochk#p/u/28/9xuym0vgTBk http://www.youtube.com/isochk#p/u/27/I7AXd2mYgFc http://www.youtube.com/isochk#p/u/20/5jvky7wvGQk   Find"
-description: "Defining Moments of the Internet in Hong Kong&#8221; Online Campaign 「激想香港互聯網大事件」選舉 (http://www.hk10.asia)   Video library of this online campaign: ttp://www.yo"
+excerpt: "Defining Moments of the Internet in Hong Kong” Online Campaign 「激想香港互聯網大事件」選舉 (http://www.hk10.asia)   Video library of this online campaign: ttp://www.youtube.com/isochk#p/u/28/9xuym0vgTBk http://www.youtube.com/isochk#p/u/27/I7AXd2mYgFc http://www.youtube.com/isochk#p/u/20/5jvky7wvGQk   Find"
+description: "Defining Moments of the Internet in Hong Kong” Online Campaign 「激想香港互聯網大事件」選舉 (http://www.hk10.asia)   Video library of this online campaign: ttp://www.yo"
 categories: ["events", "international-events", "spotlight"]
 tags: []
 lang: en

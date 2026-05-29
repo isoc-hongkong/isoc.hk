@@ -4,8 +4,8 @@ title: "ISOC HK Supported Events – Dec"
 slug: "isoc-hk-supported-events-dec"
 date: 2015-12-01
 modified: 2015-12-01
-excerpt: "ISOC HK SUPPORTED EVENTS Dear Members &amp; Friends of ISOC HK, &nbsp; Season’s Greetings to you all! Wishing you all the Joy, Hope and Wonder of the Christmas! Cheers, Internet Society Hong Kong &nbsp; Visionaries Connected – Entrepreneurship Conference (15-16 Jan) The event aims toconnect aspiring"
-description: "ISOC HK SUPPORTED EVENTS Dear Members &amp; Friends of ISOC HK, &nbsp; Season’s Greetings to you all! Wishing you all the Joy, Hope and Wonder of the Christmas!"
+excerpt: "ISOC HK SUPPORTED EVENTS Dear Members & Friends of ISOC HK,   Season’s Greetings to you all! Wishing you all the Joy, Hope and Wonder of the Christmas! Cheers, Internet Society Hong Kong   Visionaries Connected – Entrepreneurship Conference (15-16 Jan) The event aims toconnect aspiring"
+description: "ISOC HK SUPPORTED EVENTS Dear Members & Friends of ISOC HK,   Season’s Greetings to you all! Wishing you all the Joy, Hope and Wonder of the Christmas!"
 categories: ["others", "supported-events"]
 tags: []
 lang: en

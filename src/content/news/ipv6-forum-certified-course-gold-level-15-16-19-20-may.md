@@ -1,6 +1,6 @@
 ---
 wpId: 3663
-title: "IPv6 Forum Certified Course (Gold Level) (15, 16, 19 &amp; 20 May)"
+title: "IPv6 Forum Certified Course (Gold Level) (15, 16, 19 & 20 May)"
 slug: "ipv6-forum-certified-course-gold-level-15-16-19-20-may"
 date: 2014-04-22
 modified: 2014-04-22

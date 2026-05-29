@@ -1,11 +1,11 @@
 ---
 wpId: 4543
-title: "Fred Baker&#039;s Talk &#8211; The Internet of Things"
+title: "Fred Baker's Talk – The Internet of Things"
 slug: "fred-bakers-talk-the-internet-of-things"
 date: 2015-03-24
 modified: 2015-03-24
-excerpt: "&nbsp; Introduction Mr. Fred Baker is a past IETF Chair and current co-chair of its IPv6 Operations Working Group. In that content, he works with the operational community on deployment issues. Cisco Fellow Fred Baker has been involved in the development of the Internet since the late 1980′s. This t"
-description: "&nbsp; Introduction Mr. Fred Baker is a past IETF Chair and current co-chair of its IPv6 Operations Working Group. In that content, he works with the operationa"
+excerpt: "Introduction Mr. Fred Baker is a past IETF Chair and current co-chair of its IPv6 Operations Working Group. In that content, he works with the operational community on deployment issues. Cisco Fellow Fred Baker has been involved in the development of the Internet since the late 1980′s. This t"
+description: "Introduction Mr. Fred Baker is a past IETF Chair and current co-chair of its IPv6 Operations Working Group. In that content, he works with the operationa"
 categories: ["events", "others"]
 tags: []
 lang: en

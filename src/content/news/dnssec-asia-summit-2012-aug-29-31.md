@@ -1,6 +1,6 @@
 ---
 wpId: 197
-title: "DNSSEC.ASIA SUMMIT 2012 (Aug 29 &#8211; 31)"
+title: "DNSSEC.ASIA SUMMIT 2012 (Aug 29 – 31)"
 slug: "dnssec-asia-summit-2012-aug-29-31"
 date: 2012-08-10
 modified: 2012-08-10

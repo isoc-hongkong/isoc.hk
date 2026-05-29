@@ -1,11 +1,11 @@
 ---
 wpId: 2544
-title: "HOW TO GET AN IPV6 READY LOGO? &#8211; IPv6 Certification Testing and Application Sharing"
+title: "HOW TO GET AN IPV6 READY LOGO? – IPv6 Certification Testing and Application Sharing"
 slug: "ipv6-certification-testing-and-application-forum"
 date: 2013-08-31
 modified: 2013-08-31
-excerpt: "HOW TO GET AN IPV6 READY LOGO? &#8211; IPv6 Certification Testing and Application Sharing Today our daily life has been attached very closely with the internet and we are seeing the tremendous growth in the internet traffics. In fulfilling our future needs, new technologies and protocols have been d"
-description: "HOW TO GET AN IPV6 READY LOGO? &#8211; IPv6 Certification Testing and Application Sharing Today our daily life has been attached very closely with the internet "
+excerpt: "HOW TO GET AN IPV6 READY LOGO? – IPv6 Certification Testing and Application Sharing Today our daily life has been attached very closely with the internet and we are seeing the tremendous growth in the internet traffics. In fulfilling our future needs, new technologies and protocols have been d"
+description: "HOW TO GET AN IPV6 READY LOGO? – IPv6 Certification Testing and Application Sharing Today our daily life has been attached very closely with the internet "
 categories: ["events", "ipv6"]
 tags: []
 lang: en

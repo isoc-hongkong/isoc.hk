@@ -1,11 +1,11 @@
 ---
 wpId: 5747
-title: "World Internet Developer Summit 2016 – Early Bird Registration (7 &amp; 8 June, HK)"
+title: "World Internet Developer Summit 2016 – Early Bird Registration (7 & 8 June, HK)"
 slug: "world-internet-developer-summit-2016-early-bird-registration-7-8-june-hk-2"
 date: 2016-05-05
 modified: 2016-05-05
-excerpt: "World Internet Developer Summit (WIDS) 7&nbsp;&amp; 8&nbsp;June, 2016 | Cyberport, Hong Kong Scalability &bull; DevOps &nbsp;&bull; ProgLang &nbsp; Register NOW to enjoy the Early Bird! 2-day Summit will be packed with main track Conference, diverse track Workshops and Seminars An exhibition will be"
-description: "World Internet Developer Summit (WIDS) 7&nbsp;&amp; 8&nbsp;June, 2016 | Cyberport, Hong Kong Scalability &bull; DevOps &nbsp;&bull; ProgLang &nbsp; Register NOW"
+excerpt: "World Internet Developer Summit (WIDS) 7 & 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang   Register NOW to enjoy the Early Bird! 2-day Summit will be packed with main track Conference, diverse track Workshops and Seminars An exhibition will be"
+description: "World Internet Developer Summit (WIDS) 7 & 8 June, 2016 | Cyberport, Hong Kong Scalability • DevOps  • ProgLang   Register NOW"
 categories: ["application-development", "others", "startup"]
 tags: []
 lang: en

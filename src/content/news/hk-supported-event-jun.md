@@ -4,8 +4,8 @@ title: "HK Supported Event Jun"
 slug: "hk-supported-event-jun"
 date: 2016-06-13
 modified: 2016-06-13
-excerpt: "ISOC HK SUPPORTED EVENTS   Law, Privacy and Surveillance: Protecting Users in Post-Snowden Era (9 Jun) An expert in IT law and editor of the book &#8220;Law, Privacy and Surveillance in Canada in the Post-Snowden Era&#8221;, Prof. Michael Geist will share Canadian experience in surveillance law, how"
-description: "ISOC HK SUPPORTED EVENTS   Law, Privacy and Surveillance: Protecting Users in Post-Snowden Era (9 Jun) An expert in IT law and editor of the book &#8220;Law, Pr"
+excerpt: "ISOC HK SUPPORTED EVENTS   Law, Privacy and Surveillance: Protecting Users in Post-Snowden Era (9 Jun) An expert in IT law and editor of the book “Law, Privacy and Surveillance in Canada in the Post-Snowden Era”, Prof. Michael Geist will share Canadian experience in surveillance law, how"
+description: "ISOC HK SUPPORTED EVENTS   Law, Privacy and Surveillance: Protecting Users in Post-Snowden Era (9 Jun) An expert in IT law and editor of the book “Law, Pr"
 categories: ["supported-events"]
 tags: []
 lang: en

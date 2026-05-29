@@ -4,8 +4,8 @@ title: "Defending against DDoS and Advanced Attacks on Critical Infrastructure (
 slug: "defending-against-ddos-and-advanced-attacks-on-critical-infrastructure-3-sep-11"
 date: 2011-09-01
 modified: 2011-09-01
-excerpt: "&nbsp; &nbsp; In the past year, DDoS and advanced attacks targeting critical infrastructure become more and more vigorous. Governments (US, Malaysia , Korea &#8230;), stock exchanges ( Hong Kong , New York and London ) and nuclear plants in Iran all fell in prey to large scale attacks. The recent at"
-description: "&nbsp; &nbsp; In the past year, DDoS and advanced attacks targeting critical infrastructure become more and more vigorous. Governments (US, Malaysia , Korea &#8"
+excerpt: "In the past year, DDoS and advanced attacks targeting critical infrastructure become more and more vigorous. Governments (US, Malaysia , Korea …), stock exchanges ( Hong Kong , New York and London ) and nuclear plants in Iran all fell in prey to large scale attacks. The recent at"
+description: "In the past year, DDoS and advanced attacks targeting critical infrastructure become more and more vigorous. Governments (US, Malaysia , Korea &#8"
 categories: ["events", "internet-security-privacy"]
 tags: []
 lang: en

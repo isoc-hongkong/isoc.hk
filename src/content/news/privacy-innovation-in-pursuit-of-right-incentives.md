@@ -1,11 +1,11 @@
 ---
 wpId: 4817
-title: "Privacy &amp; Innovation &#8211; In Pursuit of Right Incentives"
+title: "Privacy & Innovation – In Pursuit of Right Incentives"
 slug: "privacy-innovation-in-pursuit-of-right-incentives"
 date: 2015-06-01
 modified: 2015-06-01
-excerpt: "Privacy &amp; Innovation In Pursuit of Right Incentives An international conference on the balance between innovation and rights-based approaches to privacy and data protection. Themes to be discussed include: &#8211; Privacy &amp; Global Information Flows &#8211; Privacy, Expression &amp; Creativit"
-description: "Privacy &amp; Innovation In Pursuit of Right Incentives An international conference on the balance between innovation and rights-based approaches to privacy and"
+excerpt: "Privacy & Innovation In Pursuit of Right Incentives An international conference on the balance between innovation and rights-based approaches to privacy and data protection. Themes to be discussed include: – Privacy & Global Information Flows – Privacy, Expression & Creativit"
+description: "Privacy & Innovation In Pursuit of Right Incentives An international conference on the balance between innovation and rights-based approaches to privacy and"
 categories: ["events", "privacy-2"]
 tags: []
 lang: en

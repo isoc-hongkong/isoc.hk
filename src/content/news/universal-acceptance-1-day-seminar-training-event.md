@@ -1,11 +1,11 @@
 ---
 wpId: 7274
-title: "Universal Acceptance Day Series &#8211; Seminar 1"
+title: "Universal Acceptance Day Series – Seminar 1"
 slug: "universal-acceptance-1-day-seminar-training-event"
 date: 2023-03-15
 modified: 2023-05-16
-excerpt: "Learn the latest Internet standards &amp; tech requirement due to the evolved domain name system(DNS) and fix your email systems, applications, websites or SaaS! Date: 30 May 2023 (Thursday) Time: 14:30 &#8211; 17:30Venue: The InnoNetwork, Hong Kong Productivity Council, 78 Tat Chee Avenue, Kowloon "
-description: "Learn the latest Internet standards &amp; tech requirement due to the evolved domain name system(DNS) and fix your email systems, applications, websites or SaaS"
+excerpt: "Learn the latest Internet standards & tech requirement due to the evolved domain name system(DNS) and fix your email systems, applications, websites or SaaS! Date: 30 May 2023 (Thursday) Time: 14:30 – 17:30Venue: The InnoNetwork, Hong Kong Productivity Council, 78 Tat Chee Avenue, Kowloon "
+description: "Learn the latest Internet standards & tech requirement due to the evolved domain name system(DNS) and fix your email systems, applications, websites or SaaS"
 categories: ["events", "news"]
 tags: []
 lang: en

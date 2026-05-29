@@ -1,10 +1,10 @@
 ---
 wpId: 451
-title: "ISOC-HK eNewsletter &#8211; First Issue/ October 2011"
+title: "ISOC-HK eNewsletter – First Issue/ October 2011"
 slug: "isoc-hk-enewsletter-first-issue-october-2011"
 date: 2011-10-20
 modified: 2011-10-20
-excerpt: "First Issue/October 2011 Welcome to the first issue of ISOC-HK Newsletter! Internet Society Hong Kong is proud to launch its first newsletter which is aimed at providing and stimulating dialogue with the community on the latest IT insights on our announcements, events, and projects.&nbsp; HIGHLIGHTS"
+excerpt: "First Issue/October 2011 Welcome to the first issue of ISOC-HK Newsletter! Internet Society Hong Kong is proud to launch its first newsletter which is aimed at providing and stimulating dialogue with the community on the latest IT insights on our announcements, events, and projects.  HIGHLIGHTS"
 description: "First Issue/October 2011 Welcome to the first issue of ISOC-HK Newsletter! Internet Society Hong Kong is proud to launch its first newsletter which is aimed at "
 categories: ["enewsletter", "news", "publication"]
 tags: []

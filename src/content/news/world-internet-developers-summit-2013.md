@@ -4,8 +4,8 @@ title: "World Internet Developer Summit 2013"
 slug: "world-internet-developers-summit-2013"
 date: 2013-05-31
 modified: 2013-05-31
-excerpt: "World Internet Developer Summit 2013 Get ready for Hong Kong&#8217;s signature World Internet Developer Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technology Parks Corporation, the action-packed two-day summit is the annual and signature cross-platform develope"
-description: "World Internet Developer Summit 2013 Get ready for Hong Kong&#8217;s signature World Internet Developer Summit! Hosted by Internet Society Hong Kong, Cyberport "
+excerpt: "World Internet Developer Summit 2013 Get ready for Hong Kong’s signature World Internet Developer Summit! Hosted by Internet Society Hong Kong, Cyberport and Hong Kong Science and Technology Parks Corporation, the action-packed two-day summit is the annual and signature cross-platform develope"
+description: "World Internet Developer Summit 2013 Get ready for Hong Kong’s signature World Internet Developer Summit! Hosted by Internet Society Hong Kong, Cyberport "
 categories: ["application-development", "events", "international-events", "news", "spotlight", "startup"]
 tags: []
 lang: en

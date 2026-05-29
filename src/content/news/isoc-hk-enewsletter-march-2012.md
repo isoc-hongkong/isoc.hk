@@ -1,11 +1,11 @@
 ---
 wpId: 362
-title: "ISOC-HK eNewsletter &#8211; March 2012"
+title: "ISOC-HK eNewsletter – March 2012"
 slug: "isoc-hk-enewsletter-march-2012"
 date: 2012-03-03
 modified: 2012-03-03
-excerpt: "HIGHLIGHTS  World Internet Developer&#8217;s Summit &#8211; Over 500 Registration now! An overwhelming supporting from the community brings us to over 500 registrations for the first World Internet Developer&#8217;s Summit.We have over HKD 40k valued of prizes give away such as Adobe Web Premium, Vi"
-description: "HIGHLIGHTS  World Internet Developer&#8217;s Summit &#8211; Over 500 Registration now! An overwhelming supporting from the community brings us to over 500 regis"
+excerpt: "HIGHLIGHTS  World Internet Developer’s Summit – Over 500 Registration now! An overwhelming supporting from the community brings us to over 500 registrations for the first World Internet Developer’s Summit.We have over HKD 40k valued of prizes give away such as Adobe Web Premium, Vi"
+description: "HIGHLIGHTS  World Internet Developer’s Summit – Over 500 Registration now! An overwhelming supporting from the community brings us to over 500 regis"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

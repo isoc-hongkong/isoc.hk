@@ -4,8 +4,8 @@ title: "How does Internet Freedom Matter to You? (16 Apr 13)"
 slug: "internet-freedom"
 date: 2013-03-26
 modified: 2013-03-26
-excerpt: "HOW DOES INTERNET FREEDOM MATTER TO YOU? &#8211; Internet Governance and Freedom beyond WCIT  Cyber Security, Privacy and Internet Freedom are cornerstones of the life of the Internet. In Dec 2012, the ITU facilitated the The World Conference on International Telecommunications 2012 (WCIT-12). WCIT-"
-description: "HOW DOES INTERNET FREEDOM MATTER TO YOU? &#8211; Internet Governance and Freedom beyond WCIT  Cyber Security, Privacy and Internet Freedom are cornerstones of t"
+excerpt: "HOW DOES INTERNET FREEDOM MATTER TO YOU? – Internet Governance and Freedom beyond WCIT  Cyber Security, Privacy and Internet Freedom are cornerstones of the life of the Internet. In Dec 2012, the ITU facilitated the The World Conference on International Telecommunications 2012 (WCIT-12). WCIT-"
+description: "HOW DOES INTERNET FREEDOM MATTER TO YOU? – Internet Governance and Freedom beyond WCIT  Cyber Security, Privacy and Internet Freedom are cornerstones of t"
 categories: ["events", "global-news", "internet-freedom", "spotlight"]
 tags: []
 lang: en

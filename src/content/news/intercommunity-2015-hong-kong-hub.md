@@ -1,11 +1,11 @@
 ---
 wpId: 4846
-title: "InterCommunity 2015 &#8211; Hong Kong Hub"
+title: "InterCommunity 2015 – Hong Kong Hub"
 slug: "intercommunity-2015-hong-kong-hub"
 date: 2015-06-25
 modified: 2015-06-25
-excerpt: "InterCommunity 2015 &#8211; A global meeting of the Internet Society, on the Internet, for the Internet. This one-of-a-kind community event will give you the opportunity to share your unique perspectives on key Internet topics and issues. &#8211; Connect with the Internet Society Board of Trustees &"
-description: "InterCommunity 2015 &#8211; A global meeting of the Internet Society, on the Internet, for the Internet. This one-of-a-kind community event will give you the op"
+excerpt: "InterCommunity 2015 – A global meeting of the Internet Society, on the Internet, for the Internet. This one-of-a-kind community event will give you the opportunity to share your unique perspectives on key Internet topics and issues. – Connect with the Internet Society Board of Trustees &"
+description: "InterCommunity 2015 – A global meeting of the Internet Society, on the Internet, for the Internet. This one-of-a-kind community event will give you the op"
 categories: ["events", "international-events", "internet-security-privacy", "others"]
 tags: []
 lang: en

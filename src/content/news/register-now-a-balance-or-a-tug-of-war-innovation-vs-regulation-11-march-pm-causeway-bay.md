@@ -1,11 +1,11 @@
 ---
 wpId: 5413
-title: "Register NOW! &#8211; A Balance or A Tug-of-War? Innovation VS Regulation (11 Mar, PM@ Causeway Bay)"
+title: "Register NOW! – A Balance or A Tug-of-War? Innovation VS Regulation (11 Mar, PM@ Causeway Bay)"
 slug: "register-now-a-balance-or-a-tug-of-war-innovation-vs-regulation-11-march-pm-causeway-bay"
 date: 2016-02-22
 modified: 2016-02-22
-excerpt: "A Balance or A Tug-of-War? Innovation VS Regulation 11 March | Causeway Bay | 3:30pm-5:00pm (Registration starts at 3:00pm) Co-organized by ISOC HK &amp; KPMG China Nowadays, the sharing economy provides many opportunities to innovative business.  Should all these be regulated? Can technology, innov"
-description: "A Balance or A Tug-of-War? Innovation VS Regulation 11 March | Causeway Bay | 3:30pm-5:00pm (Registration starts at 3:00pm) Co-organized by ISOC HK &amp; KPMG C"
+excerpt: "A Balance or A Tug-of-War? Innovation VS Regulation 11 March | Causeway Bay | 3:30pm-5:00pm (Registration starts at 3:00pm) Co-organized by ISOC HK & KPMG China Nowadays, the sharing economy provides many opportunities to innovative business.  Should all these be regulated? Can technology, innov"
+description: "A Balance or A Tug-of-War? Innovation VS Regulation 11 March | Causeway Bay | 3:30pm-5:00pm (Registration starts at 3:00pm) Co-organized by ISOC HK & KPMG C"
 categories: ["events", "startup"]
 tags: []
 lang: en

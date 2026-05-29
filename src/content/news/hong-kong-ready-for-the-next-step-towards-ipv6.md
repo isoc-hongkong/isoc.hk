@@ -4,8 +4,8 @@ title: "IPv6 Now Project: Hong Kong Ready for the Next Step towards IPv6"
 slug: "hong-kong-ready-for-the-next-step-towards-ipv6"
 date: 2013-02-04
 modified: 2013-02-04
-excerpt: "Media Alert Hong Kong Ready for the Next Step towards IPv6 Authority’s initiative successful in elevating public awareness [Hong Kong &#8211; 31 January, 2013] The Internet Society Hong Kong announced today the success of the HKSAR Government-initiated “IPv6 In Action” campaign. Two benchmarking sur"
-description: "Media Alert Hong Kong Ready for the Next Step towards IPv6 Authority’s initiative successful in elevating public awareness [Hong Kong &#8211; 31 January, 2013] "
+excerpt: "Media Alert Hong Kong Ready for the Next Step towards IPv6 Authority’s initiative successful in elevating public awareness [Hong Kong – 31 January, 2013] The Internet Society Hong Kong announced today the success of the HKSAR Government-initiated “IPv6 In Action” campaign. Two benchmarking sur"
+description: "Media Alert Hong Kong Ready for the Next Step towards IPv6 Authority’s initiative successful in elevating public awareness [Hong Kong – 31 January, 2013] "
 categories: ["ipv6", "news", "press-release"]
 tags: []
 lang: en

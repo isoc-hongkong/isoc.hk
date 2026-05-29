@@ -1,11 +1,11 @@
 ---
 wpId: 226
-title: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO)"
+title: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) & Search Engine Optimization (SEO)"
 slug: "online-brand-and-presence-development-new-top-level-domains-tld-internationalized-domain-names-idn-search-engine-optimization-seo"
 date: 2012-07-05
 modified: 2012-07-05
-excerpt: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO) There are about 200 million domain names registered worldwide, with close to 50% registered under the &#8220;.com&#8221; TLD (&#8220;top-level domain&#8221;"
-description: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) &amp; Search Engine Optimization (SEO) There are about "
+excerpt: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) & Search Engine Optimization (SEO) There are about 200 million domain names registered worldwide, with close to 50% registered under the “.com” TLD (“top-level domain”"
+description: "Online Brand and Presence Development: New Top Level Domains (TLD), Internationalized Domain Names (IDN) & Search Engine Optimization (SEO) There are about "
 categories: ["domain-names", "events"]
 tags: []
 lang: en

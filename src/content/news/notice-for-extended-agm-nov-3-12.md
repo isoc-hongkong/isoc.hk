@@ -4,7 +4,7 @@ title: "Notice for Extended AGM (Nov 3, 12)"
 slug: "notice-for-extended-agm-nov-3-12"
 date: 2012-10-14
 modified: 2012-10-14
-excerpt: "The AGM of the Internet Society Hong Kong Limited was held on 29-Sep-2012 (Sat) and will be continued on 3 Nov 2012 (Sat) on the only outstanding agenda item: confirmation of financial report. Extended Annual General Meeting 2012 Date:    3 &#8211; Nov &#8211; 2012 (Sat) Time:    11am &#8211; 12 noo"
+excerpt: "The AGM of the Internet Society Hong Kong Limited was held on 29-Sep-2012 (Sat) and will be continued on 3 Nov 2012 (Sat) on the only outstanding agenda item: confirmation of financial report. Extended Annual General Meeting 2012 Date:    3 – Nov – 2012 (Sat) Time:    11am – 12 noo"
 description: "The AGM of the Internet Society Hong Kong Limited was held on 29-Sep-2012 (Sat) and will be continued on 3 Nov 2012 (Sat) on the only outstanding agenda item: c"
 categories: ["notice"]
 tags: []

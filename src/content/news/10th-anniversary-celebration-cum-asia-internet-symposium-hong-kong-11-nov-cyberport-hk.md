@@ -4,8 +4,8 @@ title: "10th Anniversary Celebration cum Asia Internet Symposium Hong Kong (11 N
 slug: "10th-anniversary-celebration-cum-asia-internet-symposium-hong-kong-11-nov-cyberport-hk"
 date: 2016-10-18
 modified: 2016-10-18
-excerpt: "&nbsp; &nbsp; Organized by Internet Society Asia-Pacific Bureau &nbsp; Hosted by Internet Society Hong Kong &nbsp; Asia Internet Symposium Hong Kong&nbsp; 11 Nov, 2016 | Cyberport, Hong Kong &nbsp; &#39;Shaping our Lives with Internet of Things: the Angels and the Devils&#39; &nbsp; This year, with "
-description: "&nbsp; &nbsp; Organized by Internet Society Asia-Pacific Bureau &nbsp; Hosted by Internet Society Hong Kong &nbsp; Asia Internet Symposium Hong Kong&nbsp; 11 No"
+excerpt: "Organized by Internet Society Asia-Pacific Bureau   Hosted by Internet Society Hong Kong   Asia Internet Symposium Hong Kong  11 Nov, 2016 | Cyberport, Hong Kong   'Shaping our Lives with Internet of Things: the Angels and the Devils'   This year, with "
+description: "Organized by Internet Society Asia-Pacific Bureau   Hosted by Internet Society Hong Kong   Asia Internet Symposium Hong Kong  11 No"
 categories: ["events", "international-events", "internet-of-thing", "internet-security-privacy", "isoc-hk", "others", "spotlight"]
 tags: []
 lang: en

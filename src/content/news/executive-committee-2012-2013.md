@@ -1,11 +1,11 @@
 ---
 wpId: 179
-title: "Executive Committee 2012 &#8211; 2013"
+title: "Executive Committee 2012 – 2013"
 slug: "executive-committee-2012-2013"
 date: 2012-10-14
 modified: 2012-10-14
-excerpt: "Board of Directors  2012 &#8211; 2013 Mr. S.C. Leung, Chairperson Prof. Joseph Ng, Vice-Chairperson Mr. Jacky Tsoi, Secretary Mr. Ken Lam, Treasurer and Convener, Internet Application Development Working Group Mr. Edmon Chung, Director, International Liaison Mr. Che-Hoo Cheng, Director and Convener,"
-description: "Board of Directors  2012 &#8211; 2013 Mr. S.C. Leung, Chairperson Prof. Joseph Ng, Vice-Chairperson Mr. Jacky Tsoi, Secretary Mr. Ken Lam, Treasurer and Convene"
+excerpt: "Board of Directors  2012 – 2013 Mr. S.C. Leung, Chairperson Prof. Joseph Ng, Vice-Chairperson Mr. Jacky Tsoi, Secretary Mr. Ken Lam, Treasurer and Convener, Internet Application Development Working Group Mr. Edmon Chung, Director, International Liaison Mr. Che-Hoo Cheng, Director and Convener,"
+description: "Board of Directors  2012 – 2013 Mr. S.C. Leung, Chairperson Prof. Joseph Ng, Vice-Chairperson Mr. Jacky Tsoi, Secretary Mr. Ken Lam, Treasurer and Convene"
 categories: ["about-us"]
 tags: []
 lang: en

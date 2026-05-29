@@ -5,8 +5,8 @@ slug: "xiangganghulianwangxiehuiyuhurricane-electricxieshoutuichuyazhoushougeipv
 originalSlug: "%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e8%88%87hurricane-electric%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e4%ba%9e%e6%b4%b2%e9%a6%96%e5%80%8bipv6%e8%ad%89%e6%9b%b8%e8%aa%b2"
 date: 2011-09-03
 modified: 2011-09-03
-excerpt: "為香港培訓新一代互聯網專才 香港互聯網協會與Hurricane Electric攜手推出亞洲首個IPv6證書課程   全球對IPv6專業知識不斷上升的需求推動世界最大IPv6骨幹網供應商 為中文用戶提供首個非英語證書課程 【香港，2011 年9 月2 日】&#8211; 香港互聯網協會（ISOC HK） 今天宣布與世界最大的原生IPv6互聯網骨幹網及主機託管供應商 Hurricane Electric 合作，在亞洲推出首個IPv6證書課程（IPv6 Certification Program）。此課程以中文為語言，目標為華語市場，並且將會是首個非英語的環球IPv6證書課程。   此項中文證書課"
-description: "為香港培訓新一代互聯網專才 香港互聯網協會與Hurricane Electric攜手推出亞洲首個IPv6證書課程   全球對IPv6專業知識不斷上升的需求推動世界最大IPv6骨幹網供應商 為中文用戶提供首個非英語證書課程 【香港，2011 年9 月2 日】&#8211; 香港互聯網協會（ISOC HK） 今天宣布與世界"
+excerpt: "為香港培訓新一代互聯網專才 香港互聯網協會與Hurricane Electric攜手推出亞洲首個IPv6證書課程   全球對IPv6專業知識不斷上升的需求推動世界最大IPv6骨幹網供應商 為中文用戶提供首個非英語證書課程 【香港，2011 年9 月2 日】– 香港互聯網協會（ISOC HK） 今天宣布與世界最大的原生IPv6互聯網骨幹網及主機託管供應商 Hurricane Electric 合作，在亞洲推出首個IPv6證書課程（IPv6 Certification Program）。此課程以中文為語言，目標為華語市場，並且將會是首個非英語的環球IPv6證書課程。   此項中文證書課"
+description: "為香港培訓新一代互聯網專才 香港互聯網協會與Hurricane Electric攜手推出亞洲首個IPv6證書課程   全球對IPv6專業知識不斷上升的需求推動世界最大IPv6骨幹網供應商 為中文用戶提供首個非英語證書課程 【香港，2011 年9 月2 日】– 香港互聯網協會（ISOC HK） 今天宣布與世界"
 categories: ["events", "ipv6", "news", "press-release", "spotlight"]
 tags: []
 lang: mixed

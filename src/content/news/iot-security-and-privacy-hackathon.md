@@ -4,8 +4,8 @@ title: "IoT Security and Privacy Hackathon"
 slug: "iot-security-and-privacy-hackathon"
 date: 2018-10-23
 modified: 2019-03-06
-excerpt: "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Join the IoT (Internet of Things) Security Hackathon&#8211; you will learn and apply the following skills: IoT Protocols and Security Testing Security Vulnerabilities of IoT Devices Static Analysis of Firmware and Walkthrough of How a Router Expliot is Disco"
-description: "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Join the IoT (Internet of Things) Security Hackathon&#8211; you will learn and apply the following skills: IoT Protoco"
+excerpt: "Join the IoT (Internet of Things) Security Hackathon– you will learn and apply the following skills: IoT Protocols and Security Testing Security Vulnerabilities of IoT Devices Static Analysis of Firmware and Walkthrough of How a Router Expliot is Disco"
+description: "Join the IoT (Internet of Things) Security Hackathon– you will learn and apply the following skills: IoT Protoco"
 categories: ["events"]
 tags: []
 lang: en

@@ -1,11 +1,11 @@
 ---
 wpId: 2418
-title: "&quot;IPv6 Case Study in Hong Kong&quot; Seminar and  goIPv6 Service Launching Ceremony"
+title: '"IPv6 Case Study in Hong Kong" Seminar and  goIPv6 Service Launching Ceremony'
 slug: "ipv6-case-study-in-hong-kong-seminar-and-goipv6-service-launching-ceremony"
 date: 2013-07-12
 modified: 2013-07-12
-excerpt: "&nbsp; &#8220;IPv6 Case Study in Hong Kong&#8221; Seminar and goIPv6 Service Launching Ceremony Over half thousand of IT practitioners had already attended the World IPv6 Day and World IPv6 Launch in 2011 and 2012 to get the latest updates on IPv6. Did you miss it before? This year, organized by the"
-description: "&nbsp; &#8220;IPv6 Case Study in Hong Kong&#8221; Seminar and goIPv6 Service Launching Ceremony Over half thousand of IT practitioners had already attended the "
+excerpt: "“IPv6 Case Study in Hong Kong” Seminar and goIPv6 Service Launching Ceremony Over half thousand of IT practitioners had already attended the World IPv6 Day and World IPv6 Launch in 2011 and 2012 to get the latest updates on IPv6. Did you miss it before? This year, organized by the"
+description: "“IPv6 Case Study in Hong Kong” Seminar and goIPv6 Service Launching Ceremony Over half thousand of IT practitioners had already attended the "
 categories: ["events", "ipv6"]
 tags: []
 lang: en

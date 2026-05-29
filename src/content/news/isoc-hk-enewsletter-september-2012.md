@@ -1,11 +1,11 @@
 ---
 wpId: 190
-title: "ISOC-HK eNewsletter &#8211; September 2012"
+title: "ISOC-HK eNewsletter – September 2012"
 slug: "isoc-hk-enewsletter-september-2012"
 date: 2012-08-31
 modified: 2012-08-31
-excerpt: "&nbsp; &nbsp; HIGHLIGHT OF EVENTS DNSSEC.ASIA SUMMIT 2012 (Aug 29 &#8211; 31) Organized by ISOC HK, Cyberport, Dotasia, ICANN, and NSRC, a successful seminar and two-day workshop took place on Aug 29 -31. It was an event fully supported by the IT Community. Our experienced speakers and trainers from"
-description: "&nbsp; &nbsp; HIGHLIGHT OF EVENTS DNSSEC.ASIA SUMMIT 2012 (Aug 29 &#8211; 31) Organized by ISOC HK, Cyberport, Dotasia, ICANN, and NSRC, a successful seminar an"
+excerpt: "HIGHLIGHT OF EVENTS DNSSEC.ASIA SUMMIT 2012 (Aug 29 – 31) Organized by ISOC HK, Cyberport, Dotasia, ICANN, and NSRC, a successful seminar and two-day workshop took place on Aug 29 -31. It was an event fully supported by the IT Community. Our experienced speakers and trainers from"
+description: "HIGHLIGHT OF EVENTS DNSSEC.ASIA SUMMIT 2012 (Aug 29 – 31) Organized by ISOC HK, Cyberport, Dotasia, ICANN, and NSRC, a successful seminar an"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

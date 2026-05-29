@@ -5,7 +5,7 @@ slug: "zixunjitongxunkejizhuanye-duishizhengbaogaodekanfa-ict-professionals-disc
 originalSlug: "%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e5%b0%88%e6%a5%ad-%e5%b0%8d%e6%96%bd%e6%94%bf%e5%a0%b1%e5%91%8a%e7%9a%84%e7%9c%8b%e6%b3%95-ict-professionals-discussion-forum-persp"
 date: 2011-10-18
 modified: 2011-10-18
-excerpt: "ICT Professionals Discussion Forum: Perspectives on Policy Address 資訊及通訊科技專業 : 對施政報告的看法 ICT Professionals Discussion Forum: Perspectives on Policy Address Date 日期: 18-Oct-2011 (Tue) Time 時間: 7:00pm &#8211; 9:00pm Venue 地點: Room 103 ,Duke of Windsor Social Service Building, 15 Hennessy Road, Wanchai,"
+excerpt: "ICT Professionals Discussion Forum: Perspectives on Policy Address 資訊及通訊科技專業 : 對施政報告的看法 ICT Professionals Discussion Forum: Perspectives on Policy Address Date 日期: 18-Oct-2011 (Tue) Time 時間: 7:00pm – 9:00pm Venue 地點: Room 103 ,Duke of Windsor Social Service Building, 15 Hennessy Road, Wanchai,"
 description: "ICT Professionals Discussion Forum: Perspectives on Policy Address 資訊及通訊科技專業 : 對施政報告的看法 ICT Professionals Discussion Forum: Perspectives on Policy Address Date "
 categories: ["consultation-paper", "news", "spotlight"]
 tags: []

@@ -1,11 +1,11 @@
 ---
 wpId: 2661
-title: "Trademark and Brand Protection Strategy &#8212; Changes and Opportunities in the Cyberspace"
+title: "Trademark and Brand Protection Strategy — Changes and Opportunities in the Cyberspace"
 slug: "trademark-and-brand-protection-strategy-changes-and-opportunities-in-the-cyberspace"
 date: 2013-09-25
 modified: 2013-09-25
-excerpt: "Trademark and Brand Protection Strategy &#8212; Changes and Opportunities in the Cyberspace In the past, there are 22 gTLD (generic Top Level Domains) such as .com, .net, .org etc. In June 2011, ICANN authorized the launch of the New gTLD Program. The program&#8217;s goals include enhancing competit"
-description: "Trademark and Brand Protection Strategy &#8212; Changes and Opportunities in the Cyberspace In the past, there are 22 gTLD (generic Top Level Domains) such as ."
+excerpt: "Trademark and Brand Protection Strategy — Changes and Opportunities in the Cyberspace In the past, there are 22 gTLD (generic Top Level Domains) such as .com, .net, .org etc. In June 2011, ICANN authorized the launch of the New gTLD Program. The program’s goals include enhancing competit"
+description: "Trademark and Brand Protection Strategy — Changes and Opportunities in the Cyberspace In the past, there are 22 gTLD (generic Top Level Domains) such as ."
 categories: ["domain-names", "events"]
 tags: []
 lang: en

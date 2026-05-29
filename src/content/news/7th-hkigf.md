@@ -1,10 +1,10 @@
 ---
 wpId: 7163
-title: "8th HONG KONG INTERNET GOVERNANCE FORUM (HKIGF) &#8211; Fake News Law"
+title: "8th HONG KONG INTERNET GOVERNANCE FORUM (HKIGF) – Fake News Law"
 slug: "7th-hkigf"
 date: 2021-08-25
 modified: 2022-02-11
-excerpt: "Hong Kong Internet Governance Forum (HKIGF) Fake news law: effective to combat disinformation online?立法打擊假新聞，效用大唔大？ The HKSAR government is considering to implement &#8220;fake news&#8221; law to combat disinformation, especially on online media platforms and social media, due to the appearance of a"
+excerpt: "Hong Kong Internet Governance Forum (HKIGF) Fake news law: effective to combat disinformation online?立法打擊假新聞，效用大唔大？ The HKSAR government is considering to implement “fake news” law to combat disinformation, especially on online media platforms and social media, due to the appearance of a"
 description: "Hong Kong Internet Governance Forum (HKIGF) Fake news law: effective to combat disinformation online?立法打擊假新聞，效用大唔大？ The HKSAR government is considering to imple"
 categories: ["events", "hkigf", "internet-freedom", "news"]
 tags: []

@@ -1,11 +1,11 @@
 ---
 wpId: 590
-title: "Exchange@Science Park: New Generation of the Internet &#8211; The Evolution of IPv6 (3 Jun)"
+title: "Exchange@Science Park: New Generation of the Internet – The Evolution of IPv6 (3 Jun)"
 slug: "exchangescience-park-new-generation-of-the-internet-the-evolution-of-ipv6-3-jun"
 date: 2011-06-03
 modified: 2011-06-03
-excerpt: "Please check presentation files below. Photo gallery: http://www.flickr.com/photos/isoc_hk/sets/72157626899327300/   New Generation of the Internet &#8211; The Evolution of IPv6 新一代互聯網 &#8211; IPv6時代 Date : 3 June 2011 (Friday) Time : 3:15pm &#8211; 5:30pm Venue : Conference Hall 1 &amp; 2, G/F, Cor"
-description: "Please check presentation files below. Photo gallery: http://www.flickr.com/photos/isoc_hk/sets/72157626899327300/   New Generation of the Internet &#8211; The "
+excerpt: "Please check presentation files below. Photo gallery: http://www.flickr.com/photos/isoc_hk/sets/72157626899327300/   New Generation of the Internet – The Evolution of IPv6 新一代互聯網 – IPv6時代 Date : 3 June 2011 (Friday) Time : 3:15pm – 5:30pm Venue : Conference Hall 1 & 2, G/F, Cor"
+description: "Please check presentation files below. Photo gallery: http://www.flickr.com/photos/isoc_hk/sets/72157626899327300/   New Generation of the Internet – The "
 categories: ["events", "ipv6"]
 tags: []
 lang: en

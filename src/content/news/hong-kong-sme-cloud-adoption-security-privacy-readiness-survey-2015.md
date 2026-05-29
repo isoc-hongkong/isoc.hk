@@ -1,6 +1,6 @@
 ---
 wpId: 4751
-title: "Hong Kong SME Cloud Adoption, Security &amp; Privacy Readiness Survey 2015"
+title: "Hong Kong SME Cloud Adoption, Security & Privacy Readiness Survey 2015"
 slug: "hong-kong-sme-cloud-adoption-security-privacy-readiness-survey-2015"
 date: 2015-05-14
 modified: 2015-05-14

@@ -1,11 +1,11 @@
 ---
 wpId: 559
-title: "&quot;Kickstart IPv6!&quot; Seminar on World IPv6 Day (8 Jun)"
+title: '"Kickstart IPv6!" Seminar on World IPv6 Day (8 Jun)'
 slug: "kickstart-ipv6-seminar-on-world-ipv6-day-8-jun"
 date: 2011-06-08
 modified: 2011-06-08
-excerpt: "&nbsp; Highlight of Kickstart IPv6! Seminar Local and regional well-recognized speakers from the Internet industry will share real IPv6 deployment cases and strategic importance of deploying IPv6 in the seminar on 8 June at Cyberport. Date: 8 June 2011 Time: 2:00pm-5:30pm Venue: Ocean View Court, Th"
-description: "&nbsp; Highlight of Kickstart IPv6! Seminar Local and regional well-recognized speakers from the Internet industry will share real IPv6 deployment cases and str"
+excerpt: "Highlight of Kickstart IPv6! Seminar Local and regional well-recognized speakers from the Internet industry will share real IPv6 deployment cases and strategic importance of deploying IPv6 in the seminar on 8 June at Cyberport. Date: 8 June 2011 Time: 2:00pm-5:30pm Venue: Ocean View Court, Th"
+description: "Highlight of Kickstart IPv6! Seminar Local and regional well-recognized speakers from the Internet industry will share real IPv6 deployment cases and str"
 categories: ["events", "ipv6", "spotlight"]
 tags: []
 lang: en

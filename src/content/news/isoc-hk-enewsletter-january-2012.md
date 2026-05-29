@@ -1,11 +1,11 @@
 ---
 wpId: 379
-title: "ISOC-HK eNewsletter &#8211; January 2012"
+title: "ISOC-HK eNewsletter – January 2012"
 slug: "isoc-hk-enewsletter-january-2012"
 date: 2012-01-31
 modified: 2012-01-31
-excerpt: "HIGHLIGHTS World Internet Developer Summit &#8211; The First in Hong Kong Get ready for Hong Kong&#8217;s First World Internet Developer Summit! The action packed two day summit is the first cross platform developer summit in Hong Kong. Get connected with the greatest minds in the industry with the "
-description: "HIGHLIGHTS World Internet Developer Summit &#8211; The First in Hong Kong Get ready for Hong Kong&#8217;s First World Internet Developer Summit! The action pack"
+excerpt: "HIGHLIGHTS World Internet Developer Summit – The First in Hong Kong Get ready for Hong Kong’s First World Internet Developer Summit! The action packed two day summit is the first cross platform developer summit in Hong Kong. Get connected with the greatest minds in the industry with the "
+description: "HIGHLIGHTS World Internet Developer Summit – The First in Hong Kong Get ready for Hong Kong’s First World Internet Developer Summit! The action pack"
 categories: ["enewsletter", "news", "publication"]
 tags: []
 lang: en

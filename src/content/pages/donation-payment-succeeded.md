@@ -2,7 +2,7 @@
 wpId: 6983
 title: "— Donation payment succeeded"
 slug: "donation-payment-succeeded"
-description: "Thank you for your generous donation! You will receive an email receipt soon, and we will also send you reminder for renewal monthly. Please don&#8217;t hesitat"
+description: "Thank you for your generous donation! You will receive an email receipt soon, and we will also send you reminder for renewal monthly. Please don’t hesitat"
 lang: en
 ---
 

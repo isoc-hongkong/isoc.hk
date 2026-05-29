@@ -4,7 +4,7 @@ title: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar)"
 slug: "ipv6-forum-certified-course-gold-level-11-14-mar"
 date: 2014-02-06
 modified: 2014-02-06
-excerpt: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar) Introduction Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services. &nbsp; This IPv6 Forum Certified Cour"
+excerpt: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar) Introduction Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services.   This IPv6 Forum Certified Cour"
 description: "IPv6 Forum Certified Course (Gold Level) (11-14 Mar) Introduction Major Internet service providers (ISPs), home networking equipment manufacturers, and web comp"
 categories: ["ipv6"]
 tags: []

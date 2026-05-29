@@ -4,8 +4,8 @@ title: "StartLab x MFP: Pre-CNY Startup Party: How to get funding for your start
 slug: "pre-cny-startup-party-how-to-get-funding-for-your-startup-28-jan-lkf-central"
 date: 2014-01-22
 modified: 2014-01-22
-excerpt: "Pre-CNY Startup Party: How to get funding for your startup? Let&#8217;s meet angel investors and startup friends! Date: 28 Jan (Tue) Time: 7 &#8211; 9pm Venue: Bisous, 9/F LKF Tower, 33 Wyndham Street, Hong Kong Language: Cantonese Entry fee: HKD 50 (non-member), Free of charge for ISOC HK members N"
-description: "Pre-CNY Startup Party: How to get funding for your startup? Let&#8217;s meet angel investors and startup friends! Date: 28 Jan (Tue) Time: 7 &#8211; 9pm Venue: "
+excerpt: "Pre-CNY Startup Party: How to get funding for your startup? Let’s meet angel investors and startup friends! Date: 28 Jan (Tue) Time: 7 – 9pm Venue: Bisous, 9/F LKF Tower, 33 Wyndham Street, Hong Kong Language: Cantonese Entry fee: HKD 50 (non-member), Free of charge for ISOC HK members N"
+description: "Pre-CNY Startup Party: How to get funding for your startup? Let’s meet angel investors and startup friends! Date: 28 Jan (Tue) Time: 7 – 9pm Venue: "
 categories: ["application-development", "events", "spotlight", "startup"]
 tags: ["angel-investor", "cloud", "funding", "startup"]
 lang: en

@@ -4,8 +4,8 @@ title: "Story of Open Source Startups"
 slug: "story-of-open-source-startups"
 date: 2015-07-22
 modified: 2015-07-22
-excerpt: "&#8220;Story of Open Source Startups&#8221; Speakers from famous open source startups and companies are invited to share their great story on how to start and run their open source startups and business. Please join this event to get the tips behind their successful story and more importantly, meet "
-description: "&#8220;Story of Open Source Startups&#8221; Speakers from famous open source startups and companies are invited to share their great story on how to start and r"
+excerpt: "“Story of Open Source Startups” Speakers from famous open source startups and companies are invited to share their great story on how to start and run their open source startups and business. Please join this event to get the tips behind their successful story and more importantly, meet "
+description: "“Story of Open Source Startups” Speakers from famous open source startups and companies are invited to share their great story on how to start and r"
 categories: ["events", "startup"]
 tags: []
 lang: en

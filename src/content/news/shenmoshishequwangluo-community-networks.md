@@ -5,8 +5,8 @@ slug: "shenmoshishequwangluo-community-networks"
 originalSlug: "%e4%bb%80%e9%ba%bd%e6%98%af%e7%a4%be%e5%8d%80%e7%b6%b2%e7%b5%a1-community-networks"
 date: 2020-06-15
 modified: 2020-07-16
-excerpt: "很多人以爲互聯網必須由互聯網服務供應商 (ISP) 提供。其實，你也可以&#8221;自己動手&#8221;建造網絡。"
-description: "很多人以爲互聯網必須由互聯網服務供應商 (ISP) 提供。其實，你也可以&#8221;自己動手&#8221;建造網絡。"
+excerpt: "很多人以爲互聯網必須由互聯網服務供應商 (ISP) 提供。其實，你也可以”自己動手”建造網絡。"
+description: "很多人以爲互聯網必須由互聯網服務供應商 (ISP) 提供。其實，你也可以”自己動手”建造網絡。"
 categories: ["blog", "news"]
 tags: []
 lang: zh-Hant
