@@ -1,12 +1,17 @@
 ---
+interface Props {
+  transparent?: boolean;
+}
+const { transparent = false } = Astro.props;
+
 const currentPath = Astro.url.pathname;
 
 const navLinks = [
-  { href: '/about/', label: 'About' },
-  { href: '/category/news/', label: 'News' },
-  { href: '/category/events/', label: 'Events' },
-  { href: '/be-our-members/', label: 'Join Us' },
-  { href: '/contact/', label: 'Contact' },
+  { href: '/about/', label: 'About', key: 'about' },
+  { href: '/category/news/', label: 'News', key: 'news' },
+  { href: '/category/events/', label: 'Events', key: 'events' },
+  { href: '/be-our-members/', label: 'Join Us', key: 'join' },
+  { href: '/contact/', label: 'Contact', key: 'contact' },
 ];
 
 function isActive(href: string) {
@@ -15,10 +20,9 @@ function isActive(href: string) {
 }
 ---
 
-<header class="site-header">
-  <div class="header-bg" aria-hidden="true"></div>
+<header class:list={['site-header', { 'site-header--transparent': transparent }]}>
   <nav class="main-nav" aria-label="Main navigation">
-    <div class="container nav-inner">
+    <div class="nav-inner container">
       <a class="nav-logo" href="/" aria-label="Internet Society Hong Kong — home">
         <img
           src="/images/uploads/2017/11/ISOC-HONG-KONG-Logo-Dark-Core-RGB-small.webp"
@@ -37,11 +41,11 @@ function isActive(href: string) {
       </button>
 
       <ul class="nav-menu" id="navMenu" role="list">
-        {navLinks.map(({ href, label }) => (
-          <li>
+        {navLinks.map(({ href, label, key }) => (
+          <li class={`nav-item nav-item--${key}`}>
             <a
               href={href}
-              class:list={['nav-link', { 'nav-link--active': isActive(href), 'nav-link--contact': href === '/contact/' }]}
+              class:list={['nav-link', { 'nav-link--active': isActive(href) }]}
               aria-current={isActive(href) ? 'page' : undefined}
             >
               {label}
@@ -64,66 +68,46 @@ function isActive(href: string) {
 
 <style>
   .site-header {
-    position: relative;
     background-image: url('/images/uploads/2018/02/header-isoc.webp');
     background-size: cover;
     background-position: center top;
   }
+  .site-header--transparent {
+    background-image: none;
+  }
 
   .main-nav {
-    background-color: rgba(12, 46, 72, 0.85);
-    backdrop-filter: blur(4px);
+    /* transparent — colored cells sit directly over the header bg */
   }
 
   .nav-inner {
     display: flex;
-    align-items: center;
-    gap: 2rem;
-    min-height: 64px;
+    align-items: stretch;
+    min-height: 60px;
     flex-wrap: wrap;
   }
 
-  .nav-logo { flex-shrink: 0; display: flex; align-items: center; }
-  .nav-logo img { height: 48px; width: auto; }
-
-  .nav-menu {
+  /* White logo cell */
+  .nav-logo {
+    flex-shrink: 0;
     display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    gap: 0;
-    flex: 1;
-    justify-content: flex-end;
-  }
-
-  .nav-link {
-    display: block;
-    padding: 0.75rem 1rem;
-    color: rgba(255,255,255,0.9);
-    font-size: 0.95rem;
-    font-weight: 500;
-    transition: background-color 0.15s, color 0.15s;
-    white-space: nowrap;
-  }
-  .nav-link:hover, .nav-link--active {
-    background-color: var(--color-teal);
-    color: white;
+    align-items: center;
+    background: #fff;
+    padding: 8px 16px;
     text-decoration: none;
   }
-  .nav-link--contact {
-    background-color: var(--color-navy);
-    color: white;
-  }
-  .nav-link--contact:hover { background-color: #0a2035; }
+  .nav-logo img { height: 44px; width: auto; }
 
+  /* Burger (mobile only) */
   .nav-toggle {
     display: none;
     flex-direction: column;
+    justify-content: center;
     gap: 5px;
-    background: none;
+    background: rgba(255,255,255,0.15);
     border: none;
     cursor: pointer;
-    padding: 0.5rem;
+    padding: 0.5rem 0.75rem;
     margin-left: auto;
   }
   .nav-toggle span {
@@ -134,16 +118,90 @@ function isActive(href: string) {
     transition: transform 0.2s;
   }
 
+  /* Menu list */
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+  }
+
+  .nav-item {
+    display: flex;
+    flex: 1 1 auto;
+  }
+
+  .nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+    text-decoration: none;
+    transition: background-color 0.15s;
+  }
+
+  /* Active page underline indicator */
+  .nav-link--active {
+    position: relative;
+  }
+  .nav-link--active::after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 4px;
+    left: 5%;
+    width: 90%;
+    height: 2px;
+    background: rgba(255,255,255,0.85);
+  }
+
+  /* Per-item colors (live site values, verified via DevTools) */
+  .nav-item--about  .nav-link { background: #0c1c2c; color: #fff; }
+  .nav-item--about  .nav-link:hover,
+  .nav-item--about  .nav-link.nav-link--active { background: #173654; }
+
+  .nav-item--news   .nav-link { background: #40b2a4; color: #0c1c2c; }
+  .nav-item--news   .nav-link:hover,
+  .nav-item--news   .nav-link.nav-link--active { background: #5fc6b9; }
+
+  .nav-item--events .nav-link { background: #7e245c; color: #fff; }
+  .nav-item--events .nav-link:hover,
+  .nav-item--events .nav-link.nav-link--active { background: #a62f79; }
+
+  .nav-item--join   .nav-link { background: #eeca4a; color: #0c1c2c; }
+  .nav-item--join   .nav-link:hover,
+  .nav-item--join   .nav-link.nav-link--active { background: #f2d879; }
+
+  .nav-item--contact .nav-link { background: #0c2e48; color: #fff; }
+  .nav-item--contact .nav-link:hover,
+  .nav-item--contact .nav-link.nav-link--active { background: #0a2035; }
+
+  /* Active state: the ::after indicator uses a dark line on the light-bg cells */
+  .nav-item--news .nav-link--active::after,
+  .nav-item--join .nav-link--active::after {
+    background: rgba(12, 28, 44, 0.5);
+  }
+
+  /* Mobile */
   @media (max-width: 768px) {
     .nav-toggle { display: flex; }
     .nav-menu {
       display: none;
       flex-direction: column;
       width: 100%;
-      padding-bottom: 0.5rem;
     }
     .nav-menu--open { display: flex; }
-    .nav-link { padding: 0.6rem 1rem; }
-    .nav-inner { align-items: flex-start; padding-top: 0.5rem; }
+    .nav-item { flex: none; }
+    .nav-link {
+      justify-content: flex-start;
+      padding: 0.7rem 1.25rem;
+    }
+    .nav-inner { align-items: flex-start; padding-top: 0.25rem; padding-bottom: 0.25rem; }
   }
 </style>
