@@ -74,11 +74,11 @@ function formatDate(d: Date) {
     <aside class="post-sidebar">
       <div class="sidebar-widget">
         <h3>Categories</h3>
-        <ul>
+        <div class="sidebar-cats">
           {post.data.categories.map(cat => (
-            <li><a href={`/category/${cat}/`}>{cat.replace(/-/g, ' ')}</a></li>
+            <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
           ))}
-        </ul>
+        </div>
       </div>
     </aside>
   </div>
@@ -153,11 +153,7 @@ function formatDate(d: Date) {
     color: var(--color-teal);
     margin-bottom: 0.75rem;
   }
-  .sidebar-widget ul { list-style: none; padding: 0; }
-  .sidebar-widget li { padding: 0.25rem 0; border-bottom: 1px solid var(--color-border); }
-  .sidebar-widget li:last-child { border-bottom: none; }
-  .sidebar-widget a { font-size: 0.9rem; color: var(--color-navy); }
-  .sidebar-widget a:hover { color: var(--color-teal); }
+  .sidebar-cats { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 
   @media (max-width: 900px) {
     .post-layout { grid-template-columns: 1fr; }

@@ -6,7 +6,7 @@ description: "Board of Director (2024-2025) Cheng Pan Pan (Ben Cheng), Chairman 
 lang: en
 ---
 
-**Board of Director (2024-2025)**
+## Board of Director (2024-2025)
 
   * Cheng Pan Pan (Ben Cheng), _Chairman_
   * Chu Ka-cheong (Edwin Chu), _Treasurer_
@@ -14,7 +14,7 @@ lang: en
   * Chung Edmon Wang on (Edmon Chung)
   * Leung Siu Cheong (SC Leung)
 
-**About ISOC HK**
+## About ISOC HK
 
 Established in 2005, ISOC HK (Internet Society Hong Kong Chapter) is dedicated to the **open, unencumbered, beneficial use of the Internet** ; the upholding of the **freedom of expression and opinion** , **privacy of personal information** and **aversion of social discrimination** ; through responsible self-regulation and harmonized governance.
 
@@ -22,7 +22,7 @@ Consistent with the ISOC statement of purpose, ISOC HK believes in “maintain[i
 
 ISOC HK is driven by individual users and Internet professionals, in conjunction with and augmented by socially responsible corporations in the information society. ISOC HK intends to encourage participation and discussion form its members on issues within the scope of its mandate, and will endeavour to partner and join with other relevant groups from different spectrums of the local and global community on different activities.
 
-**Vision and Mission**
+## Vision and Mission
 
 The vision of ISOC HK is that an open and accessible network, in technology and policy, contributes to and provides a platform for sustainable development of the information society, which enriches the human experience.
 
@@ -35,7 +35,7 @@ The mission of ISOC HK:
   5. Provide and facilitate forums for idea, experience and cultural exchange among individuals and organisations from private and public sectors as well as across borders;
   6. Support relevant educational, humanitarian and societal initiatives concerning the Internet community and the information society, such as addressing the bridging of digital divide, capacity and access building, as well as other informational and outreach activities.
 
-**Internet Society (ISOC)**  
+## Internet Society (ISOC)
 [www.isoc.org](http://www.isoc.org/ "ISOC")
 
 The Internet Society (ISOC) is a nonprofit organisation founded in 1992 to provide leadership in Internet related standards, education, and policy. With offices in Washington, USA, and Geneva, Switzerland, it is dedicated to ensuring the open development, evolution and use of the Internet for the benefit of people throughout the world.
