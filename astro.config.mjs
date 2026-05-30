@@ -4,6 +4,8 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import rehypeUploadsPicture from './scripts/rehype-uploads-picture.mjs';
 
+import sanity from '@sanity/astro';
+
 export default defineConfig({
   site: 'https://www.isoc.hk',
   trailingSlash: 'always',
@@ -19,5 +21,6 @@ export default defineConfig({
       filter: (page) => !page.includes('/wp-admin') && !page.includes('/wp-login'),
     }),
     mdx(),
+    sanity(),
   ],
 });
