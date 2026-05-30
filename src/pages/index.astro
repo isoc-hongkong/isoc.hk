@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import PageLayout from '../layouts/PageLayout.astro';
+import Picture from '../components/Picture.astro';
 
 const allPosts = await getCollection('news', ({ data }) => !data.draft);
 const recentPosts = allPosts
@@ -13,7 +14,6 @@ function formatDate(d: Date) {
 ---
 
 <PageLayout title="" lang="zh-Hant">
-  <main>
     <div class="hero container">
       <h1 class="hero-title">Internet Society Hong Kong</h1>
       <p class="hero-subtitle">Promoting the open development, evolution, and use of the Internet for everyone in Hong Kong and beyond.</p>
@@ -30,7 +30,7 @@ function formatDate(d: Date) {
           <article class="post-card">
             {post.data.featuredImage && (
               <div class="post-card__image">
-                <img src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+                <Picture src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
               </div>
             )}
             <div class="post-card__body">
@@ -55,7 +55,6 @@ function formatDate(d: Date) {
         <a href="/category/events/" class="btn btn--outline">All Events</a>
       </div>
     </div>
-  </main>
 </PageLayout>
 
 <style>

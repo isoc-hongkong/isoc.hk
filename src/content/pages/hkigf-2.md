@@ -20,7 +20,7 @@ The Roundtable will be held quarterly and welcome the participation of general p
 
 **Up-Coming HKIGF Roundtable:**
 
-[1st HKIGF Roundtable (Jul 2018) - How should Hong Kong’s privacy laws be reformed?](/1st-hkigf-roundtable-3-jul-2018/)
+[1st HKIGF Roundtable (Jul 2018) - How should Hong Kong’s privacy laws be reformed?](/news/hkigf-roundtable-jul-2018/)
 
   * **Date: 3 July 2018 (Tue)**
   * **Venue: Room 502, Legislative Council Complex**

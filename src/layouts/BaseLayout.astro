@@ -44,6 +44,9 @@ const fullTitle = title ? `${title} | ${siteName}` : siteName;
   <meta name="twitter:description" content={description} />
   {image && <meta name="twitter:image" content={image} />}
 
+  <!-- Preload LCP image (header background, covers the full top band on every page) -->
+  <link rel="preload" as="image" href="/images/uploads/2018/02/header-isoc.webp" type="image/webp" fetchpriority="high" />
+
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="/images/ui/favicon-32x32.png" />

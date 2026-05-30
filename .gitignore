@@ -1,6 +1,14 @@
 dist/
 node_modules/
+.astro/
 .env
 .env.production
 .DS_Store
+
+# Media trees synced out-of-band (not committed; see CLAUDE.md → Image pipeline)
 public/images/uploads/
+public/external/
+
+# Local Netlify folder + auto-generated lockfile
+.netlify
+deno.lock

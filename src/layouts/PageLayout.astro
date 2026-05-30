@@ -18,8 +18,8 @@ const props = Astro.props;
 <BaseLayout {...props}>
   <slot name="head" slot="head" />
   <Header />
-  <div class="site-content">
+  <main class="site-content">
     <slot />
-  </div>
+  </main>
   <Footer />
 </BaseLayout>

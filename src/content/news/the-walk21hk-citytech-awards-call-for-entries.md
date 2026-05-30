@@ -11,9 +11,9 @@ tags: []
 lang: en
 ---
 
-|  |  ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/CityTechC.PNG) |  |  **The Walk21HK CityTech Awards - Call for Entries** **“Innovation for walking”** “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored by Walk21 a global leader in championing walking – and Civic Exchange – a renowned Asian public policy Think Tank.,  The Walk21HK CityTech Awards , the first ever award to celebrate innovations for walking, was created to showcase how the integration of “smart” elements into urban settings has changed the modern walking experience – from the integration of apps on phones, tablets and wearable gadgets to technologies that encourage new walking habits and anything in between. Eligible entrants will be informed to attend a presentation session hosted by co-organizers, 20 finalists will be recognised at the Conference on the 5th October 2016. Our Judging Panel is formed by investors, angel investors, renowned startup founders, entrepreneurs, IT experts and startup community friends. | Share your ideas with us and gain worldwide exposure!  
+|  |  ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/CityTechC.PNG) |  |  **The Walk21HK CityTech Awards - Call for Entries** **“Innovation for walking”** “Walk21 Hong Kong Conference”, an international five-day conference co-sponsored by Walk21 a global leader in championing walking – and Civic Exchange – a renowned Asian public policy Think Tank.,  The Walk21HK CityTech Awards , the first ever award to celebrate innovations for walking, was created to showcase how the integration of “smart” elements into urban settings has changed the modern walking experience – from the integration of apps on phones, tablets and wearable gadgets to technologies that encourage new walking habits and anything in between. Eligible entrants will be informed to attend a presentation session hosted by co-organizers, 20 finalists will be recognised at the Conference on the 5th October 2016. Our Judging Panel is formed by investors, angel investors, renowned startup founders, entrepreneurs, IT experts and startup community friends. | Share your ideas with us and gain worldwide exposure!  
 ---  
-[![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/submit_button.jpg)](https://citytech-startup.pandaform.com/pub/walk21hk/new)  
+[![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/submit_button.jpg)](https://citytech-startup.pandaform.com/pub/walk21hk/new)  
 **Winning entries can achieve the followings:**
 
     * **Walk21 Hong Kong Conference**
@@ -36,7 +36,7 @@ lang: en
   **Please click[HERE](http://walk21hk.com/news/detail.html?category_id=32&member_id=15) for more information about the Awards criteria & details!** **Should you have any enquiries, please call +852 3157-1357 or email to[ Citytech-startup@walk21hk.com](mailto:Citytech-startup@walk21hk.com).**  
   **_Walk21HK  CityTech Awards - 報名從速_** **「 以創新意念助城市設計實踐以人為本」**   **一連五日的「香港Walk21國際會議」，由英國非牟利機構 Walk21 及香港公共政策研究智庫思匯政策研究所舉辦，以鼓勵各地城市推動步行環境為目標，為世界各地專家提供交流意見及經驗的平台。 Walk21HK CityTech Awards是「香港Walk21國際會議」的重點活動之一，旨在嘉許改善「步行」體驗或鼓勵步行習慣的創新科技產品及構思 _ _**_-- 當中包括，但不限於開發平板電腦及手機應用程式、穿戴裝置等科技。_入圍的參賽單位將被邀請參與面試環節，獎項的評審委員會由投資者和天使投資者、創業和企業家，以及IT 專業人員等不同界別代表組成。   立即分享你的創意及構思!  
 ---  
-[![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/reg.png)](https://citytech-startup.pandaform.com/pub/walk21hk/new)  
+[![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_CityTechAwards/reg.png)](https://citytech-startup.pandaform.com/pub/walk21hk/new)  
   **_優勝者將_ _可_ _：_**
       * **參與「香港Walk21國際會議」**
 **向多達 500 位國際城市專家及商界領袖展示意念的機會** -- 擴展人脈網絡及認識其他專業層面的投資者。

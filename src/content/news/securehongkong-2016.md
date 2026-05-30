@@ -21,7 +21,7 @@ Registration Fee: USD50/HKD400
   
  
 
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/fb1c1ae1e3a9472bafe71137faa80fba.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/kawin.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/ChuanWeiHoo.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/DrCharm.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/fb1c1ae1e3a9472bafe71137faa80fba.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/kawin.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/ChuanWeiHoo.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/DrCharm.jpg)  
 ---|---|---|---  
 [**David Shearer,  **  
 **CISSP  
@@ -32,7 +32,7 @@ Qualys Inc** | [**Chuan-Wei Hoo, CISSP**
 **(ISC) ²** | [**Dr. Toa Charm**  
 **Chief Public Mission Officer,  ** **Hong Kong Cyberport**  
 **Management Company Limited**  
-    ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/AlbertHui.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/SCLeung.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/BorisSo.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/JohnYoung.png)  
+    ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/AlbertHui.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/SCLeung.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/BorisSo.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/JohnYoung.png)  
 ---|---|---|---  
 [**[Albert Hui,  **  
   
@@ -43,12 +43,12 @@ Security Ronin** | [**S.C. Leung**
 **Senior Vice President &** **Head,** **Professional Security** **Services, Quann**  
 **Co-organized by:**  
 ---  
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/cohosts.png)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/cohosts.png)  
 **Sponsored by:**  
 ---  
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/sponsor_resize.png)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/sponsor_resize.png)  
 **Supported by:**  
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/SupportingOrg26Aug_5.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_SecureHongKong2016/SupportingOrg26Aug_5.jpg)  
 |    
 ---  
    

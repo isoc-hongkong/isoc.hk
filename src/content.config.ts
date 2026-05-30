@@ -30,6 +30,14 @@ const pages = defineCollection({
     parent: z.string().optional(),
     description: z.string().default(''),
     lang: z.enum(['zh-Hant', 'en', 'mixed']).default('mixed'),
+    stripePlan: z
+      .object({
+        planId: z.string(),
+        label: z.string(),
+        successUrl: z.string(),
+        cancelUrl: z.string(),
+      })
+      .optional(),
   }),
 });
 

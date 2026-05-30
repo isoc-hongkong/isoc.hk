@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import PageLayout from '../layouts/PageLayout.astro';
+import StripeCheckoutButton from '../components/StripeCheckoutButton.astro';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -12,6 +13,7 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { Content } = await render(page);
+const { stripePlan } = page.data;
 ---
 
 <PageLayout
@@ -34,6 +36,14 @@ const { Content } = await render(page);
   <div class="container page-content">
     <div class="prose">
       <Content />
+      {stripePlan && (
+        <StripeCheckoutButton
+          planId={stripePlan.planId}
+          label={stripePlan.label}
+          successUrl={stripePlan.successUrl}
+          cancelUrl={stripePlan.cancelUrl}
+        />
+      )}
     </div>
   </div>
 </PageLayout>

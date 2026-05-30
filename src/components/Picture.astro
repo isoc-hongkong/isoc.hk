@@ -1,0 +1,65 @@
+---
+// Renders a <picture> with a WebP <source> when the src is a /images/uploads/
+// raster path and a .webp sibling exists in public/. Otherwise emits a plain
+// <img>. Use for `featuredImage` strings that come from markdown frontmatter
+// (i.e., not importable as astro:assets modules).
+
+import { existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+
+interface Props {
+  src: string;
+  alt: string;
+  width?: number | string;
+  height?: number | string;
+  loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  class?: string;
+}
+
+const {
+  src,
+  alt,
+  width,
+  height,
+  loading = 'lazy',
+  fetchpriority,
+  class: className,
+} = Astro.props;
+
+const rasterRe = /^(\/images\/uploads\/.+)\.(jpe?g|png)$/i;
+const m = src.match(rasterRe);
+let webpSrc: string | null = null;
+if (m) {
+  const candidate = `${m[1]}.webp`;
+  const fs = resolve(process.cwd(), 'public' + candidate);
+  if (existsSync(fs)) webpSrc = candidate;
+}
+---
+
+{webpSrc ? (
+  <picture>
+    <source srcset={webpSrc} type="image/webp" />
+    <img
+      src={src}
+      alt={alt}
+      width={width}
+      height={height}
+      loading={loading}
+      decoding="async"
+      fetchpriority={fetchpriority}
+      class={className}
+    />
+  </picture>
+) : (
+  <img
+    src={src}
+    alt={alt}
+    width={width}
+    height={height}
+    loading={loading}
+    decoding="async"
+    fetchpriority={fetchpriority}
+    class={className}
+  />
+)}

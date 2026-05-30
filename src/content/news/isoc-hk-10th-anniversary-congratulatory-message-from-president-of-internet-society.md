@@ -11,7 +11,7 @@ tags: []
 lang: en
 ---
 
-|    |  ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/tag_ISOC10AnniCrop.png) |  |    **Congratulatory Message from President & CEO of Internet Society  ** **Ms Kathryn Brown**   | _**Congratulations on 10 years of ISOC Hong Kong!**_  
+|    |  ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/tag_ISOC10AnniCrop.png) |  |    **Congratulatory Message from President & CEO of Internet Society  ** **Ms Kathryn Brown**   | _**Congratulations on 10 years of ISOC Hong Kong!**_  
 ---  
   
   
@@ -43,7 +43,7 @@ success:
   
   
   
-•   1,400 general and corporate members![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/cakeisochk_crop.jpg)  
+•   1,400 general and corporate members![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/cakeisochk_crop.jpg)  
   
   
   
@@ -119,7 +119,7 @@ Kindest regards,
   
   
   
-Kathy   ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Kathy_Brown_2014_final.jpg)    
+Kathy   ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Kathy_Brown_2014_final.jpg)    
   
  
 

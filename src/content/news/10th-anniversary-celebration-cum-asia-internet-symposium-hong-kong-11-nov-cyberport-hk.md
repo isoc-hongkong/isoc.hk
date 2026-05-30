@@ -11,20 +11,20 @@ tags: []
 lang: en
 ---
 
-|    |  [![](https://bo.eventmasterapp.com/images/upload/images/banner_website%281%29.png)](http://isochk.pandaform.com/pub/lvxv7c/new) |  |    **Organized by****Internet Society Asia-Pacific Bureau  ** **Hosted by****Internet Society Hong Kong  ** **Asia Internet Symposium Hong Kong  ** **11 Nov, 2016 | Cyberport, Hong Kong**   **' Shaping our Lives with Internet of Things: ** **the Angels and the Devils '**   |  This year, with the celebration of our 10th anniversary, ISOCHK is partnering with Internet Society Headquarter and our Asia-Pacific Bureau to hold the**Asia Internet Symposium Hong Kong**.  Riding on the theme of **' Shaping our Lives with Internet of Things (IoTs): the Angels and the Devils',** this one-day Conference aims to provide a forum for different sectors to deliberate on issues of IoT covering from applications, implications to forecast on areas of technology, social and political landscapes, etc.   
+|    |  [![](/external/bo.eventmasterapp.com/images/upload/images/banner_website(1).png)](http://isochk.pandaform.com/pub/lvxv7c/new) |  |    **Organized by****Internet Society Asia-Pacific Bureau  ** **Hosted by****Internet Society Hong Kong  ** **Asia Internet Symposium Hong Kong  ** **11 Nov, 2016 | Cyberport, Hong Kong**   **' Shaping our Lives with Internet of Things: ** **the Angels and the Devils '**   |  This year, with the celebration of our 10th anniversary, ISOCHK is partnering with Internet Society Headquarter and our Asia-Pacific Bureau to hold the**Asia Internet Symposium Hong Kong**.  Riding on the theme of **' Shaping our Lives with Internet of Things (IoTs): the Angels and the Devils',** this one-day Conference aims to provide a forum for different sectors to deliberate on issues of IoT covering from applications, implications to forecast on areas of technology, social and political landscapes, etc.   
 ---  
   
  
 
-[![](https://bo.eventmasterapp.com/images/upload/images/RegisterButton%281%29.png)](http://isochk.pandaform.com/pub/lvxv7c/new)  
+[![](/external/bo.eventmasterapp.com/images/upload/images/RegisterButton(1).png)](http://isochk.pandaform.com/pub/lvxv7c/new)  
 ---  
   
  
 
 **Guest of Honor** |  **Guest of Honor** |  **Founding Chair** | **Host**  
 ---|---|---|---  
-![](https://bo.eventmasterapp.com/images/upload/images/S%20for%20IT_portrait.jpg) |  ![](https://bo.eventmasterapp.com/images/upload/images/DC%20TWDIST%20%28LAM%20Man-wing%29%20p.jpg) |  ![](https://bo.eventmasterapp.com/images/upload/images/Charles-Mok.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Chester_2_ais.jpg)  
-![](https://bo.eventmasterapp.com/images/upload/images/ITB_logo.png) |  ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/%E5%BD%A9%E8%89%B2%E8%AD%A6%E5%BE%BD-big.jpg) |  ![](https://bo.eventmasterapp.com/images/upload/images/CharlesMokOffice.png) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/isochklogo_smallSize.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/S for IT_portrait.jpg) |  ![](/external/bo.eventmasterapp.com/images/upload/images/DC TWDIST (LAM Man-wing) p.jpg) |  ![](/external/bo.eventmasterapp.com/images/upload/images/Charles-Mok.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Chester_2_ais.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ITB_logo.png) |  ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/彩色警徽-big.jpg) |  ![](/external/bo.eventmasterapp.com/images/upload/images/CharlesMokOffice.png) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/isochklogo_smallSize.jpg)  
 **Nicholas W Yang, JP,  
 Secretary for Innovation and Technology of   
 the Government of the HKSAR** |  **Edwin Lam,  
@@ -40,9 +40,9 @@ Internet Society Hong Kong**
   
  
 
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Baker-2006.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Andrew_crop.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Baker-2006.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/Andrew_crop.jpg)  
 ---|---  
-![](https://bo.eventmasterapp.com/images/upload/images/ietf-logo.gif) | ![](https://bo.eventmasterapp.com/images/upload/images/Dyn-logo-black.png)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ietf-logo.gif) | ![](/external/bo.eventmasterapp.com/images/upload/images/Dyn-logo-black.png)  
 **Fred Baker,  
 Former IETF Chair &**  
 **Current Co-Chair of the IETF 's  
@@ -56,9 +56,9 @@ Internet Architecture Board
   
  
 
-![](https://bo.eventmasterapp.com/images/upload/images/rebecca-mackinnon_person_image_corp.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/robnickel_crop.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/rebecca-mackinnon_person_image_corp.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/robnickel_crop.jpg)  
 ---|---  
-![](https://bo.eventmasterapp.com/images/upload/images/F2HlqxBL.jpeg) | ![](https://bo.eventmasterapp.com/images/upload/images/eyezonlogosandvox-2.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/F2HlqxBL.jpeg) | ![](/external/bo.eventmasterapp.com/images/upload/images/eyezonlogosandvox-2.jpg)  
 **Rebecca MacKinnon,    
 Director,   
 Ranking Digital Rights    
@@ -73,9 +73,9 @@ at New America ** | **Rob Nickel,** **VP Security & Media Relations, ** **Eye-Zo
 
  
 
-![](https://bo.eventmasterapp.com/images/upload/images/daehokim8_crop.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/glacier_crop.jpg) | ![](https://bo.eventmasterapp.com/images/upload/images/IMG_3561_crop.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/daehokim8_crop.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/glacier_crop.jpg) | ![](/external/bo.eventmasterapp.com/images/upload/images/IMG_3561_crop.jpg)  
 ---|---|---  
-![](https://bo.eventmasterapp.com/images/upload/images/InhaUniversityEmblem.png) | ![](https://bo.eventmasterapp.com/images/upload/images/unnamed%284%29.png) | ![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/hkpf_cstcb.jpg)  
+![](/external/bo.eventmasterapp.com/images/upload/images/InhaUniversityEmblem.png) | ![](/external/bo.eventmasterapp.com/images/upload/images/unnamed(4).png) | ![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/hkpf_cstcb.jpg)  
 **Dr Dae Ho Kim,  ** **Professor,  ** **Inha University, Korea** | **Glacier Kwong,  ** **Spokesperson,  ** **Keyboard Frontline** |  **Dr Frank Law,    
 Superintendent, Head,   
 Cyber Security Division,   
@@ -139,5 +139,5 @@ Dr Dae Ho Kim, Professor, Inha University, Korea
    
   
 ---|---  
-![](https://bo.eventmasterapp.com/images/upload/images/AISLogoMain3.png)  
-![](https://bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/AISLogoSO5.png)
+![](/external/bo.eventmasterapp.com/images/upload/images/AISLogoMain3.png)  
+![](/external/bo.eventmasterapp.com/images/upload/images/ISOCHK_AISHK/AISLogoSO5.png)

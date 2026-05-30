@@ -25,7 +25,7 @@ Free of Charge!!
 
 * * *
 
-Speaker: [![SHAY](/images/uploads/2015/07/SHAY.png)](/images/uploads/2015/07/SHAY.png)  
+Speaker: [![SHAY](/images/uploads/2015/07/SHAY-uppercase.png)](/images/uploads/2015/07/SHAY-uppercase.png)  
 ---  
 **Shay Banon**  
 Elastic Co-Founder and CTO, creator of Elasticsearch  

@@ -11,7 +11,7 @@ tags: []
 lang: en
 ---
 
-[![SecureHongKong2014](https://images.magnetmail.net/images/clients/ISC2/AP/2014/SecureHongKong-851x315_eDM_Header02.jpg)](http://send.isc2.org/link.cfm?r=1665864290&sid=50585481&m=6203565&u=ISC2&j=21397795&s=http://www.cvent.com/events/securehongkong-2014/event-summary-41742cbe4eb847629a6960ade37c641e.aspx)  
+[![SecureHongKong2014](/external/images.magnetmail.net/images/clients/ISC2/AP/2014/SecureHongKong-851x315_eDM_Header02.jpg)](http://send.isc2.org/link.cfm?r=1665864290&sid=50585481&m=6203565&u=ISC2&j=21397795&s=http://www.cvent.com/events/securehongkong-2014/event-summary-41742cbe4eb847629a6960ade37c641e.aspx)  
 ---  
 SecureHongKong2014 ( Sept 19 ) Building Cyber Resilience: Technology, Architecture and Validation  
 The one day conference will focus on how security professionals can address the constantly changing security landscape. In addition, it will provide the attendees with an opportunity to understand emerging technologies and how we strengthen our dynamic defence to even the most malicious cyber attacks.  
@@ -22,7 +22,7 @@ Venue: | Function Room 1-3, Level 3, Core E, Cyberport 3, 100 Cyberport Road, Ho
 Registration fees: | Members of (ISC)², ISOC, CSA, PISA : FREE; Non-members: USD50  
 Please register: | Members of (ISC)²:[Here](http://www.cvent.com/d/g4qfyq/4W ) (Enter your member ID for verification)  
 | Non-members: [Here](http://www.cvent.com/d/t4qfyq/4W) (Enter valid discount code if you are member of ISOC, CSA or PISA)  
-*FREE shuttle bus service is available (Admiralty Cyberport) before and after the conference based on first-come, first-served basis. [[MAP]](https://custom.cvent.com/1B8FF20CA3284DDD9E69582158291F1D/files/event/41742CBE4EB847629A6960ADE37C641E/0534a727a5ca4c98a031d96986b2c5ef.pdf)   **Speakers:** ![ChesterSoong](https://images.magnetmail.net/images/clients/ISC2/AP/2014/Chester_Soong_120x160.jpg) | ![ChrisCalvert_120x160.jpg](https://images.magnetmail.net/images/clients/ISC2/AP/2014/ChrisCalvert_120x160.jpg) | ![HORDt.JPG](https://images.magnetmail.net/images/clients/ISC2/AP/HORDt.JPG) | ![shlim](https://images.magnetmail.net/images/clients/ISC2/AP/shlim.jpg) | ![SCLeung](https://images.magnetmail.net/images/clients/ISC2/AP/2014/SCLeung_120x160.jpg)  
+*FREE shuttle bus service is available (Admiralty Cyberport) before and after the conference based on first-come, first-served basis. [[MAP]](https://custom.cvent.com/1B8FF20CA3284DDD9E69582158291F1D/files/event/41742CBE4EB847629A6960ADE37C641E/0534a727a5ca4c98a031d96986b2c5ef.pdf)   **Speakers:** ![ChesterSoong](/external/images.magnetmail.net/images/clients/ISC2/AP/2014/Chester_Soong_120x160.jpg) | ![ChrisCalvert_120x160.jpg](/external/images.magnetmail.net/images/clients/ISC2/AP/2014/ChrisCalvert_120x160.jpg) | ![HORDt.JPG](https://images.magnetmail.net/images/clients/ISC2/AP/HORDt.JPG) | ![shlim](/external/images.magnetmail.net/images/clients/ISC2/AP/shlim.jpg) | ![SCLeung](/external/images.magnetmail.net/images/clients/ISC2/AP/2014/SCLeung_120x160.jpg)  
 ---|---|---|---|---  
 **Chester Soong** _, CISSP_  
 Chairman,  
