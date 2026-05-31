@@ -75,22 +75,22 @@
 
 [[redirects]]
   from   = "/notice/%e3%80%90%e8%a6%81%e6%b1%82%e6%92%a4%e5%9b%9e%e9%9b%bb%e8%a9%b1%e6%99%ba%e8%83%bd%e5%8d%a1%e5%af%a6%e5%90%8d%e7%99%bb%e8%a8%98%e5%88%b6%e5%ba%a6%e8%81%b2%e6%98%8e%e3%80%91/"
-  to     = "/news/yaoqiuchehuidianhuazhinengkashimingdengjizhidushengming/"
+  to     = "/news/statement-oppose-sim-card-real-name-registration/"
   status = 301
 
 [[redirects]]
   from   = "/others/%e4%bf%9d%e8%ad%b7%e4%ba%8c%e6%ac%a1%e5%89%b5%e4%bd%9c%ef%bc%81%e6%88%b2%e4%bb%bf%e8%b1%81%e5%85%8d%e7%a0%94%e8%a8%8e%e6%9c%83/"
-  to     = "/news/baohuercichuangzuo-xifanghuomianyantaohui/"
+  to     = "/news/protecting-derivative-works-parody-exemption-seminar/"
   status = 301
 
 [[redirects]]
   from   = "/spotlight/call-for-application-best-ict-startup-award-%e8%aa%a0%e9%82%80%e5%8f%83%e5%8a%a0%e3%80%8c%e6%9c%80%e4%bd%b3%e8%b3%87%e8%a8%8a%e7%a7%91%e6%8a%80%e5%88%9d%e5%89%b5%e4%bc%81%e6%a5%ad%e7%8d%8e%e3%80%8d/"
-  to     = "/news/call-for-application-best-ict-startup-award-chengyaocanjia-zuijiazixunkejichuchuangqiyejiang/"
+  to     = "/news/call-for-application-best-ict-startup-award/"
   status = 301
 
 [[redirects]]
   from   = "/web-accessibility/%e3%80%8e%e5%a6%82%e4%bd%95%e7%a2%ba%e4%bf%9d%e6%a9%9f%e6%a7%8b%e7%b6%b2%e9%a0%81%e7%ac%a6%e5%90%88%e7%84%a1%e9%9a%9c%e7%a4%99%e6%a8%99%e6%ba%96%e3%80%8f%e8%ac%9b%e5%ba%a7/"
-  to     = "/news/ruhequebaojigouwangyefuhewuzhangaibiaozhun-jiangzuo/"
+  to     = "/news/ensuring-websites-meet-accessibility-standards-seminar/"
   status = 301
 
 # 2. Specific path → renamed page rules
@@ -312,6 +312,278 @@
 # End migration redirects
 # ──────────────────────────────────────────────────────────────────────
 
+
+# 9. Pinyin slug → English slug (post-migration cleanup, 2026-05)
+#    Backward-compat redirects so old bookmarks and existing inbound links still work.
+[[redirects]]
+  from   = "/news/baohuercichuangzuo-xifanghuomianyantaohui/"
+  to     = "/news/protecting-derivative-works-parody-exemption-seminar/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/cenaohuishoulvzhengsixinjian-yaoqiuyichuzhouzilezhisiwenzhang/"
+  to     = "/news/lester-shum-doj-letter-remove-alex-chow-article-online-freedom/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/dangkaifangshujuyushangquyihui/"
+  to     = "/news/when-open-data-meets-district-councils/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/gongzhongluntan-22-jul-11/"
+  to     = "/news/public-forum-22-jul-11/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/google-dianqilelangyan/"
+  to     = "/news/google-lights-the-beacon/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/hulianwanggongyingshangjiyonghuguanzhubanquanxiudingxinlijizhengfujianyi/"
+  to     = "/news/isp-users-copyright-amendment-concerns-and-recommendations/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/hulianwangzixunkaifangyubaohusiyinyipingheng/"
+  to     = "/news/internet-information-openness-vs-privacy-protection-balance/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/ipv6-in-action-project-qidongipv6jihua/"
+  to     = "/news/ipv6-in-action-project-launch/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/ipv6-rangwangluochixu-jiaoshiyantaohui/"
+  to     = "/news/ipv6-sustaining-the-internet-teacher-seminar/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/itshifangzaitoushangde/"
+  to     = "/news/it-is-placed-on-your-head/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/kaifangshishijiaotongshujuzhu-shukun/"
+  to     = "/news/open-real-time-transport-data-eases-traffic-congestion/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/kaifangshujubuyingbimenzaoche/"
+  to     = "/news/open-data-should-not-reinvent-the-wheel/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/kaifangyiqingshujuzhiguanchayusikao/"
+  to     = "/news/observations-reflections-on-open-covid-data/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/metashumagongminwangluoanquanxianggangluntan/"
+  to     = "/news/meta-digital-citizenship-cybersecurity-hong-kong-forum/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/mingbaozhuanxun-anquanwangluo-wanweiwangchaoweixianfangxiangfazhan/"
+  to     = "/news/ming-pao-interview-secure-internet-iot-threats-emerging/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/mingbaozhuanxun-weihemimabunengzhongyong/"
+  to     = "/news/ming-pao-interview-why-passwords-cannot-be-reused/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/qingjiaruwodieisocxiangganghulianwangxiehuila-3-aug-11/"
+  to     = "/news/join-isoc-hk-membership-3-aug-11/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/quyihuimaijinshumakongjianzhukuoshimincanyu/"
+  to     = "/news/district-councils-digital-space-expanding-civic-participation/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/ruhequebaojigouwangyefuhewuzhangaibiaozhun-jiangzuo/"
+  to     = "/news/ensuring-websites-meet-accessibility-standards-seminar/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/wangluoanquantongxing-x-rengongzhineng-tiyanri/"
+  to     = "/news/cybersafe-for-all-ai-discovery-fun-day/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/wangluoshenchajinzhilingfanweishouzhai-guanzhuzhengfujixuzhizaohanchanxiao/"
+  to     = "/news/internet-censorship-injunction-scope-narrowed-chilling-effect-concerns/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xiangganghulianwangxiehui-wangkaiyimian-xilie-qingqiongfuwengyinbei/"
+  to     = "/news/isoc-hk-open-internet-series-raise-a-glass/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xiangganghulianwangxiehui-zixunbaoanxiaotieshixilie-zhuchi-chester-soongji-sang-you/"
+  to     = "/news/isoc-hk-security-tips-series-chester-soong-sang-you/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xiangganghulianwangxiehuijiulifahuigongshangshiwuweiyuanhui2020nian6yue16ri/"
+  to     = "/news/isoc-hk-statement-legco-commerce-committee-jun-2020/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xiangganghulianwangxiehuiquanlizhichi-shouxuanxianggangchuangxinkeji-qun/"
+  to     = "/news/isoc-hk-endorses-hk-innovation-tech-constituency/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xiangganghulianwangxiehuiyuhurricane-electricxieshoutuichuyazhoushougeipv6zhengshuke/"
+  to     = "/news/isoc-hk-hurricane-electric-asia-first-ipv6-certification-course/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xianggangkaifangshujuzhishu-jihua-jieshixianggangkaifangshujujinzhanyu/"
+  to     = "/news/hong-kong-open-data-index-project-progress/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xifanghuomianhequhecong-yantaohui-10yue31ri/"
+  to     = "/news/parody-exemption-whats-next-seminar-oct-31/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xinwengao-guojishengshi-hulianwangmingrentang-banjiangdianlishou/"
+  to     = "/news/press-release-internet-hall-of-fame-award-ceremony/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xinwengao-zhengfu-banquantiaoli-xuanzexinglifa-yanzhonghushiyong/"
+  to     = "/news/press-release-copyright-ordinance-selective-enforcement-concerns/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/xinwengaobaohugerenyinsiyuwang-luoziyou-guanzhushexianshoujida/"
+  to     = "/news/press-release-isoc-hk-position-privacy-and-internet-freedom-2013/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/yaoqiuchehuidianhuazhinengkashimingdengjizhidushengming/"
+  to     = "/news/statement-oppose-sim-card-real-name-registration/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuo-xilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-1/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie-xi/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-2/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilieer/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-3/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxiliewu/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-4/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhenduijianhuaipv4guoduipv6wangluohutong-goipv6-lianmengtuichumianfeipingtai/"
+  to     = "/news/goipv6-coalition-launches-free-platform-for-ipv4-ipv6-transition/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zhongxiaoqiyunduanbaoanjiuxuyantaohui-zhongxiaoqi-nizhunbeihaoshiyong/"
+  to     = "/news/sme-cloud-security-readiness-seminar-are-you-ready/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zixunjitongxunkejitongxunyejiehuyutequzhengfu/"
+  to     = "/news/ict-industry-call-on-hksar-government/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/zixunjitongxunkejizhuanye-duishizhengbaogaodekanfa-ict-professionals-discussion-forum-persp/"
+  to     = "/news/ict-professionals-views-on-policy-address-discussion-forum/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/apricot-apan-2011-jixiangxiangganghulianwangdashijian-xuanju-httpwww-hk10-asia/"
+  to     = "/news/apricot-apan-2011-hk-internet-milestones-vote/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/call-for-application-best-ict-startup-award-chengyaocanjia-zuijiazixunkejichuchuangqiyejiang/"
+  to     = "/news/call-for-application-best-ict-startup-award/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/hkigf-xiangganghulianwangguanzhiluntan-wangjinshidai/"
+  to     = "/news/hkigf-digital-era-internet-governance-roundtable/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-security-law-hong-kongs-great-firewall-xiangganghulianwangguanzhilun/"
+  to     = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-national-security-law-great-firewall/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/hong-kong-internet-governance-forum-xiangganghulianwangzhililuntan-2025/"
+  to     = "/news/hong-kong-internet-governance-forum-2025/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/internet-saturday-3-bokeyanlunwuziyou-16-jul-11/"
+  to     = "/news/internet-saturday-3-blog-speech-freedom-16-jul-11/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/pujitoupiaoxitongjishuyantaohui-popvote-system-technical-seminar-20-sep/"
+  to     = "/news/popvote-system-technical-seminar-20-sep/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-xianggangzhongxiaoqiyunduanyingyong/"
+  to     = "/news/results-announcement-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/shenmoshi-xianghuxieshangdeluyouanquanguifan-mutually-agreed-norms-for-routing-security-manrs/"
+  to     = "/news/what-is-mutually-agreed-norms-for-routing-security-manrs/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/shenmoshishequwangluo-community-networks/"
+  to     = "/news/what-is-community-networks/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/shougeyejielianmengxieshoutuichu-goipv6/"
+  to     = "/news/first-industry-coalition-launches-goipv6/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/startlab-hk-xianggangchuangyeshiyanshi/"
+  to     = "/news/startlab-hk/"
+  status = 301
+
+[[redirects]]
+  from   = "/news/web-apps-apple-tokyo-wangluo-chengshi-pingguo-dongjing-xintongyongdingjiyuming-gtld-quan/"
+  to     = "/news/web-apps-apple-tokyo-new-generic-top-level-domains-gtld/"
+  status = 301
 # Site search → search page
 [[redirects]]
   from   = "/"
@@ -478,7 +750,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "611" }
-  to     = "/news/apricot-apan-2011-jixiangxiangganghulianwangdashijian-xuanju-httpwww-hk10-asia/"
+  to     = "/news/apricot-apan-2011-hk-internet-milestones-vote/"
   status = 301
   force  = true
 
@@ -492,7 +764,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "2341" }
-  to     = "/news/baohuercichuangzuo-xifanghuomianyantaohui/"
+  to     = "/news/protecting-derivative-works-parody-exemption-seminar/"
   status = 301
   force  = true
 
@@ -562,14 +834,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "3247" }
-  to     = "/news/call-for-application-best-ict-startup-award-chengyaocanjia-zuijiazixunkejichuchuangqiyejiang/"
+  to     = "/news/call-for-application-best-ict-startup-award/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7011" }
-  to     = "/news/cenaohuishoulvzhengsixinjian-yaoqiuyichuzhouzilezhisiwenzhang/"
+  to     = "/news/lester-shum-doj-letter-remove-alex-chow-article-online-freedom/"
   status = 301
   force  = true
 
@@ -597,7 +869,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "6951" }
-  to     = "/news/dangkaifangshujuyushangquyihui/"
+  to     = "/news/when-open-data-meets-district-councils/"
   status = 301
   force  = true
 
@@ -702,14 +974,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "541" }
-  to     = "/news/gongzhongluntan-22-jul-11/"
+  to     = "/news/public-forum-22-jul-11/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "1837" }
-  to     = "/news/google-dianqilelangyan/"
+  to     = "/news/google-lights-the-beacon/"
   status = 301
   force  = true
 
@@ -891,7 +1163,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "7143" }
-  to     = "/news/hkigf-xiangganghulianwangguanzhiluntan-wangjinshidai/"
+  to     = "/news/hkigf-digital-era-internet-governance-roundtable/"
   status = 301
   force  = true
 
@@ -926,14 +1198,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "7115" }
-  to     = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-security-law-hong-kongs-great-firewall-xiangganghulianwangguanzhilun/"
+  to     = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-national-security-law-great-firewall/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7372" }
-  to     = "/news/hong-kong-internet-governance-forum-xiangganghulianwangzhililuntan-2025/"
+  to     = "/news/hong-kong-internet-governance-forum-2025/"
   status = 301
   force  = true
 
@@ -968,14 +1240,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "515" }
-  to     = "/news/hulianwanggongyingshangjiyonghuguanzhubanquanxiudingxinlijizhengfujianyi/"
+  to     = "/news/isp-users-copyright-amendment-concerns-and-recommendations/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6944" }
-  to     = "/news/hulianwangzixunkaifangyubaohusiyinyipingheng/"
+  to     = "/news/internet-information-openness-vs-privacy-protection-balance/"
   status = 301
   force  = true
 
@@ -1031,7 +1303,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "548" }
-  to     = "/news/internet-saturday-3-bokeyanlunwuziyou-16-jul-11/"
+  to     = "/news/internet-saturday-3-blog-speech-freedom-16-jul-11/"
   status = 301
   force  = true
 
@@ -1171,14 +1443,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "1027" }
-  to     = "/news/ipv6-in-action-project-qidongipv6jihua/"
+  to     = "/news/ipv6-in-action-project-launch/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "276" }
-  to     = "/news/ipv6-rangwangluochixu-jiaoshiyantaohui/"
+  to     = "/news/ipv6-sustaining-the-internet-teacher-seminar/"
   status = 301
   force  = true
 
@@ -1381,7 +1653,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "1797" }
-  to     = "/news/itshifangzaitoushangde/"
+  to     = "/news/it-is-placed-on-your-head/"
   status = 301
   force  = true
 
@@ -1395,21 +1667,21 @@
 [[redirects]]
   from   = "/"
   query  = { p = "6941" }
-  to     = "/news/kaifangshishijiaotongshujuzhu-shukun/"
+  to     = "/news/open-real-time-transport-data-eases-traffic-congestion/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6957" }
-  to     = "/news/kaifangshujubuyingbimenzaoche/"
+  to     = "/news/open-data-should-not-reinvent-the-wheel/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6959" }
-  to     = "/news/kaifangyiqingshujuzhiguanchayusikao/"
+  to     = "/news/observations-reflections-on-open-covid-data/"
   status = 301
   force  = true
 
@@ -1472,21 +1744,21 @@
 [[redirects]]
   from   = "/"
   query  = { p = "7217" }
-  to     = "/news/metashumagongminwangluoanquanxianggangluntan/"
+  to     = "/news/meta-digital-citizenship-cybersecurity-hong-kong-forum/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6491" }
-  to     = "/news/mingbaozhuanxun-anquanwangluo-wanweiwangchaoweixianfangxiangfazhan/"
+  to     = "/news/ming-pao-interview-secure-internet-iot-threats-emerging/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6741" }
-  to     = "/news/mingbaozhuanxun-weihemimabunengzhongyong/"
+  to     = "/news/ming-pao-interview-why-passwords-cannot-be-reused/"
   status = 301
   force  = true
 
@@ -1605,21 +1877,21 @@
 [[redirects]]
   from   = "/"
   query  = { p = "3947" }
-  to     = "/news/pujitoupiaoxitongjishuyantaohui-popvote-system-technical-seminar-20-sep/"
+  to     = "/news/popvote-system-technical-seminar-20-sep/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "529" }
-  to     = "/news/qingjiaruwodieisocxiangganghulianwangxiehuila-3-aug-11/"
+  to     = "/news/join-isoc-hk-membership-3-aug-11/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6953" }
-  to     = "/news/quyihuimaijinshumakongjianzhukuoshimincanyu/"
+  to     = "/news/district-councils-digital-space-expanding-civic-participation/"
   status = 301
   force  = true
 
@@ -1689,14 +1961,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "6415" }
-  to     = "/news/results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-xianggangzhongxiaoqiyunduanyingyong/"
+  to     = "/news/results-announcement-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "2346" }
-  to     = "/news/ruhequebaojigouwangyefuhewuzhangaibiaozhun-jiangzuo/"
+  to     = "/news/ensuring-websites-meet-accessibility-standards-seminar/"
   status = 301
   force  = true
 
@@ -1759,21 +2031,21 @@
 [[redirects]]
   from   = "/"
   query  = { p = "7060" }
-  to     = "/news/shenmoshi-xianghuxieshangdeluyouanquanguifan-mutually-agreed-norms-for-routing-security-manrs/"
+  to     = "/news/what-is-mutually-agreed-norms-for-routing-security-manrs/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7055" }
-  to     = "/news/shenmoshishequwangluo-community-networks/"
+  to     = "/news/what-is-community-networks/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "1846" }
-  to     = "/news/shougeyejielianmengxieshoutuichu-goipv6/"
+  to     = "/news/first-industry-coalition-launches-goipv6/"
   status = 301
   force  = true
 
@@ -1787,7 +2059,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "1541" }
-  to     = "/news/startlab-hk-xianggangchuangyeshiyanshi/"
+  to     = "/news/startlab-hk/"
   status = 301
   force  = true
 
@@ -1948,14 +2220,14 @@
 [[redirects]]
   from   = "/"
   query  = { p = "7380" }
-  to     = "/news/wangluoanquantongxing-x-rengongzhineng-tiyanri/"
+  to     = "/news/cybersafe-for-all-ai-discovery-fun-day/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6908" }
-  to     = "/news/wangluoshenchajinzhilingfanweishouzhai-guanzhuzhengfujixuzhizaohanchanxiao/"
+  to     = "/news/internet-censorship-injunction-scope-narrowed-chilling-effect-concerns/"
   status = 301
   force  = true
 
@@ -1969,7 +2241,7 @@
 [[redirects]]
   from   = "/"
   query  = { p = "414" }
-  to     = "/news/web-apps-apple-tokyo-wangluo-chengshi-pingguo-dongjing-xintongyongdingjiyuming-gtld-quan/"
+  to     = "/news/web-apps-apple-tokyo-new-generic-top-level-domains-gtld/"
   status = 301
   force  = true
 
@@ -2081,152 +2353,152 @@
 [[redirects]]
   from   = "/"
   query  = { p = "593" }
-  to     = "/news/xiangganghulianwangxiehui-wangkaiyimian-xilie-qingqiongfuwengyinbei/"
+  to     = "/news/isoc-hk-open-internet-series-raise-a-glass/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "377" }
-  to     = "/news/xiangganghulianwangxiehui-zixunbaoanxiaotieshixilie-zhuchi-chester-soongji-sang-you/"
+  to     = "/news/isoc-hk-security-tips-series-chester-soong-sang-you/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7034" }
-  to     = "/news/xiangganghulianwangxiehuijiulifahuigongshangshiwuweiyuanhui2020nian6yue16ri/"
+  to     = "/news/isoc-hk-statement-legco-commerce-committee-jun-2020/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "438" }
-  to     = "/news/xiangganghulianwangxiehuiquanlizhichi-shouxuanxianggangchuangxinkeji-qun/"
+  to     = "/news/isoc-hk-endorses-hk-innovation-tech-constituency/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "491" }
-  to     = "/news/xiangganghulianwangxiehuiyuhurricane-electricxieshoutuichuyazhoushougeipv6zhengshuke/"
+  to     = "/news/isoc-hk-hurricane-electric-asia-first-ipv6-certification-course/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7001" }
-  to     = "/news/xianggangkaifangshujuzhishu-jihua-jieshixianggangkaifangshujujinzhanyu/"
+  to     = "/news/hong-kong-open-data-index-project-progress/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "2847" }
-  to     = "/news/xifanghuomianhequhecong-yantaohui-10yue31ri/"
+  to     = "/news/parody-exemption-whats-next-seminar-oct-31/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "2835" }
-  to     = "/news/xinwengao-guojishengshi-hulianwangmingrentang-banjiangdianlishou/"
+  to     = "/news/press-release-internet-hall-of-fame-award-ceremony/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "440" }
-  to     = "/news/xinwengao-zhengfu-banquantiaoli-xuanzexinglifa-yanzhonghushiyong/"
+  to     = "/news/press-release-copyright-ordinance-selective-enforcement-concerns/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "2211" }
-  to     = "/news/xinwengaobaohugerenyinsiyuwang-luoziyou-guanzhushexianshoujida/"
+  to     = "/news/press-release-isoc-hk-position-privacy-and-internet-freedom-2013/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "7131" }
-  to     = "/news/yaoqiuchehuidianhuazhinengkashimingdengjizhidushengming/"
+  to     = "/news/statement-oppose-sim-card-real-name-registration/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "531" }
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuo-xilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "525" }
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie-xi/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-2/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "600" }
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-1/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "551" }
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilieer/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-3/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "482" }
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxiliewu/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-4/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "1842" }
-  to     = "/news/zhenduijianhuaipv4guoduipv6wangluohutong-goipv6-lianmengtuichumianfeipingtai/"
+  to     = "/news/goipv6-coalition-launches-free-platform-for-ipv4-ipv6-transition/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "3732" }
-  to     = "/news/zhongxiaoqiyunduanbaoanjiuxuyantaohui-zhongxiaoqi-nizhunbeihaoshiyong/"
+  to     = "/news/sme-cloud-security-readiness-seminar-are-you-ready/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "6825" }
-  to     = "/news/zixunjitongxunkejitongxunyejiehuyutequzhengfu/"
+  to     = "/news/ict-industry-call-on-hksar-government/"
   status = 301
   force  = true
 
 [[redirects]]
   from   = "/"
   query  = { p = "476" }
-  to     = "/news/zixunjitongxunkejizhuanye-duishizhengbaogaodekanfa-ict-professionals-discussion-forum-persp/"
+  to     = "/news/ict-professionals-views-on-policy-address-discussion-forum/"
   status = 301
   force  = true
 
 # Original percent-encoded slug → ASCII slug redirects
 [[redirects]]
   from   = "/news/%e3%80%8e%e7%b6%b2%e7%b5%a1%e5%ae%89%e5%85%a8%e5%90%8c%e8%a1%8c-x-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e3%80%8f%e9%ab%94%e9%a9%97%e6%97%a5/"
-  to     = "/news/wangluoanquantongxing-x-rengongzhineng-tiyanri/"
+  to     = "/news/cybersafe-for-all-ai-discovery-fun-day/"
   status = 301
 
 [[redirects]]
   from   = "/news/hong-kong-internet-governance-forum-%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e6%b2%bb%e7%90%86%e8%ab%96%e5%a3%87-2025/"
-  to     = "/news/hong-kong-internet-governance-forum-xiangganghulianwangzhililuntan-2025/"
+  to     = "/news/hong-kong-internet-governance-forum-2025/"
   status = 301
 
 [[redirects]]
@@ -2236,7 +2508,7 @@
 
 [[redirects]]
   from   = "/news/meta%e6%95%b8%e7%a2%bc%e5%85%ac%e6%b0%91%e7%b6%b2%e7%b5%a1%e5%ae%89%e5%85%a8%e9%a6%99%e6%b8%af%e8%ab%96%e5%a3%87/"
-  to     = "/news/metashumagongminwangluoanquanxianggangluntan/"
+  to     = "/news/meta-digital-citizenship-cybersecurity-hong-kong-forum/"
   status = 301
 
 [[redirects]]
@@ -2251,256 +2523,256 @@
 
 [[redirects]]
   from   = "/news/%e3%80%90hkigf-%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e7%ae%a1%e6%b2%bb%e8%ab%96%e5%a3%87%e3%80%91-%e7%b6%b2%e7%a6%81%e6%99%82%e4%bb%a3%ef%bc%9f/"
-  to     = "/news/hkigf-xiangganghulianwangguanzhiluntan-wangjinshidai/"
+  to     = "/news/hkigf-digital-era-internet-governance-roundtable/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%90%e8%a6%81%e6%b1%82%e6%92%a4%e5%9b%9e%e9%9b%bb%e8%a9%b1%e6%99%ba%e8%83%bd%e5%8d%a1%e5%af%a6%e5%90%8d%e7%99%bb%e8%a8%98%e5%88%b6%e5%ba%a6%e8%81%b2%e6%98%8e%e3%80%91/"
-  to     = "/news/yaoqiuchehuidianhuazhinengkashimingdengjizhidushengming/"
+  to     = "/news/statement-oppose-sim-card-real-name-registration/"
   status = 301
 
 [[redirects]]
   from   = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-security-law-hong-kongs-great-firewall-%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e7%ae%a1%e6%b2%bb%e8%ab%96/"
-  to     = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-is-the-national-security-law-hong-kongs-great-firewall-xiangganghulianwangguanzhilun/"
+  to     = "/news/hong-kong-internet-governance-forum-hkigf-roundtable-national-security-law-great-firewall/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%bb%80%e9%ba%bd%e6%98%af%e3%80%8c%e7%9b%b8%e4%ba%92%e5%8d%94%e5%95%86%e7%9a%84%e8%b7%af%e7%94%b1%e5%ae%89%e5%85%a8%e8%a6%8f%e7%af%84%e3%80%8dmutually-agreed-norms-for-routing-security-manrs/"
-  to     = "/news/shenmoshi-xianghuxieshangdeluyouanquanguifan-mutually-agreed-norms-for-routing-security-manrs/"
+  to     = "/news/what-is-mutually-agreed-norms-for-routing-security-manrs/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%bb%80%e9%ba%bd%e6%98%af%e7%a4%be%e5%8d%80%e7%b6%b2%e7%b5%a1-community-networks/"
-  to     = "/news/shenmoshishequwangluo-community-networks/"
+  to     = "/news/what-is-community-networks/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e5%b0%b1%e7%ab%8b%e6%b3%95%e6%9c%83%e5%b7%a5%e5%95%86%e4%ba%8b%e5%8b%99%e5%a7%94%e5%93%a1%e6%9c%832020%e5%b9%b46%e6%9c%8816%e6%97%a5/"
-  to     = "/news/xiangganghulianwangxiehuijiulifahuigongshangshiwuweiyuanhui2020nian6yue16ri/"
+  to     = "/news/isoc-hk-statement-legco-commerce-committee-jun-2020/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8c%e5%b2%91%e6%95%96%e6%9a%89%e6%94%b6%e5%be%8b%e6%94%bf%e5%8f%b8%e4%bf%a1%e4%bb%b6-%e8%a6%81%e6%b1%82%e7%a7%bb%e9%99%a4%e5%91%a8%e6%a2%93%e6%a8%82%e4%b9%8b%e6%ad%bb%e6%96%87%e7%ab%a0%e3%80%8d/"
-  to     = "/news/cenaohuishoulvzhengsixinjian-yaoqiuyichuzhouzilezhisiwenzhang/"
+  to     = "/news/lester-shum-doj-letter-remove-alex-chow-article-online-freedom/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e9%96%8b%e6%94%be%e6%95%b8%e6%93%9a%e6%8c%87%e6%95%b8%e3%80%8d%e8%a8%88%e5%8a%83-%e6%8f%ad%e7%a4%ba%e9%a6%99%e6%b8%af%e9%96%8b%e6%94%be%e6%95%b8%e6%93%9a%e9%80%b2%e5%b1%95%e8%88%87/"
-  to     = "/news/xianggangkaifangshujuzhishu-jihua-jieshixianggangkaifangshujujinzhanyu/"
+  to     = "/news/hong-kong-open-data-index-project-progress/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%96%8b%e6%94%be%e7%96%ab%e6%83%85%e6%95%b8%e6%93%9a%e4%b9%8b%e8%a7%80%e5%af%9f%e8%88%87%e6%80%9d%e8%80%83/"
-  to     = "/news/kaifangyiqingshujuzhiguanchayusikao/"
+  to     = "/news/observations-reflections-on-open-covid-data/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%96%8b%e6%94%be%e6%95%b8%e6%93%9a%e4%b8%8d%e6%87%89%e9%96%89%e9%96%80%e9%80%a0%e8%bb%8a/"
-  to     = "/news/kaifangshujubuyingbimenzaoche/"
+  to     = "/news/open-data-should-not-reinvent-the-wheel/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e5%8d%80%e8%ad%b0%e6%9c%83%e9%82%81%e9%80%b2%e6%95%b8%e7%a2%bc%e7%a9%ba%e9%96%93%e5%8a%a9%e6%93%b4%e5%b8%82%e6%b0%91%e5%8f%83%e8%88%87/"
-  to     = "/news/quyihuimaijinshumakongjianzhukuoshimincanyu/"
+  to     = "/news/district-councils-digital-space-expanding-civic-participation/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e7%95%b6%e9%96%8b%e6%94%be%e6%95%b8%e6%93%9a%e9%81%87%e4%b8%8a%e5%8d%80%e8%ad%b0%e6%9c%83/"
-  to     = "/news/dangkaifangshujuyushangquyihui/"
+  to     = "/news/when-open-data-meets-district-councils/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e7%b6%b2%e7%b5%a1%e5%af%a9%e6%9f%a5%e7%a6%81%e5%88%b6%e4%bb%a4%e7%af%84%e5%9c%8d%e6%94%b6%e7%aa%84-%e9%97%9c%e6%b3%a8%e6%94%bf%e5%ba%9c%e7%b9%bc%e7%ba%8c%e8%a3%bd%e9%80%a0%e5%af%92%e8%9f%ac%e6%95%88/"
-  to     = "/news/wangluoshenchajinzhilingfanweishouzhai-guanzhuzhengfujixuzhizaohanchanxiao/"
+  to     = "/news/internet-censorship-injunction-scope-narrowed-chilling-effect-concerns/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%ba%92%e8%81%af%e7%b6%b2%e8%b3%87%e8%a8%8a%e9%96%8b%e6%94%be%e8%88%87%e4%bf%9d%e8%ad%b7%e7%a7%81%e9%9a%b1%e5%ae%9c%e5%b9%b3%e8%a1%a1/"
-  to     = "/news/hulianwangzixunkaifangyubaohusiyinyipingheng/"
+  to     = "/news/internet-information-openness-vs-privacy-protection-balance/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e9%80%9a%e8%a8%8a%e6%a5%ad%e7%95%8c%e5%91%bc%e7%b1%b2%e7%89%b9%e5%8d%80%e6%94%bf%e5%ba%9c/"
-  to     = "/news/zixunjitongxunkejitongxunyejiehuyutequzhengfu/"
+  to     = "/news/ict-industry-call-on-hksar-government/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%96%8b%e6%94%be%e5%af%a6%e6%99%82%e4%ba%a4%e9%80%9a%e6%95%b8%e6%93%9a%e5%8a%a9%e3%80%8c%e7%b4%93%e5%9b%b0%e3%80%8d/"
-  to     = "/news/kaifangshishijiaotongshujuzhu-shukun/"
+  to     = "/news/open-real-time-transport-data-eases-traffic-congestion/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e6%98%8e%e5%a0%b1%e5%b0%88%e8%a8%8a-%e7%82%ba%e4%bd%95%e5%af%86%e7%a2%bc%e4%b8%8d%e8%83%bd%e9%87%8d%e7%94%a8%ef%bc%9f/"
-  to     = "/news/mingbaozhuanxun-weihemimabunengzhongyong/"
+  to     = "/news/ming-pao-interview-why-passwords-cannot-be-reused/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%90%e6%98%8e%e5%a0%b1%e5%b0%88%e8%a8%8a%e3%80%91-%e5%ae%89%e5%85%a8%e7%b6%b2%e7%b5%a1%ef%b9%95%e8%90%ac%e7%b6%ad%e7%b6%b2%e6%9c%9d%e5%8d%b1%e9%9a%aa%e6%96%b9%e5%90%91%e7%99%bc%e5%b1%95%ef%bc%9f/"
-  to     = "/news/mingbaozhuanxun-anquanwangluo-wanweiwangchaoweixianfangxiangfazhan/"
+  to     = "/news/ming-pao-interview-secure-internet-iot-threats-emerging/"
   status = 301
 
 [[redirects]]
   from   = "/news/results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-%e3%80%8a%e9%a6%99%e6%b8%af%e4%b8%ad%e5%b0%8f%e4%bc%81%e9%9b%b2%e7%ab%af%e6%87%89%e7%94%a8%e3%80%81/"
-  to     = "/news/results-announcement-of-the-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey-xianggangzhongxiaoqiyunduanyingyong/"
+  to     = "/news/results-announcement-hong-kong-smes-cloud-adoption-security-privacy-readiness-survey/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e6%99%ae%e5%8f%8a%e6%8a%95%e7%a5%a8%e7%b3%bb%e7%b5%b1%e6%8a%80%e8%a1%93%e7%a0%94%e8%a8%8e%e6%9c%83-popvote-system-technical-seminar-%ef%bc%8820-sep/"
-  to     = "/news/pujitoupiaoxitongjishuyantaohui-popvote-system-technical-seminar-20-sep/"
+  to     = "/news/popvote-system-technical-seminar-20-sep/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%b8%ad%e5%b0%8f%e4%bc%81%e9%9b%b2%e7%ab%af%e4%bf%9d%e5%ae%89%e5%b0%b1%e7%b7%92%e7%a0%94%e8%a8%8e%e6%9c%83-%e4%b8%ad%e5%b0%8f%e4%bc%81%ef%bc%9a%e4%bd%a0%e6%ba%96%e5%82%99%e5%a5%bd%e4%bd%bf%e7%94%a8/"
-  to     = "/news/zhongxiaoqiyunduanbaoanjiuxuyantaohui-zhongxiaoqi-nizhunbeihaoshiyong/"
+  to     = "/news/sme-cloud-security-readiness-seminar-are-you-ready/"
   status = 301
 
 [[redirects]]
   from   = "/news/call-for-application-best-ict-startup-award-%e8%aa%a0%e9%82%80%e5%8f%83%e5%8a%a0%e3%80%8c%e6%9c%80%e4%bd%b3%e8%b3%87%e8%a8%8a%e7%a7%91%e6%8a%80%e5%88%9d%e5%89%b5%e4%bc%81%e6%a5%ad%e7%8d%8e%e3%80%8d/"
-  to     = "/news/call-for-application-best-ict-startup-award-chengyaocanjia-zuijiazixunkejichuchuangqiyejiang/"
+  to     = "/news/call-for-application-best-ict-startup-award/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8e%e6%88%b2%e4%bb%bf%e8%b1%81%e5%85%8d%e4%bd%95%e5%8e%bb%e4%bd%95%e5%be%9e%e3%80%8f%e7%a0%94%e8%a8%8e%e6%9c%83-10%e6%9c%8831%e6%97%a5%ef%bc%89/"
-  to     = "/news/xifanghuomianhequhecong-yantaohui-10yue31ri/"
+  to     = "/news/parody-exemption-whats-next-seminar-oct-31/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%90%e6%96%b0%e8%81%9e%e7%a8%bf%e3%80%91%e5%9c%8b%e9%9a%9b%e7%9b%9b%e4%ba%8b%e3%80%8c%e4%ba%92%e8%81%af%e7%b6%b2%e5%90%8d%e4%ba%ba%e5%a0%82%e3%80%8d%e9%a0%92%e7%8d%8e%e5%85%b8%e7%a6%ae%e9%a6%96/"
-  to     = "/news/xinwengao-guojishengshi-hulianwangmingrentang-banjiangdianlishou/"
+  to     = "/news/press-release-internet-hall-of-fame-award-ceremony/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8e%e5%a6%82%e4%bd%95%e7%a2%ba%e4%bf%9d%e6%a9%9f%e6%a7%8b%e7%b6%b2%e9%a0%81%e7%ac%a6%e5%90%88%e7%84%a1%e9%9a%9c%e7%a4%99%e6%a8%99%e6%ba%96%e3%80%8f%e8%ac%9b%e5%ba%a7/"
-  to     = "/news/ruhequebaojigouwangyefuhewuzhangaibiaozhun-jiangzuo/"
+  to     = "/news/ensuring-websites-meet-accessibility-standards-seminar/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%bf%9d%e8%ad%b7%e4%ba%8c%e6%ac%a1%e5%89%b5%e4%bd%9c%ef%bc%81%e6%88%b2%e4%bb%bf%e8%b1%81%e5%85%8d%e7%a0%94%e8%a8%8e%e6%9c%83/"
-  to     = "/news/baohuercichuangzuo-xifanghuomianyantaohui/"
+  to     = "/news/protecting-derivative-works-parody-exemption-seminar/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e6%96%b0%e8%81%9e%e7%a8%bf%e4%bf%9d%e8%ad%b7%e5%80%8b%e4%ba%ba%e9%9a%b1%e7%a7%81%e8%88%87%e7%b6%b2-%e7%b5%a1%e8%87%aa%e7%94%b1-%e9%97%9c%e6%b3%a8%e6%b6%89%e5%ab%8c%e6%94%b6%e9%9b%86%e5%a4%a7/"
-  to     = "/news/xinwengaobaohugerenyinsiyuwang-luoziyou-guanzhushexianshoujida/"
+  to     = "/news/press-release-isoc-hk-position-privacy-and-internet-freedom-2013/"
   status = 301
 
 [[redirects]]
   from   = "/news/google-%e9%bb%9e%e8%b5%b7%e4%ba%86%e7%8b%bc%e7%85%99/"
-  to     = "/news/google-dianqilelangyan/"
+  to     = "/news/google-lights-the-beacon/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%96%e5%80%8b%e6%a5%ad%e7%95%8c%e8%81%af%e7%9b%9f%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e3%80%8cgoipv6%e3%80%8d/"
-  to     = "/news/shougeyejielianmengxieshoutuichu-goipv6/"
+  to     = "/news/first-industry-coalition-launches-goipv6/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%87%9d%e5%b0%8d%e7%b0%a1%e5%8c%96ipv4%e9%81%8e%e6%b8%a1ipv6%e7%b6%b2%e7%b5%a1%e4%ba%92%e9%80%9a-%e3%80%8cgoipv6%e3%80%8d%e8%81%af%e7%9b%9f%e6%8e%a8%e5%87%ba%e5%85%8d%e8%b2%bb%e5%b9%b3%e5%8f%b0/"
-  to     = "/news/zhenduijianhuaipv4guoduipv6wangluohutong-goipv6-lianmengtuichumianfeipingtai/"
+  to     = "/news/goipv6-coalition-launches-free-platform-for-ipv4-ipv6-transition/"
   status = 301
 
 [[redirects]]
   from   = "/news/it%e6%98%af%e6%94%be%e5%9c%a8%e9%a0%ad%e4%b8%8a%e7%9a%84%ef%bc%81/"
-  to     = "/news/itshifangzaitoushangde/"
+  to     = "/news/it-is-placed-on-your-head/"
   status = 301
 
 [[redirects]]
   from   = "/news/startlab-hk-%e9%a6%99%e6%b8%af%e5%89%b5%e6%a5%ad%e5%af%a6%e9%a9%97%e5%ae%a4/"
-  to     = "/news/startlab-hk-xianggangchuangyeshiyanshi/"
+  to     = "/news/startlab-hk/"
   status = 301
 
 [[redirects]]
   from   = "/news/ipv6-in-action-project-%e5%95%9f%e5%8b%95ipv6%e8%a8%88%e5%8a%83/"
-  to     = "/news/ipv6-in-action-project-qidongipv6jihua/"
+  to     = "/news/ipv6-in-action-project-launch/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8cipv6-%e8%ae%93%e7%b6%b2%e7%b5%a1%e6%8c%81%e7%ba%8c%e3%80%8d%e6%95%99%e5%b8%ab%e7%a0%94%e8%a8%8e%e6%9c%83/"
-  to     = "/news/ipv6-rangwangluochixu-jiaoshiyantaohui/"
+  to     = "/news/ipv6-sustaining-the-internet-teacher-seminar/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83-%e8%b3%87%e8%a8%8a%e4%bf%9d%e5%ae%89%e5%b0%8f%e8%b2%bc%e5%a3%ab%e7%b3%bb%e5%88%97-%e4%b8%bb%e6%8c%81-chester-soong%e5%8f%8a-sang-you/"
-  to     = "/news/xiangganghulianwangxiehui-zixunbaoanxiaotieshixilie-zhuchi-chester-soongji-sang-you/"
+  to     = "/news/isoc-hk-security-tips-series-chester-soong-sang-you/"
   status = 301
 
 [[redirects]]
   from   = "/news/web-apps-apple-tokyo-%e7%b6%b2%e7%b5%a1-%e7%a8%8b%e5%bc%8f-%e8%98%8b%e6%9e%9c-%e6%9d%b1%e4%ba%ac-%e6%96%b0%e9%80%9a%e7%94%a8%e9%a0%82%e7%b4%9a%e5%9f%9f%e5%90%8d-gtld-%e5%85%a8/"
-  to     = "/news/web-apps-apple-tokyo-wangluo-chengshi-pingguo-dongjing-xintongyongdingjiyuming-gtld-quan/"
+  to     = "/news/web-apps-apple-tokyo-new-generic-top-level-domains-gtld/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e5%85%a8%e5%8a%9b%e6%94%af%e6%8c%81%e3%80%8c%e9%a6%96%e9%81%b8%e9%a6%99%e6%b8%af%e5%89%b5%e6%96%b0%e7%a7%91%e6%8a%80%e3%80%8d%e7%be%a4/"
-  to     = "/news/xiangganghulianwangxiehuiquanlizhichi-shouxuanxianggangchuangxinkeji-qun/"
+  to     = "/news/isoc-hk-endorses-hk-innovation-tech-constituency/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e6%96%b0%e8%81%9e%e7%a8%bf-%e6%94%bf%e5%ba%9c%e3%80%8a%e7%89%88%e6%ac%8a%e6%a2%9d%e4%be%8b%e3%80%8b%e9%81%b8%e6%93%87%e6%80%a7%e7%ab%8b%e6%b3%95%ef%bc%8c%e5%9a%b4%e9%87%8d%e5%bf%bd%e8%a6%96%e7%94%a8/"
-  to     = "/news/xinwengao-zhengfu-banquantiaoli-xuanzexinglifa-yanzhonghushiyong/"
+  to     = "/news/press-release-copyright-ordinance-selective-enforcement-concerns/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e5%b0%88%e6%a5%ad-%e5%b0%8d%e6%96%bd%e6%94%bf%e5%a0%b1%e5%91%8a%e7%9a%84%e7%9c%8b%e6%b3%95-ict-professionals-discussion-forum-persp/"
-  to     = "/news/zixunjitongxunkejizhuanye-duishizhengbaogaodekanfa-ict-professionals-discussion-forum-persp/"
+  to     = "/news/ict-professionals-views-on-policy-address-discussion-forum/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8a%e6%8e%8c%e6%8f%a1%e8%b6%a8%e5%8b%a2-%e5%89%8d%e6%99%af%e7%84%a1%e9%99%90%e3%80%8b%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e8%ac%9b%e5%ba%a7%e7%b3%bb%e5%88%97%e4%ba%94/"
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxiliewu/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-4/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e8%88%87hurricane-electric%e6%94%9c%e6%89%8b%e6%8e%a8%e5%87%ba%e4%ba%9e%e6%b4%b2%e9%a6%96%e5%80%8bipv6%e8%ad%89%e6%9b%b8%e8%aa%b2/"
-  to     = "/news/xiangganghulianwangxiehuiyuhurricane-electricxieshoutuichuyazhoushougeipv6zhengshuke/"
+  to     = "/news/isoc-hk-hurricane-electric-asia-first-ipv6-certification-course/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e4%ba%92%e8%81%af%e7%b6%b2%e4%be%9b%e6%87%89%e5%95%86%e5%8f%8a%e7%94%a8%e6%88%b6%e9%97%9c%e6%b3%a8%e7%89%88%e6%ac%8a%e4%bf%ae%e8%a8%82%e6%96%b0%e4%be%8b%e5%8f%8a%e6%94%bf%e5%ba%9c%e5%bb%ba%e8%ad%b0/"
-  to     = "/news/hulianwanggongyingshangjiyonghuguanzhubanquanxiudingxinlijizhengfujianyi/"
+  to     = "/news/isp-users-copyright-amendment-concerns-and-recommendations/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8a%e6%8e%8c%e6%8f%a1%e8%b6%a8%e5%8b%a2-%e5%89%8d%e6%99%af%e7%84%a1%e9%99%90%e3%80%8b%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e8%ac%9b%e5%ba%a7%e7%b3%bb%e5%88%97-%e7%b3%bb/"
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie-xi/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-2/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e8%ab%8b%e5%8a%a0%e5%85%a5%e6%88%91%e5%93%8bisoc%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e5%95%a6-3-aug-11/"
-  to     = "/news/qingjiaruwodieisocxiangganghulianwangxiehuila-3-aug-11/"
+  to     = "/news/join-isoc-hk-membership-3-aug-11/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8a%e6%8e%8c%e6%8f%a1%e8%b6%a8%e5%8b%a2-%e5%89%8d%e6%99%af%e7%84%a1%e9%99%90%e3%80%8b-%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e8%ac%9b%e5%ba%a7-%e7%b3%bb%e5%88%97/"
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuo-xilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e5%85%ac%e7%9c%be%e8%ab%96%e5%a3%87-22-jul-11/"
-  to     = "/news/gongzhongluntan-22-jul-11/"
+  to     = "/news/public-forum-22-jul-11/"
   status = 301
 
 [[redirects]]
   from   = "/news/internet-saturday-3-%e5%8d%9a%e5%ae%a2%e8%a8%80%e8%ab%96%e7%84%a1%e8%87%aa%e7%94%b1-16-jul-11/"
-  to     = "/news/internet-saturday-3-bokeyanlunwuziyou-16-jul-11/"
+  to     = "/news/internet-saturday-3-blog-speech-freedom-16-jul-11/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8a%e6%8e%8c%e6%8f%a1%e8%b6%a8%e5%8b%a2-%e5%89%8d%e6%99%af%e7%84%a1%e9%99%90%e3%80%8b-%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e8%ac%9b%e5%ba%a7%e7%b3%bb%e5%88%97%e4%ba%8c/"
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilieer/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-3/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%8d%94%e6%9c%83%e3%80%8c%e7%b6%b2%e9%96%8b%e4%b8%80%e9%9d%a2%e3%80%8d%e7%b3%bb%e5%88%97-%e8%ab%8b%e7%aa%ae%e5%af%8c%e7%bf%81%e9%a3%b2%e6%9d%af/"
-  to     = "/news/xiangganghulianwangxiehui-wangkaiyimian-xilie-qingqiongfuwengyinbei/"
+  to     = "/news/isoc-hk-open-internet-series-raise-a-glass/"
   status = 301
 
 [[redirects]]
   from   = "/news/%e3%80%8a%e6%8e%8c%e6%8f%a1%e8%b6%a8%e5%8b%a2%e3%80%80%e5%89%8d%e6%99%af%e7%84%a1%e9%99%90%e3%80%8b-%e8%b3%87%e8%a8%8a%e5%8f%8a%e9%80%9a%e8%a8%8a%e7%a7%91%e6%8a%80%e8%ac%9b%e5%ba%a7%e7%b3%bb%e5%88%97/"
-  to     = "/news/zhangwoqushi-qianjingwuxian-zixunjitongxunkejijiangzuoxilie/"
+  to     = "/news/ict-lecture-series-grasp-trends-unlimited-prospects-1/"
   status = 301
 
 [[redirects]]
   from   = "/news/apricot-apan-2011%e3%80%8c%e6%bf%80%e6%83%b3%e9%a6%99%e6%b8%af%e4%ba%92%e8%81%af%e7%b6%b2%e5%a4%a7%e4%ba%8b%e4%bb%b6%e3%80%8d%e9%81%b8%e8%88%89-httpwww-hk10-asia/"
-  to     = "/news/apricot-apan-2011-jixiangxiangganghulianwangdashijian-xuanju-httpwww-hk10-asia/"
+  to     = "/news/apricot-apan-2011-hk-internet-milestones-vote/"
   status = 301
 
