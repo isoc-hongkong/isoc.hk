@@ -1,57 +1,55 @@
 ---
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 import PageLayout from '../../../layouts/PageLayout.astro';
+import { urlFor, ALL_CATEGORIES_QUERY } from '../../../utils/sanity';
 
 export async function getStaticPaths() {
-  const allPosts = await getCollection('news', ({ data }) => !data.draft);
-
-  // Collect all unique category slugs
-  const categorySet = new Set<string>();
-  allPosts.forEach(post => post.data.categories.forEach(c => categorySet.add(c)));
-
-  return [...categorySet].map(slug => {
-    const posts = allPosts
-      .filter(p => p.data.categories.includes(slug))
-      .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
-    return { params: { slug }, props: { slug, posts } };
-  });
+  const categories = await sanityClient.fetch(ALL_CATEGORIES_QUERY);
+  return categories.map((cat: any) => ({
+    params: { slug: cat.slug },
+    props: { category: cat },
+  }));
 }
 
-const { slug, posts } = Astro.props;
-const label = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const { category } = Astro.props;
 
-function formatDate(d: Date) {
-  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'short', day: 'numeric' });
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('en-HK', { year: 'numeric', month: 'short', day: 'numeric' });
 }
 ---
 
-<PageLayout title={label} description={`Posts in ${label} — Internet Society Hong Kong`}>
+<PageLayout title={category.title} description={`Posts in ${category.title} — Internet Society Hong Kong`}>
   <div class="page-banner">
     <div class="container">
-      <h1>{label}</h1>
-      <div class="breadcrumb"><a href="/">Home</a> / <a href="/category/news/">Categories</a> / {label}</div>
+      <h1>{category.title}</h1>
+      <div class="breadcrumb"><a href="/">Home</a> / <a href="/category/news/">Categories</a> / {category.title}</div>
     </div>
   </div>
 
   <div class="container" style="padding-bottom: 3rem;">
-    {posts.length === 0 ? (
+    {category.posts.length === 0 ? (
       <p>No posts in this category yet.</p>
     ) : (
       <div class="post-grid">
-        {posts.map((post) => (
+        {category.posts.map((post: any) => (
           <article class="post-card">
-            {post.data.featuredImage && (
+            {post.featuredImage?.asset && (
               <div class="post-card__image">
-                <img src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+                <img
+                  src={urlFor(post.featuredImage).width(600).url()}
+                  alt={post.featuredImage.alt || post.title}
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
             )}
             <div class="post-card__body">
-              <div class="post-card__meta">{formatDate(post.data.date)}</div>
+              <div class="post-card__meta">{formatDate(post.publishedAt)}</div>
               <h2 class="post-card__title">
-                <a href={`/news/${post.data.slug}/`}>{post.data.title}</a>
+                <a href={`/news/${post.slug}/`}>{post.title}</a>
               </h2>
-              {post.data.excerpt && (
-                <p class="post-card__excerpt">{post.data.excerpt.slice(0, 120)}{post.data.excerpt.length > 120 ? '…' : ''}</p>
+              {post.excerpt && (
+                <p class="post-card__excerpt">{post.excerpt.slice(0, 120)}{post.excerpt.length > 120 ? '…' : ''}</p>
               )}
             </div>
           </article>

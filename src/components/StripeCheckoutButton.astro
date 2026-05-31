@@ -1,4 +1,7 @@
 ---
+import { sanityClient } from 'sanity:client';
+import { SITE_SETTINGS_QUERY } from '../utils/sanity';
+
 export interface Props {
   planId: string;
   label: string;
@@ -7,12 +10,14 @@ export interface Props {
   publishableKey?: string;
 }
 
+const settings = await sanityClient.fetch(SITE_SETTINGS_QUERY);
+
 const {
   planId,
   label,
   successUrl,
   cancelUrl,
-  publishableKey = 'pk_live_IWNPoLBAIJfzGUOXyDE5Hsx700B43hojZf',
+  publishableKey = settings?.stripePublishableKey ?? 'pk_live_IWNPoLBAIJfzGUOXyDE5Hsx700B43hojZf',
 } = Astro.props;
 
 const buttonId = `checkout-button-${planId}`;

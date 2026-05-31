@@ -1,71 +1,85 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { sanityClient } from 'sanity:client';
+import { PortableText } from 'astro-portabletext';
 import PageLayout from '../../layouts/PageLayout.astro';
-import Picture from '../../components/Picture.astro';
+import { urlFor, ALL_POSTS_WITH_BODY_QUERY } from '../../utils/sanity';
+import PortableTextImage from '../../components/PortableTextImage.astro';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('news', ({ data }) => !data.draft);
-  return posts.map((post) => ({
-    params: { slug: post.data.slug },
+  const posts = await sanityClient.fetch(ALL_POSTS_WITH_BODY_QUERY);
+  return posts.map((post: any) => ({
+    params: { slug: post.slug },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
 
-function formatDate(d: Date) {
-  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
 }
+
+const lang = post.lang === 'zh-Hant' ? 'zh-Hant' : post.lang === 'en' ? 'en' : 'zh-Hant';
+const featuredImageUrl = post.featuredImage?.asset
+  ? urlFor(post.featuredImage).width(1200).url()
+  : undefined;
 ---
 
 <PageLayout
-  title={post.data.title}
-  description={post.data.description || post.data.excerpt}
-  image={post.data.featuredImage}
-  lang={post.data.lang === 'zh-Hant' ? 'zh-Hant' : post.data.lang === 'en' ? 'en' : 'zh-Hant'}
+  title={post.title}
+  description={post.description || post.excerpt}
+  image={featuredImageUrl}
+  lang={lang}
 >
   <div class="page-banner">
     <div class="container">
       <div class="breadcrumb">
         <a href="/">Home</a> /
-        {post.data.categories[0] && <><a href={`/category/${post.data.categories[0]}/`}>{post.data.categories[0].replace(/-/g, ' ')}</a> / </>}
-        <span>{post.data.title.slice(0, 60)}{post.data.title.length > 60 ? '…' : ''}</span>
+        {post.categories[0] && (
+          <><a href={`/category/${post.categories[0].slug}/`}>{post.categories[0].title}</a> / </>
+        )}
+        <span>{post.title.slice(0, 60)}{post.title.length > 60 ? '…' : ''}</span>
       </div>
     </div>
   </div>
 
   <div class="container post-layout">
     <article class="post-main">
-      {post.data.featuredImage && (
+      {post.featuredImage?.asset && (
         <div class="post-hero-image">
-          <Picture src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="eager" fetchpriority="high" />
+          <img
+            src={featuredImageUrl}
+            alt={post.featuredImage.alt || post.title}
+            loading="eager"
+            fetchpriority="high"
+            decoding="async"
+          />
         </div>
       )}
 
       <header class="post-header">
         <div class="post-meta">
-          <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
-          {post.data.categories.length > 0 && (
+          <time datetime={post.publishedAt}>{formatDate(post.publishedAt)}</time>
+          {post.categories.length > 0 && (
             <span class="post-meta__cats">
-              {post.data.categories.map(cat => (
-                <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+              {post.categories.map((cat: any) => (
+                <a href={`/category/${cat.slug}/`} class="cat-tag">{cat.title}</a>
               ))}
             </span>
           )}
         </div>
-        <h1 class="post-title">{post.data.title}</h1>
+        <h1 class="post-title">{post.title}</h1>
       </header>
 
       <div class="prose">
-        <Content />
+        <PortableText value={post.body} components={{ type: { image: PortableTextImage } }} />
       </div>
 
-      {post.data.tags.length > 0 && (
+      {post.tags.length > 0 && (
         <div class="post-tags">
           <strong>Tags:</strong>
-          {post.data.tags.map(tag => (
-            <span class="tag-label">{tag.replace(/-/g, ' ')}</span>
+          {post.tags.map((tag: any) => (
+            <span class="tag-label">{tag.title}</span>
           ))}
         </div>
       )}
@@ -75,8 +89,8 @@ function formatDate(d: Date) {
       <div class="sidebar-widget">
         <h3>Categories</h3>
         <div class="sidebar-cats">
-          {post.data.categories.map(cat => (
-            <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+          {post.categories.map((cat: any) => (
+            <a href={`/category/${cat.slug}/`} class="cat-tag">{cat.title}</a>
           ))}
         </div>
       </div>

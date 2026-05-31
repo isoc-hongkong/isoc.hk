@@ -1,0 +1,19 @@
+---
+import { urlFor } from '../utils/sanity';
+
+interface Props {
+  value: any;
+}
+const { value } = Astro.props;
+if (!value?.asset) return;
+const src = urlFor(value).width(900).url();
+const alt = value.alt || '';
+---
+<figure class="pt-image">
+  <img src={src} alt={alt} loading="lazy" decoding="async" />
+</figure>
+
+<style>
+  .pt-image { margin: 1.5rem 0; }
+  .pt-image img { width: 100%; height: auto; border-radius: var(--radius); }
+</style>

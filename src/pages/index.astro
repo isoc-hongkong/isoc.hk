@@ -1,25 +1,17 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { sanityClient } from 'sanity:client';
+import { PortableText } from 'astro-portabletext';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import Picture from '../components/Picture.astro';
+import { urlFor, RECENT_POSTS_QUERY } from '../utils/sanity';
+import PortableTextImage from '../components/PortableTextImage.astro';
 import '../styles/global.css';
 
-const allPosts = await getCollection('news', ({ data }) => !data.draft);
-const recentPosts = allPosts
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0, 5);
+const posts = await sanityClient.fetch(RECENT_POSTS_QUERY);
 
-const rendered = await Promise.all(
-  recentPosts.map(async (post) => {
-    const { Content } = await render(post);
-    return { post, Content };
-  })
-);
-
-function formatDate(d: Date) {
-  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 ---
 
@@ -39,28 +31,33 @@ function formatDate(d: Date) {
   <main class="site-content">
     <div class="container home-feed-section">
       <div class="home-feed">
-        {rendered.map(({ post, Content }) => (
+        {posts.map((post: any) => (
           <article class="home-post">
-            {post.data.featuredImage && (
+            {post.featuredImage?.asset && (
               <div class="home-post__image">
-                <a href={`/news/${post.data.slug}/`}>
-                  <Picture src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+                <a href={`/news/${post.slug}/`}>
+                  <img
+                    src={urlFor(post.featuredImage).width(800).url()}
+                    alt={post.featuredImage.alt || post.title}
+                    loading="lazy"
+                    decoding="async"
+                  />
                 </a>
               </div>
             )}
             <header class="home-post__header">
               <div class="home-post__meta">
-                <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
-                {post.data.categories.slice(0, 2).map(cat => (
-                  <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+                <time datetime={post.publishedAt}>{formatDate(post.publishedAt)}</time>
+                {post.categories.slice(0, 2).map((cat: any) => (
+                  <a href={`/category/${cat.slug}/`} class="cat-tag">{cat.title}</a>
                 ))}
               </div>
               <h2 class="home-post__title">
-                <a href={`/news/${post.data.slug}/`}>{post.data.title}</a>
+                <a href={`/news/${post.slug}/`}>{post.title}</a>
               </h2>
             </header>
             <div class="prose">
-              <Content />
+              <PortableText value={post.body} components={{ type: { image: PortableTextImage } }} />
             </div>
           </article>
         ))}
@@ -76,7 +73,6 @@ function formatDate(d: Date) {
 </BaseLayout>
 
 <style>
-  /* Unified header + hero band with the deep blue background image */
   .hero-band {
     background-image: url('/images/uploads/2018/02/header-isoc.webp');
     background-size: cover;
@@ -117,11 +113,7 @@ function formatDate(d: Date) {
   .btn--outline:hover { background: rgba(255,255,255,0.15); text-decoration: none; }
 
   .home-feed-section { padding-bottom: 3rem; }
-
-  .home-feed {
-    display: flex;
-    flex-direction: column;
-  }
+  .home-feed { display: flex; flex-direction: column; }
 
   .home-post {
     padding: 2.5rem 0;
@@ -155,7 +147,6 @@ function formatDate(d: Date) {
   }
   .home-post__title a { color: var(--color-navy); text-decoration: none; }
   .home-post__title a:hover { color: var(--color-teal); }
-
   .home-post__header { margin-bottom: 1rem; }
 
   .posts-more {
@@ -166,14 +157,6 @@ function formatDate(d: Date) {
     justify-content: center;
     flex-wrap: wrap;
   }
-
-  /* "All News" btn reuse on white bg */
-  .posts-more .btn--outline {
-    border-color: var(--color-navy);
-    color: var(--color-navy);
-  }
-  .posts-more .btn--outline:hover {
-    background: var(--color-navy);
-    color: white;
-  }
+  .posts-more .btn--outline { border-color: var(--color-navy); color: var(--color-navy); }
+  .posts-more .btn--outline:hover { background: var(--color-navy); color: white; }
 </style>

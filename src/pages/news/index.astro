@@ -1,13 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 import PageLayout from '../../layouts/PageLayout.astro';
-import Picture from '../../components/Picture.astro';
+import { urlFor, ALL_POSTS_QUERY } from '../../utils/sanity';
 
-const allPosts = await getCollection('news', ({ data }) => !data.draft);
-const posts = allPosts.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const posts = await sanityClient.fetch(ALL_POSTS_QUERY);
 
-function formatDate(d: Date) {
-  return d.toLocaleDateString('en-HK', { year: 'numeric', month: 'short', day: 'numeric' });
+function formatDate(d: string) {
+  return new Date(d).toLocaleDateString('en-HK', { year: 'numeric', month: 'short', day: 'numeric' });
 }
 ---
 
@@ -21,24 +20,29 @@ function formatDate(d: Date) {
 
   <div class="container" style="padding-bottom: 3rem;">
     <div class="post-grid">
-      {posts.map((post) => (
+      {posts.map((post: any) => (
         <article class="post-card">
-          {post.data.featuredImage && (
+          {post.featuredImage?.asset && (
             <div class="post-card__image">
-              <Picture src={post.data.featuredImage} alt={post.data.featuredImageAlt || post.data.title} loading="lazy" />
+              <img
+                src={urlFor(post.featuredImage).width(600).url()}
+                alt={post.featuredImage.alt || post.title}
+                loading="lazy"
+                decoding="async"
+              />
             </div>
           )}
           <div class="post-card__body">
-            <div class="post-card__meta">{formatDate(post.data.date)}</div>
+            <div class="post-card__meta">{formatDate(post.publishedAt)}</div>
             <h2 class="post-card__title">
-              <a href={`/news/${post.data.slug}/`}>{post.data.title}</a>
+              <a href={`/news/${post.slug}/`}>{post.title}</a>
             </h2>
-            {post.data.excerpt && (
-              <p class="post-card__excerpt">{post.data.excerpt.slice(0, 120)}{post.data.excerpt.length > 120 ? '…' : ''}</p>
+            {post.excerpt && (
+              <p class="post-card__excerpt">{post.excerpt.slice(0, 120)}{post.excerpt.length > 120 ? '…' : ''}</p>
             )}
             <div class="post-card__cats">
-              {post.data.categories.slice(0, 2).map(cat => (
-                <a href={`/category/${cat}/`} class="cat-tag">{cat.replace(/-/g, ' ')}</a>
+              {post.categories.slice(0, 2).map((cat: any) => (
+                <a href={`/category/${cat.slug}/`} class="cat-tag">{cat.title}</a>
               ))}
             </div>
           </div>

@@ -1,33 +1,36 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { sanityClient } from 'sanity:client';
+import { PortableText } from 'astro-portabletext';
 import PageLayout from '../layouts/PageLayout.astro';
 import StripeCheckoutButton from '../components/StripeCheckoutButton.astro';
+import { ALL_PAGES_QUERY } from '../utils/sanity';
+import PortableTextImage from '../components/PortableTextImage.astro';
 
 export async function getStaticPaths() {
-  const pages = await getCollection('pages');
-  return pages.map((page) => ({
-    params: { slug: page.data.slug },
+  const pages = await sanityClient.fetch(ALL_PAGES_QUERY);
+  return pages.map((page: any) => ({
+    params: { slug: page.slug },
     props: { page },
   }));
 }
 
 const { page } = Astro.props;
-const { Content } = await render(page);
-const { stripePlan } = page.data;
+const { stripePlan } = page;
+const lang = page.lang === 'zh-Hant' ? 'zh-Hant' : 'en';
 ---
 
 <PageLayout
-  title={page.data.title}
-  description={page.data.description}
-  lang={page.data.lang === 'zh-Hant' ? 'zh-Hant' : 'en'}
+  title={page.title}
+  description={page.description}
+  lang={lang}
 >
   <div class="page-banner">
     <div class="container">
-      <h1>{page.data.title}</h1>
+      <h1>{page.title}</h1>
       <div class="breadcrumb">
-        {page.data.parent
-          ? <><a href="/">Home</a> / <a href={`/${page.data.parent}/`}>{page.data.parent.replace(/-/g, ' ')}</a> / {page.data.title}</>
-          : <><a href="/">Home</a> / {page.data.title}</>
+        {page.parent
+          ? <><a href="/">Home</a> / <a href={`/${page.parent.slug}/`}>{page.parent.title}</a> / {page.title}</>
+          : <><a href="/">Home</a> / {page.title}</>
         }
       </div>
     </div>
@@ -35,7 +38,7 @@ const { stripePlan } = page.data;
 
   <div class="container page-content">
     <div class="prose">
-      <Content />
+      <PortableText value={page.body} components={{ type: { image: PortableTextImage } }} />
       {stripePlan && (
         <StripeCheckoutButton
           planId={stripePlan.planId}

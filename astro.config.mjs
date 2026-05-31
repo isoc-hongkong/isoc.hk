@@ -1,9 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
-import mdx from '@astrojs/mdx';
-import rehypeUploadsPicture from './scripts/rehype-uploads-picture.mjs';
-
 import sanity from '@sanity/astro';
 
 export default defineConfig({
@@ -13,14 +10,15 @@ export default defineConfig({
     format: 'directory',
     inlineStylesheets: 'auto',
   },
-  markdown: {
-    rehypePlugins: [rehypeUploadsPicture],
-  },
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/wp-admin') && !page.includes('/wp-login'),
     }),
-    mdx(),
-    sanity(),
+    sanity({
+      projectId: '53w3a4w0',
+      dataset: 'production',
+      useCdn: false,
+    }),
   ],
 });
+
