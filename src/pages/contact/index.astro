@@ -27,7 +27,7 @@ import PageLayout from '../../layouts/PageLayout.astro';
         id="contactForm"
       >
         <input type="hidden" name="form-name" value="contact" />
-        <input type="hidden" name="bot-field" />
+        <p class="bot-trap"><label>Don't fill this out: <input name="bot-field" /></label></p>
 
         <div class="form-field">
           <label for="your-name">Your Name <span aria-hidden="true">*</span></label>
@@ -69,7 +69,11 @@ import PageLayout from '../../layouts/PageLayout.astro';
     e.preventDefault();
     const data = new FormData(form);
     try {
-      const res = await fetch('/', { method: 'POST', body: data });
+      const res = await fetch('/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(data).toString(),
+      });
       if (res.ok) {
         form.reset();
         if (status) status.textContent = 'Thank you — your message has been sent!';
@@ -143,6 +147,8 @@ import PageLayout from '../../layouts/PageLayout.astro';
     color: var(--color-teal-dark);
     font-weight: 500;
   }
+
+  .bot-trap { display: none; }
 
   @media (max-width: 768px) {
     .contact-layout { grid-template-columns: 1fr; }
