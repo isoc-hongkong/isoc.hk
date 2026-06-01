@@ -58,26 +58,53 @@ function isActive(href: string) {
 </header>
 
 <script>
-  const toggle = document.getElementById('navToggle');
+  const toggle = document.getElementById('navToggle') as HTMLButtonElement | null;
   const menu = document.getElementById('navMenu');
+
+  const header = document.querySelector<HTMLElement>('.site-header');
+
+  function openMenu() {
+    menu?.classList.add('nav-menu--open');
+    toggle?.classList.add('nav-toggle--open');
+    header?.classList.add('site-header--nav-open');
+    toggle?.setAttribute('aria-expanded', 'true');
+    document.body.classList.add('nav-open');
+    const firstLink = menu?.querySelector<HTMLElement>('.nav-link');
+    firstLink?.focus();
+  }
+
+  function closeMenu() {
+    menu?.classList.remove('nav-menu--open');
+    toggle?.classList.remove('nav-toggle--open');
+    header?.classList.remove('site-header--nav-open');
+    toggle?.setAttribute('aria-expanded', 'false');
+    document.body.classList.remove('nav-open');
+    toggle?.focus();
+  }
+
   toggle?.addEventListener('click', () => {
-    const open = menu?.classList.toggle('nav-menu--open');
-    toggle.setAttribute('aria-expanded', String(open));
+    menu?.classList.contains('nav-menu--open') ? closeMenu() : openMenu();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && menu?.classList.contains('nav-menu--open')) closeMenu();
+  });
+
+  menu?.addEventListener('click', (e) => {
+    if ((e.target as HTMLElement).closest('.nav-link')) closeMenu();
   });
 </script>
 
 <style>
   .site-header {
+    position: relative;
+    z-index: 200;
     background-image: url('/images/ui/header-isoc.webp');
     background-size: cover;
     background-position: center top;
   }
   .site-header--transparent {
     background-image: none;
-  }
-
-  .main-nav {
-    /* transparent — colored cells sit directly over the header bg */
   }
 
   .nav-inner {
@@ -102,20 +129,50 @@ function isActive(href: string) {
   .nav-toggle {
     display: none;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
     gap: 5px;
-    background: rgba(255,255,255,0.15);
+    width: 44px;
+    height: 44px;
+    background: var(--color-teal-light);
     border: none;
+    border-radius: 4px;
     cursor: pointer;
-    padding: 0.5rem 0.75rem;
     margin-left: auto;
+    align-self: center;
+    transition: background 0.2s;
+    flex-shrink: 0;
   }
   .nav-toggle span {
     display: block;
-    width: 24px;
+    width: 22px;
     height: 2px;
-    background: white;
-    transition: transform 0.2s;
+    background: var(--color-navy);
+    border-radius: 1px;
+    transition: transform 0.2s ease, opacity 0.15s, background 0.2s;
+  }
+
+  /* X morph when open */
+  .nav-toggle--open {
+    background: #fff;
+  }
+  .nav-toggle--open span {
+    background: var(--color-navy);
+  }
+  .nav-toggle--open span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  .nav-toggle--open span:nth-child(2) {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  .nav-toggle--open span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+
+  /* Body scroll lock when nav drawer is open */
+  :global(body.nav-open) {
+    overflow: hidden;
   }
 
   /* Menu list */
@@ -182,7 +239,7 @@ function isActive(href: string) {
   .nav-item--contact .nav-link:hover,
   .nav-item--contact .nav-link.nav-link--active { background: #0a2035; }
 
-  /* Active state: the ::after indicator uses a dark line on the light-bg cells */
+  /* Active state: dark indicator on light-bg cells */
   .nav-item--news .nav-link--active::after,
   .nav-item--join .nav-link--active::after {
     background: rgba(12, 28, 44, 0.5);
@@ -191,17 +248,57 @@ function isActive(href: string) {
   /* Mobile */
   @media (max-width: 768px) {
     .nav-toggle { display: flex; }
-    .nav-menu {
-      display: none;
-      flex-direction: column;
-      width: 100%;
+
+    .site-header {
+      background-image: none;
+      background-color: #fff;
     }
-    .nav-menu--open { display: flex; }
+
+    .nav-inner {
+      align-items: center;
+      flex-wrap: nowrap;
+    }
+
+    /* Shift logo image slightly lower within the bar (same total height → drawer top unchanged) */
+    .nav-logo {
+      padding-top: 12px;
+      padding-bottom: 4px;
+    }
+
+    /* Full-screen drawer overlay */
+    .nav-menu {
+      position: fixed;
+      top: 60px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 100;
+      flex-direction: column;
+      background: var(--color-navy);
+      overflow-y: auto;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(-8px);
+      transition: opacity 180ms ease-out, transform 180ms ease-out;
+    }
+    .nav-menu--open {
+      opacity: 1;
+      pointer-events: auto;
+      transform: none;
+    }
+
     .nav-item { flex: none; }
+
     .nav-link {
       justify-content: flex-start;
-      padding: 0.7rem 1.25rem;
+      padding: 1rem 1.5rem;
+      font-size: 1.05rem;
+      white-space: normal;
     }
-    .nav-inner { align-items: flex-start; padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+    /* Slightly taller active indicator on mobile */
+    .nav-link--active::after {
+      bottom: 6px;
+    }
   }
 </style>
