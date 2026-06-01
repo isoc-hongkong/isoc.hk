@@ -19,7 +19,6 @@ function formatDate(d: string) {
   return new Date(d).toLocaleDateString('en-HK', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 
-const lang = post.lang === 'zh-Hant' ? 'zh-Hant' : post.lang === 'en' ? 'en' : 'zh-Hant';
 const featuredImageUrl = post.featuredImage?.asset
   ? urlFor(post.featuredImage).width(1200).url()
   : undefined;
@@ -29,7 +28,6 @@ const featuredImageUrl = post.featuredImage?.asset
   title={post.title}
   description={post.description || post.excerpt}
   image={featuredImageUrl}
-  lang={lang}
 >
   <div class="page-banner">
     <div class="container">

@@ -3,7 +3,6 @@ interface Props {
   title: string;
   description?: string;
   image?: string;
-  lang?: string;
   canonicalURL?: string;
 }
 
@@ -11,7 +10,6 @@ const {
   title,
   description = 'Internet Society Hong Kong Chapter — promoting the open development and use of the Internet.',
   image,
-  lang = 'zh-Hant',
   canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
 } = Astro.props;
 

@@ -12,3 +12,6 @@ public/external/
 # Local Netlify folder + auto-generated lockfile
 .netlify
 deno.lock
+
+# WordPress backup and migration data (out-of-band; not for the public repo)
+migration/

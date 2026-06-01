@@ -16,13 +16,11 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { stripePlan } = page;
-const lang = page.lang === 'zh-Hant' ? 'zh-Hant' : 'en';
 ---
 
 <PageLayout
   title={page.title}
   description={page.description}
-  lang={lang}
 >
   <div class="page-banner">
     <div class="container">

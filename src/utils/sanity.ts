@@ -15,7 +15,7 @@ export const SITE_SETTINGS_QUERY = defineQuery(`
 `);
 
 export const RECENT_POSTS_QUERY = defineQuery(`
-  *[_type == "post" && draft == false] | order(publishedAt desc) [0...5] {
+  *[_type == "post"] | order(publishedAt desc) [0...5] {
     _id,
     title,
     "slug": slug.current,
@@ -27,7 +27,7 @@ export const RECENT_POSTS_QUERY = defineQuery(`
 `);
 
 export const ALL_POSTS_QUERY = defineQuery(`
-  *[_type == "post" && draft == false] | order(publishedAt desc) {
+  *[_type == "post"] | order(publishedAt desc) {
     _id,
     title,
     "slug": slug.current,
@@ -39,7 +39,7 @@ export const ALL_POSTS_QUERY = defineQuery(`
 `);
 
 export const ALL_POSTS_WITH_BODY_QUERY = defineQuery(`
-  *[_type == "post" && draft == false] {
+  *[_type == "post"] {
     _id,
     title,
     "slug": slug.current,
@@ -47,7 +47,6 @@ export const ALL_POSTS_WITH_BODY_QUERY = defineQuery(`
     modifiedAt,
     excerpt,
     description,
-    lang,
     wpId,
     "categories": categories[]->{ title, "slug": slug.current },
     "tags": tags[]->{ title, "slug": slug.current },
@@ -61,7 +60,7 @@ export const ALL_CATEGORIES_QUERY = defineQuery(`
     _id,
     title,
     "slug": slug.current,
-    "posts": *[_type == "post" && references(^._id) && draft == false] | order(publishedAt desc) {
+    "posts": *[_type == "post" && references(^._id)] | order(publishedAt desc) {
       _id,
       title,
       "slug": slug.current,
@@ -78,7 +77,6 @@ export const ALL_PAGES_QUERY = defineQuery(`
     title,
     "slug": slug.current,
     description,
-    lang,
     body,
     stripePlan,
     "parent": parent->{ title, "slug": slug.current }
